@@ -16,9 +16,9 @@
 |                           | Arithmetic operators                  | 011-Arithmetic operators.ipynb                                 | —                       | ✓    |
 |                           | String methods                        | 012-String methods.ipynb                                       | —                       | ✓    |
 |                           | Comparison<br>and conditionals        | 013-Comparison-Conditionals.ipynb                              | bellevue_almshouse.csv  | ✓    |
-|                           |                                       | [P1_wrap_up_01](presentations/P1_wrap_up_01.excalidraw)        | —                       |      |
+|                           |                                       | [P1_wrap_up_01](presentations/P1_wrap_up_01.excalidraw)        | —                       | ✓    |
 |                           | Collection types, intro               | 014-Collection_types                                           | —                       | ✓    |
-|                           | Lists and loops                       | 015-Lists_and_Loops.ipynb                                      | bellevue_almshouse.csv  |      |
+|                           | Lists and loops                       | 015-Lists_and_Loops.ipynb                                      | bellevue_almshouse.csv  | ✓    |
 |                           | Dictionaries                          | 016-Dictionaries.ipynb                                         | bellevue_almshouse.csv  |      |
 |                           | Sets and tuples                       | 017-Sets-and-tuples.ipynb                                      | bellevue_almshouse.csv  |      |
 |                           | List comprehensions                   | 018-List_comprehension.ipynb                                   | —                       |      |
