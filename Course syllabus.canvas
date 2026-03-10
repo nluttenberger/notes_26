@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"ce272b1f0a7466bf","type":"text","text":"Elementary data types\n\n- integer\n- float\n- boolean\n- string","x":-1840,"y":-1560,"width":250,"height":180,"color":"4"},
+		{"id":"778aac6cdb75c3c4","type":"text","text":"Collection data types\n\n- list\n- dict\n- set\n- tuple","x":-1840,"y":-1160,"width":250,"height":180,"color":"4"},
+		{"id":"1b30b3b1cdb94093","type":"text","text":"Elementary statements\n\n- assignment\n- operators\n- if-then-else-elif","x":-1840,"y":-1360,"width":250,"height":180,"color":"4"},
+		{"id":"4c21f690147d2a97","type":"text","text":"FD graph drawing\n\n- concept\n- graphviz\n- dot language\n- graph-to-dot function","x":-1280,"y":-1160,"width":250,"height":180,"color":"1"},
+		{"id":"35be7ec10d018cce","type":"text","text":"NetworkX\n\n- node, edge data types\n- creating the GoT graph\n- creating the Netflix graph","x":-1280,"y":-1360,"width":250,"height":180,"color":"1"},
+		{"id":"c93de11322a47da5","type":"text","text":"Loops\n\n- for loop\n- loop comprehension","x":-1840,"y":-960,"width":250,"height":180,"color":"4"},
+		{"id":"cd95593b4eefebc3","type":"text","text":"First project\n- lemmatization\n- keyword extraction\n- creating the US Pres Inauguration Addr graph\n","x":-1280,"y":-960,"width":250,"height":180,"color":"1"},
+		{"id":"77774305478fc4c8","type":"text","text":"special","x":-1280,"y":-520,"width":530,"height":60,"color":"1"},
+		{"id":"b7f89f8bcdc9210b","type":"text","text":"intermediate","x":-1560,"y":-520,"width":250,"height":60,"color":"#1128d4"},
+		{"id":"6b3f5f6835b2b283","type":"text","text":"advanced","x":-1560,"y":-440,"width":250,"height":60,"color":"2"},
+		{"id":"5d30df9d16fbea82","type":"text","text":"introductory","x":-1840,"y":-520,"width":250,"height":60,"color":"4"},
+		{"id":"7ea65b611bc085b4","type":"text","text":"Functions\n\n- def/call\n- positional parameters\n- keyword parameters","x":-1560,"y":-960,"width":250,"height":180,"color":"2"},
+		{"id":"5c4faa75d2fafd4b","type":"text","text":"Objects\n\n- def\n-  init and this\n- methods","x":-1560,"y":-760,"width":250,"height":180,"color":"2"},
+		{"id":"8b770a756fde0ecb","type":"text","text":"File I/O\n\n- What is serialization?\n- text files\n- JSON file format\n- file reading/writing","x":-1560,"y":-1160,"width":250,"height":180,"color":"#5364e0"},
+		{"id":"f9aed1bcb743775c","type":"text","text":"Keyboard input\n- reading keyboard input","x":-1560,"y":-1360,"width":250,"height":180,"color":"#1128d4"},
+		{"id":"3a624298f1a1b188","type":"text","text":"Packages\n- packet manager\n- installing packages\n- import statement","x":-1560,"y":-1560,"width":250,"height":180,"color":"#1128d4"},
+		{"id":"1d9ffb3ada766766","type":"text","text":"Intro\n- Course overview\n- Participant introduction\n- Jupyter notebooks","x":-1840,"y":-1760,"width":250,"height":180,"color":"4"},
+		{"id":"071ed0c8f0d1278f","type":"text","text":"Pandas dataframes\n\n- dataframes\n- column/row/element access\n- data clean-up","x":-1280,"y":-1560,"width":250,"height":180,"color":"1"},
+		{"id":"f7c0cdf5a7d95fc4","type":"text","text":"MongoDB\n\n- setup\n- create\n- write\n- select","x":-720,"y":-1160,"width":250,"height":180,"color":"#050505"},
+		{"id":"b059238eba9d6790","type":"text","text":"Scraping websites\n\n- BeautifulSoup\n- small example","x":-720,"y":-960,"width":250,"height":180,"color":"#050505"},
+		{"id":"24aca7a196217535","type":"text","text":"extra","x":-720,"y":-520,"width":250,"height":60,"color":"#050505"},
+		{"id":"e41a380ba9b59e1c","type":"text","text":"SVG\n\n- XML\n- simple examples\n- styling SVG-formatted graphs","x":-720,"y":-1560,"width":250,"height":180,"color":"#050505"},
+		{"id":"6999b89893a4f044","type":"text","text":"GitHub\n- concept\n- create repo\n- desktop app","x":-720,"y":-1360,"width":250,"height":180,"color":"#050505"},
+		{"id":"31c5aa544c04ba96","type":"text","text":"AI intro\n","x":-1000,"y":-1560,"width":250,"height":180,"color":"1"},
+		{"id":"9d8bc2a0cc4b8141","type":"text","text":"LM Studio\n","x":-1000,"y":-1360,"width":250,"height":180,"color":"1"},
+		{"id":"bdbe6bc142371eed","type":"text","text":"Second Project\n","x":-1000,"y":-960,"width":250,"height":180,"color":"1"}
+	],
+	"edges":[]
+}

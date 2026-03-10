@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"b00922c5c7006210","type":"text","text":"Lesson 02","x":-3500,"y":-2360,"width":300,"height":900},
+		{"id":"1077d9d093bb3342","type":"text","text":"Loops\n\n- while loop\n- for loop\n- loop comprehension","x":-3475,"y":-2292,"width":250,"height":180,"color":"4"},
+		{"id":"7e1642472db85db0","type":"text","text":"Lesson 01","x":-3820,"y":-2360,"width":300,"height":900},
+		{"id":"37cb622d895274a4","type":"text","text":"Lesson 03","x":-3180,"y":-2360,"width":300,"height":900},
+		{"id":"7ea65b611bc085b4","type":"text","text":"Functions\n\n- def/call\n- positional parameters\n- keyword parameters","x":-3155,"y":-2292,"width":250,"height":180,"color":"2"},
+		{"id":"5c4faa75d2fafd4b","type":"text","text":"Objects\n\n- def\n-  init and this\n- methods","x":-3155,"y":-2092,"width":250,"height":180,"color":"2"},
+		{"id":"ff62cad898b6596c","type":"text","text":"Lesson 04","x":-2860,"y":-2360,"width":300,"height":900},
+		{"id":"071ed0c8f0d1278f","type":"text","text":"Pandas dataframes\n\n- create dataframe\n- column-wise access\n- row-wise access\n- single element access","x":-2837,"y":-2292,"width":254,"height":180,"color":"1"},
+		{"id":"7f0277e479775ef9","type":"text","text":"Lesson 05","x":-2540,"y":-2357,"width":300,"height":897},
+		{"id":"184946e079ce089b","type":"text","text":"Keyboard input\n- reading keyboard input","x":-3475,"y":-1888,"width":250,"height":180,"color":"#1128d4"},
+		{"id":"6125db6a6bb5111e","type":"text","text":"Packages\n- packet manager\n- installing packages\n- import statement","x":-3475,"y":-2092,"width":250,"height":180,"color":"#1128d4"},
+		{"id":"79ea4b7d5f87c9c0","type":"text","text":"NetworkX\n\n- node, edge data types\n- creating graphs\n- \"degree\" and other terms","x":-2515,"y":-2292,"width":250,"height":180,"color":"1"},
+		{"id":"c431f52f5dd90eaa","type":"text","text":"FD graph drawing\n\n- concept\n- graphviz\n- dot language\n- graph-to-dot function","x":-2515,"y":-2088,"width":250,"height":180,"color":"1"},
+		{"id":"8cca7e778f9cd612","type":"text","text":"File I/O\n\n- What is serialization?\n- text files\n- JSON file format\n- file reading/writing","x":-3475,"y":-1680,"width":250,"height":180,"color":"#5364e0"},
+		{"id":"61507638c030cea0","type":"text","text":"Lesson 06","x":-2220,"y":-2357,"width":300,"height":897},
+		{"id":"ed3e5e80b2ef92a5","type":"text","text":"First project\n\n- lemmatization\n- keyword extraction\n- graph construction\n- graph drawing","x":-2195,"y":-2292,"width":250,"height":180,"color":"1"},
+		{"id":"5698df0573788bb4","type":"text","text":"First project\n\n- lemmatization\n- keyword extraction\n- graph construction\n- graph drawing","x":-1875,"y":-2292,"width":250,"height":180,"color":"1"},
+		{"id":"f4d3e9b94c9a1604","type":"text","text":"Lesson 07","x":-1900,"y":-2357,"width":300,"height":897},
+		{"id":"d7b87286d3b857c0","type":"text","text":"First project\n\n- lemmatization\n- keyword extraction\n- graph construction\n- graph drawing","x":-1555,"y":-2295,"width":250,"height":180,"color":"1"},
+		{"id":"f41b51688a1ac6e3","type":"text","text":"Lesson 08","x":-1580,"y":-2360,"width":300,"height":897},
+		{"id":"965300ca5f3fde7c","type":"text","text":"AI intro\n","x":-1875,"y":-2292,"width":250,"height":180,"color":"1"},
+		{"id":"d78e1e7d0088dc6f","type":"text","text":"LM Studio\n","x":-1875,"y":-2092,"width":250,"height":180,"color":"1"},
+		{"id":"3aace25f02eca655","type":"text","text":"Second Project\n","x":-1555,"y":-2295,"width":250,"height":180,"color":"1"},
+		{"id":"568d77d7df8c0a31","type":"text","text":"Collection data types\n\n- list\n- dict\n- set\n- tuple","x":-3795,"y":-1680,"width":250,"height":180,"color":"4"},
+		{"id":"5b00dec77797cbe6","type":"text","text":"Elementary statements\n\n- assignment\n- operators\n- if-then-else-elif","x":-3795,"y":-1888,"width":250,"height":180,"color":"4"},
+		{"id":"fc4e256d89f5c34e","type":"text","text":"Elementary data types\n\n- integer\n- float\n- boolean\n- string","x":-3795,"y":-2092,"width":250,"height":180,"color":"4"},
+		{"id":"35f504e3e166b480","type":"text","text":"Intro\n- Course overview\n- Participant introduction\n- Jupyter notebooks","x":-3795,"y":-2292,"width":250,"height":180,"color":"4"}
+	],
+	"edges":[]
+}
