@@ -19,10 +19,10 @@
 |                           |                                       | [P1_wrap_up_01](presentations/P1_wrap_up_01.excalidraw)        | —                       | ✓    |
 |                           | Collection types, intro               | 014-Collection_types                                           | —                       | ✓    |
 |                           | Lists and loops                       | 015-Lists_and_Loops.ipynb                                      | bellevue_almshouse.csv  | ✓    |
-|                           | Dictionaries                          | 016-Dictionaries.ipynb                                         | bellevue_almshouse.csv  |      |
-|                           | Sets and tuples                       | 017-Sets-and-tuples.ipynb                                      | bellevue_almshouse.csv  |      |
-|                           | List comprehensions                   | 018-List_comprehension.ipynb                                   | —                       |      |
-|                           |                                       | P1_wrap_up_02                                                  | —                       |      |
+|                           | Dictionaries                          | 016-Dictionaries.ipynb                                         | bellevue_almshouse.csv  | ✓    |
+|                           | Sets and tuples                       | 017-Sets-and-tuples.ipynb                                      | bellevue_almshouse.csv  | ✓    |
+|                           | List comprehensions                   | 018-List_comprehension.ipynb                                   | —                       | ✓    |
+|                           |                                       | [P1_wrap_up_02](presentations/P1_wrap_up_02.excalidraw)                                                  | —                       |      |
 | **Input, output**         |                                       |                                                                |                         |      |
 |                           | Keyboard input                        | 020-Keyboard_input.ipynb                                       | —                       |      |
 |                           | File I/O                              | 021-Files.ipynb                                                | sample_file.txt         |      |
