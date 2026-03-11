@@ -17,15 +17,15 @@
 |                           | String methods                        | 012-String methods.ipynb                                       | —                       | ✓    |
 |                           | Comparison<br>and conditionals        | 013-Comparison-Conditionals.ipynb                              | bellevue_almshouse.csv  | ✓    |
 |                           |                                       | [P1_wrap_up_01](presentations/P1_wrap_up_01.excalidraw)        | —                       | ✓    |
-|                           | Collection types, intro               | 014-Collection_types                                           | —                       | ✓    |
+|                           | List data types                       | 014-list_data_types                                            | —                       | ✓    |
 |                           | Lists and loops                       | 015-Lists_and_Loops.ipynb                                      | bellevue_almshouse.csv  | ✓    |
 |                           | Dictionaries                          | 016-Dictionaries.ipynb                                         | bellevue_almshouse.csv  | ✓    |
 |                           | Sets and tuples                       | 017-Sets-and-tuples.ipynb                                      | bellevue_almshouse.csv  | ✓    |
-|                           | List comprehensions                   | 018-List_comprehension.ipynb                                   | —                       | ✓    |
-|                           |                                       | [P1_wrap_up_02](presentations/P1_wrap_up_02.excalidraw)                                                  | —                       |      |
+|                           | Loop comprehensions                   | 018-Loop_comprehension.ipynb                                   | —                       | ✓    |
+|                           |                                       | [P1_wrap_up_02](presentations/P1_wrap_up_02.excalidraw)        | —                       | ✓    |
 | **Input, output**         |                                       |                                                                |                         |      |
-|                           | Keyboard input                        | 020-Keyboard_input.ipynb                                       | —                       |      |
-|                           | File I/O                              | 021-Files.ipynb                                                | sample_file.txt         |      |
+|                           | Keyboard input                        | 020-Keyboard_input.ipynb                                       | —                       | ✓    |
+|                           | File I/O                              | 021-Files.ipynb                                                | sample_file.txt         | ✓    |
 | **Functions and objects** |                                       |                                                                |                         |      |
 |                           | Functions                             | 030-Functions.ipynb                                            | —                       |      |
 |                           | Classes and objects                   | 040-Classes_and_objects.ipynb                                  | —                       |      |
