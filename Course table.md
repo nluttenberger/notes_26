@@ -27,11 +27,11 @@
 |                           | Keyboard input                        | 020-Keyboard_input.ipynb                                       | —                       | ✓    |
 |                           | File I/O                              | 021-Files.ipynb                                                | sample_file.txt         | ✓    |
 | **Functions and objects** |                                       |                                                                |                         |      |
-|                           | Functions                             | 030-Functions.ipynb                                            | —                       |      |
-|                           | Classes and objects                   | 040-Classes_and_objects.ipynb                                  | —                       |      |
-|                           |                                       | P1_wrap_up_03                                                  |                         |      |
-| **Packet management**     |                                       |                                                                |                         |      |
-|                           | Packages                              |                                                                |                         |      |
+|                           | Functions                             | 030-Functions.ipynb                                            | —                       | ✓    |
+|                           | Classes and objects                   | 040-Classes_and_objects.ipynb                                  | —                       | ✓    |
+|                           |                                       | [P1_wrap_up_03](presentations/P1_wrap_up_03.excalidraw)        |                         | ✓    |
+| **Module management**     |                                       |                                                                |                         |      |
+|                           | Modules                               | [050-Modules](presentations/050-Modules.excalidraw)            | —                       | ✓    |
 | **2D data**               |                                       |                                                                |                         |      |
 |                           | Pandas-1                              | 061-Pandas-Basics.ipynb                                        |                         |      |
 | **P-2**                   |                                       |                                                                |                         |      |
@@ -46,10 +46,9 @@
 |                           |                                       | [nlp, tf-idf, bipartite graphs]()                              |                         |      |
 |                           | Creating graphs 3                     | 100-Graph_for_InaugAddr.ipynb                                  | US Pres Inaug Addresses |      |
 |                           | Graph styling                         |                                                                |                         |      |
-|                           |                                       |                                                                |                         |      |
-|                           |                                       |                                                                |                         |      |
+| **Bonus**                 |                                       |                                                                |                         |      |
+|                           | Scraping                              |                                                                |                         |      |
 |                           | SVG                                   |                                                                |                         |      |
 |                           | Git and GitHub                        |                                                                |                         |      |
 |                           | MongoDB                               |                                                                |                         |      |
-|                           | Scraping                              |                                                                |                         |      |
 
