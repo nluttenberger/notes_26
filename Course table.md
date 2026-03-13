@@ -36,19 +36,19 @@
 |                           | Pandas-1                              | 061-Pandas-Basics.ipynb                                                   | bellevue_almshouse.csv                  | ✓    |
 | **P-2**                   |                                       |                                                                           |                                         |      |
 |                           | Pandas-2                              | 062-Pandas-Basics.ipynb                                                   | Trans-Atlantic-Slave-Trade_Americas.csv | ✓    |
-|                           |                                       | [P2_wrap_up_01](presentations/P2_wrap_up_01.excalidraw)                   |                                         | ✓    |
+|                           | Pandas-3                              | 063-Pandas-Clean_up.ipynb                                                 | Netflix Streaming                       |      |
+|                           |                                       | [P2_wrap_up_01](presentations/P2_wrap_up_01.excalidraw)                   |                                         |      |
 | **Graphs**                |                                       |                                                                           |                                         |      |
-|                           |                                       | [intro to graphs]()                                                    |                                         |      |
+|                           |                                       | [Graph theory](file:///c:/users/nlutt/mydgnet/methods_26/pres_26/graph_theory.pptx)                                                       |                                         |      |
 |                           | NetworkX                              | 070-NetworkX_intro.ipynb                                                  |                                         |      |
 |                           | Creating graphs 1                     |                                                                           | Game of Thrones                         |      |
-|                           | Cleaning data                         | 063-Pandas-Clean_up.ipynb                                                 | Netflix Streaming                       |      |
 |                           | Creating graphs 2                     |                                                                           | Netflix Streaming                       |      |
 |                           |                                       | [nlp, tf-idf, bipartite graphs]()                                         |                                         |      |
 |                           | Creating graphs 3                     | 100-Graph_for_InaugAddr.ipynb                                             | US Pres Inaug Addresses                 |      |
 |                           | Graph styling                         |                                                                           |                                         |      |
 | **Bonus**                 |                                       |                                                                           |                                         |      |
-|                           | Scraping                              |                                                                           |                                         |      |
-|                           | SVG                                   |                                                                           |                                         |      |
+|                           | Web scraping                          |                                                                           |                                         |      |
 |                           | Git and GitHub                        |                                                                           |                                         |      |
 |                           | MongoDB                               |                                                                           |                                         |      |
+|                           | SVG                                   |                                                                           |                                         |      |
 
