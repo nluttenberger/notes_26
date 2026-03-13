@@ -36,9 +36,9 @@
 |                           | Pandas-1                              | 061-Pandas-Basics.ipynb                                                   | bellevue_almshouse.csv                  | ✓    |
 | **P-2**                   |                                       |                                                                           |                                         |      |
 |                           | Pandas-2                              | 062-Pandas-Basics.ipynb                                                   | Trans-Atlantic-Slave-Trade_Americas.csv | ✓    |
-|                           |                                       | P2-wrap_up_01                                                             |                                         |      |
+|                           |                                       | [P2_wrap_up_01](presentations/P2_wrap_up_01.excalidraw)                   |                                         | ✓    |
 | **Graphs**                |                                       |                                                                           |                                         |      |
-|                           |                                       | [what about graphs?]()                                                    |                                         |      |
+|                           |                                       | [intro to graphs]()                                                    |                                         |      |
 |                           | NetworkX                              | 070-NetworkX_intro.ipynb                                                  |                                         |      |
 |                           | Creating graphs 1                     |                                                                           | Game of Thrones                         |      |
 |                           | Cleaning data                         | 063-Pandas-Clean_up.ipynb                                                 | Netflix Streaming                       |      |
