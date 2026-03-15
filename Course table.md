@@ -30,8 +30,8 @@
 |                           | Functions                             | 030-Functions.ipynb                                                                 | —                                       | ✓    |
 |                           | Classes and objects                   | 040-Classes_and_objects.ipynb                                                       | —                                       | ✓    |
 |                           |                                       | [P1_wrap_up_03](presentations/P1_wrap_up_03.excalidraw)                             |                                         | ✓    |
-| **Module management**     |                                       |                                                                                     |                                         |      |
-|                           | Modules                               | [050-Package Management](presentations/050-package_management.excalidraw)           | —                                       | ✓    |
+| **Package management**    |                                       |                                                                                     |                                         |      |
+|                           | Package management                    | [050-Package Management](presentations/050-package_management.excalidraw)           | —                                       | ✓    |
 | **2D data**               |                                       |                                                                                     |                                         |      |
 |                           | Pandas-1                              | 061-Pandas-Basics.ipynb                                                             | bellevue_almshouse.csv                  | ✓    |
 | **P-2**                   |                                       |                                                                                     |                                         |      |
@@ -41,7 +41,7 @@
 | **Graphs**                |                                       |                                                                                     |                                         |      |
 |                           |                                       | [Graph theory](file:///c:/users/nlutt/mydgnet/methods_26/pres_26/graph_theory.pptx) |                                         | ✓    |
 |                           | NetworkX                              | 070-NetworkX_intro.ipynb                                                            |                                         | ✓    |
-|                           | GoT graph                             | 071-GoT_graph.ipynb                                                                 | Game of Thrones                         |      |
+|                           | GoT graph                             | 071-GoT_graph.ipynb                                                                 | Game of Thrones                         | ✓    |
 |                           |                                       | [Bipartite graphs and graph projection]()                                           |                                         |      |
 |                           | Netflix graph                         | 072-Netflix_graphs.ipynb                                                            | Netflix Streaming                       |      |
 |                           |                                       | [NLP and keyword extraction]()                                                      |                                         |      |
