@@ -39,13 +39,13 @@
 |                           | Pandas-3                              | 063-Pandas-Clean_up.ipynb                                                           | Netflix Streaming                       | ✓    |
 |                           |                                       | [P2_wrap_up_01](presentations/P2_wrap_up_01.excalidraw)                             |                                         |      |
 | **Graphs**                |                                       |                                                                                     |                                         |      |
-|                           |                                       | [Graph theory](file:///c:/users/nlutt/mydgnet/methods_26/pres_26/graph_theory.pptx) |                                         | ✓    |
+|                           |                                       | [Graph theory](file:///c:/users/nlutt/mydgnet/methods_26/pres_26/graph_theory.pptx) |                                         |      |
 |                           | NetworkX                              | 070-NetworkX_intro.ipynb                                                            |                                         | ✓    |
 |                           | GoT graph                             | 071-GoT_graph.ipynb                                                                 | Game of Thrones                         | ✓    |
 |                           |                                       | [Bipartite graphs and graph projection]()                                           |                                         |      |
-|                           | Netflix graph                         | 072-Netflix_graphs.ipynb                                                            | Netflix Streaming                       |      |
+|                           | Netflix graph                         | 072-Netflix_graphs.ipynb                                                            | Netflix Streaming                       | ✓    |
 |                           |                                       | [NLP and keyword extraction]()                                                      |                                         |      |
-|                           | Inaug addr graph                      | 073-InaugAddr_graphs.ipynb                                                          | US Pres Inaug Addresses                 |      |
+|                           | Inaug addr graph                      | 073-InaugAddr_graphs.ipynb                                                          | US Pres Inauguration Addresses          |      |
 |                           | Graph styling                         | 080-Graph_drawing.ipynb                                                             |                                         |      |
 | **Bonus**                 |                                       |                                                                                     |                                         |      |
 |                           | Web scraping                          |                                                                                     |                                         |      |
