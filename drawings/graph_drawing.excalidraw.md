@@ -36,7 +36,7 @@ a3135fbfbd3fd08ebc4b760e958fcb90ef2c93db: [[circular.svg]]
 
 dad3f285158d90c2ef0540628728e005a45bf78d: [[bipartite.svg]]
 
-2b1fb74878d151d7e5b432470ee3199936ce33b2: [[Pasted Image 20260407173340_100.png]]
+2b1fb74878d151d7e5b432470ee3199936ce33b2: [[pointer.png]]
 
 %%
 ## Drawing
