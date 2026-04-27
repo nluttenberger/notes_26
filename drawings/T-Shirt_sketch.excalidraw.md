@@ -15,7 +15,7 @@ We can print graphs on t-shirts. ^5lAVHcld
 ## Embedded Files
 5378125c328a299bf00cb86b6261fb31ca62b5ea: [[t-shirt graph.png]]
 
-b78ef36c465dac1d8960a46264f3040a86088988: [[t-shirt blue.png]]
+b78ef36c465dac1d8960a46264f3040a86088988: [[t-shirt blue 1.png]]
 
 %%
 ## Drawing
