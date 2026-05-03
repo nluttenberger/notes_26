@@ -1,0 +1,4404 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8573pt" height="7728pt" viewBox="0.00 0.00 8572.59 7727.66">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 7723.66)">
+<polygon fill="white" stroke="none" points="-4,4 -4,-7723.66 8568.59,-7723.66 8568.59,4 -4,4"/>
+<text text-anchor="start" x="8" y="-7640.66" font-family="Arial" font-size="80.00">Keywords of the US Presidential Inauguration Addresses 1789 - 2017</text>
+<text text-anchor="start" x="8" y="-7499.66" font-family="Arial" font-size="60.00">keyword tf-idf score &gt;= 0.14, 153 nodes, 604 edges, graph density: 5.2%, node coloring: year</text>
+<!-- arrive&#45;&#45;incur -->
+<g id="arrive--incur" class="edge">
+<title>arrive--incur</title>
+<path fill="none" stroke="black" d="M7566.94,-119.85C7655.86,-145.23 7790.2,-183.57 7875.67,-207.96"/>
+</g>
+<!-- arrive&#45;&#45;distinguished -->
+<g id="arrive--distinguished" class="edge">
+<title>arrive--distinguished</title>
+<path fill="none" stroke="black" d="M7515.52,-179.57C7588.18,-338.06 7745.11,-680.4 7842.22,-892.23"/>
+</g>
+<!-- arrive&#45;&#45;willingly -->
+<g id="arrive--willingly" class="edge">
+<title>arrive--willingly</title>
+<path fill="none" stroke="black" d="M7417.73,-167.56C7243.47,-386.54 6726.97,-1035.57 6511.44,-1306.4"/>
+</g>
+<!-- arrive&#45;&#45;oath -->
+<g id="arrive--oath" class="edge">
+<title>arrive--oath</title>
+<path fill="none" stroke="black" d="M7401.59,-151.18C7217.67,-291.99 6741.44,-656.61 6513.98,-830.76"/>
+</g>
+<!-- arrive&#45;&#45;magistrate -->
+<g id="arrive--magistrate" class="edge">
+<title>arrive--magistrate</title>
+<path fill="none" stroke="black" d="M7426.92,-174.33C7366.86,-272.08 7264.46,-438.74 7191.48,-557.52"/>
+</g>
+<!-- arrive&#45;&#45;upbraiding -->
+<g id="arrive--upbraiding" class="edge">
+<title>arrive--upbraiding</title>
+<path fill="none" stroke="black" d="M7490.74,-187.3C7526.15,-415.95 7617.94,-1008.6 7667.05,-1325.69"/>
+</g>
+<!-- arrive&#45;&#45;official -->
+<g id="arrive--official" class="edge">
+<title>arrive--official</title>
+<path fill="none" stroke="black" d="M7436.93,-179.59C7302.7,-471.55 6863.23,-1427.44 6718.36,-1742.54"/>
+</g>
+<!-- arrive&#45;&#45;violate -->
+<g id="arrive--violate" class="edge">
+<title>arrive--violate</title>
+<path fill="none" stroke="black" d="M7458.63,-186.77C7407.96,-453.01 7262.41,-1217.82 7210.28,-1491.77"/>
+</g>
+<!-- arrive&#45;&#45;instance -->
+<g id="arrive--instance" class="edge">
+<title>arrive--instance</title>
+<path fill="none" stroke="black" d="M7389.95,-131.72C7230.02,-201.62 6887.67,-351.24 6708.04,-429.75"/>
+</g>
+<!-- arrive&#45;&#45;ceremony -->
+<g id="arrive--ceremony" class="edge">
+<title>arrive--ceremony</title>
+<path fill="none" stroke="black" d="M7458.92,-186.71C7398.85,-507.5 7199.46,-1572.19 7124.97,-1969.97"/>
+</g>
+<!-- arrive&#45;&#45;knowingly -->
+<g id="arrive--knowingly" class="edge">
+<title>arrive--knowingly</title>
+<path fill="none" stroke="black" d="M7499.18,-185.58C7519.68,-267.57 7550.28,-389.99 7575.39,-490.47"/>
+</g>
+<!-- arrive&#45;&#45;execution -->
+<g id="arrive--execution" class="edge">
+<title>arrive--execution</title>
+<path fill="none" stroke="black" d="M7524.42,-175.01C7667.33,-415.61 8090.03,-1127.26 8263.92,-1420.01"/>
+</g>
+<!-- arrive&#45;&#45;punishment -->
+<g id="arrive--punishment" class="edge">
+<title>arrive--punishment</title>
+<path fill="none" stroke="black" d="M7431.92,-177.28C7337.1,-355.26 7113.38,-775.23 6990.04,-1006.75"/>
+</g>
+<!-- arrive&#45;&#45;previous -->
+<g id="arrive--previous" class="edge">
+<title>arrive--previous</title>
+<path fill="none" stroke="black" d="M7504.15,-183.99C7596.16,-481.15 7890.83,-1432.92 8004.59,-1800.35"/>
+</g>
+<!-- arrive&#45;&#45;witness -->
+<g id="arrive--witness" class="edge">
+<title>arrive--witness</title>
+<path fill="none" stroke="black" d="M7556.83,-143.31C7707.24,-235.43 8030.21,-433.23 8192.28,-532.48"/>
+</g>
+<!-- arrive&#45;&#45;injunction -->
+<g id="arrive--injunction" class="edge">
+<title>arrive--injunction</title>
+<path fill="none" stroke="black" d="M7481.53,-188.18C7499.48,-510.78 7558.61,-1573.33 7581,-1975.6"/>
+</g>
+<!-- arrive&#45;&#45;repose -->
+<g id="arrive--repose" class="edge">
+<title>arrive--repose</title>
+<path fill="none" stroke="black" d="M7543.4,-160.32C7719.96,-334.84 8196.62,-805.98 8382.54,-989.75"/>
+</g>
+<!-- arrive&#45;&#45;entertain -->
+<g id="arrive--entertain" class="edge">
+<title>arrive--entertain</title>
+<path fill="none" stroke="black" d="M7383.04,-107.58C7309.47,-118.3 7205.96,-133.4 7124,-145.34"/>
+</g>
+<!-- incur&#45;&#45;willingly -->
+<g id="incur--willingly" class="edge">
+<title>incur--willingly</title>
+<path fill="none" stroke="black" d="M7890.51,-282.49C7653.67,-466.27 6846.46,-1092.65 6537.21,-1332.62"/>
+</g>
+<!-- incur&#45;&#45;oath -->
+<g id="incur--oath" class="edge">
+<title>incur--oath</title>
+<path fill="none" stroke="black" d="M7879.82,-265.2C7632.69,-374.79 6856.23,-719.1 6532.94,-862.46"/>
+</g>
+<!-- incur&#45;&#45;magistrate -->
+<g id="incur--magistrate" class="edge">
+<title>incur--magistrate</title>
+<path fill="none" stroke="black" d="M7882.73,-271.6C7741.64,-348.81 7431.98,-518.28 7249.12,-618.36"/>
+</g>
+<!-- incur&#45;&#45;upbraiding -->
+<g id="incur--upbraiding" class="edge">
+<title>incur--upbraiding</title>
+<path fill="none" stroke="black" d="M7940.43,-313.52C7900.63,-514.68 7797.58,-1035.55 7739.86,-1327.31"/>
+</g>
+<!-- incur&#45;&#45;official -->
+<g id="incur--official" class="edge">
+<title>incur--official</title>
+<path fill="none" stroke="black" d="M7904.17,-297.09C7701.53,-551.44 6971.09,-1468.34 6741.29,-1756.79"/>
+</g>
+<!-- incur&#45;&#45;violate -->
+<g id="incur--violate" class="edge">
+<title>incur--violate</title>
+<path fill="none" stroke="black" d="M7915.59,-304.2C7785.27,-535.75 7381.9,-1252.43 7240.78,-1503.17"/>
+</g>
+<!-- incur&#45;&#45;instance -->
+<g id="incur--instance" class="edge">
+<title>incur--instance</title>
+<path fill="none" stroke="black" d="M7873.72,-246.25C7642.57,-288.46 6990.66,-407.52 6716.5,-457.58"/>
+</g>
+<!-- incur&#45;&#45;knowingly -->
+<g id="incur--knowingly" class="edge">
+<title>incur--knowingly</title>
+<path fill="none" stroke="black" d="M7905.04,-297.32C7858.36,-357.14 7788.09,-447.15 7728.87,-523.02"/>
+</g>
+<!-- incur&#45;&#45;punishment -->
+<g id="incur--punishment" class="edge">
+<title>incur--punishment</title>
+<path fill="none" stroke="black" d="M7893.69,-287.17C7726.69,-435.73 7269.99,-841.97 7040.36,-1046.23"/>
+</g>
+<!-- incur&#45;&#45;previous -->
+<g id="incur--previous" class="edge">
+<title>incur--previous</title>
+<path fill="none" stroke="black" d="M7961.32,-315.31C7976.07,-586.81 8022.54,-1441.81 8041.66,-1793.55"/>
+</g>
+<!-- incur&#45;&#45;witness -->
+<g id="incur--witness" class="edge">
+<title>incur--witness</title>
+<path fill="none" stroke="black" d="M8013.9,-293.11C8068.67,-352.54 8151.73,-442.66 8212.29,-508.38"/>
+</g>
+<!-- incur&#45;&#45;injunction -->
+<g id="incur--injunction" class="edge">
+<title>incur--injunction</title>
+<path fill="none" stroke="black" d="M7940.73,-313.98C7884.2,-606.76 7693.32,-1595.17 7619.33,-1978.28"/>
+</g>
+<!-- incur&#45;&#45;repose -->
+<g id="incur--repose" class="edge">
+<title>incur--repose</title>
+<path fill="none" stroke="black" d="M8000.15,-303.24C8091.35,-454.81 8302.7,-806.06 8403.23,-973.13"/>
+</g>
+<!-- distinguished&#45;&#45;incur -->
+<g id="distinguished--incur" class="edge">
+<title>distinguished--incur</title>
+<path fill="none" stroke="black" d="M7932.51,-874.16C7939.2,-696.49 7948.69,-444.78 7953.57,-315.27"/>
+</g>
+<!-- distinguished&#45;&#45;willingly -->
+<g id="distinguished--willingly" class="edge">
+<title>distinguished--willingly</title>
+<path fill="none" stroke="black" d="M7731.51,-1118.26C7426.67,-1189.82 6841.04,-1327.29 6565.54,-1391.96"/>
+</g>
+<!-- distinguished&#45;&#45;oath -->
+<g id="distinguished--oath" class="edge">
+<title>distinguished--oath</title>
+<path fill="none" stroke="black" d="M7727.03,-1053.92C7417.87,-1024.37 6826.82,-967.88 6545.61,-941"/>
+</g>
+<!-- distinguished&#45;&#45;magistrate -->
+<g id="distinguished--magistrate" class="edge">
+<title>distinguished--magistrate</title>
+<path fill="none" stroke="black" d="M7744.26,-989.83C7597.16,-922.27 7392.08,-828.1 7254.45,-764.89"/>
+</g>
+<!-- distinguished&#45;&#45;upbraiding -->
+<g id="distinguished--upbraiding" class="edge">
+<title>distinguished--upbraiding</title>
+<path fill="none" stroke="black" d="M7837.37,-1251.42C7822.37,-1281.99 7806.74,-1313.84 7791.61,-1344.66"/>
+</g>
+<!-- distinguished&#45;&#45;official -->
+<g id="distinguished--official" class="edge">
+<title>distinguished--official</title>
+<path fill="none" stroke="black" d="M7755.65,-1177.08C7488.58,-1341.46 6978.27,-1655.54 6766.91,-1785.62"/>
+</g>
+<!-- distinguished&#45;&#45;violate -->
+<g id="distinguished--violate" class="edge">
+<title>distinguished--violate</title>
+<path fill="none" stroke="black" d="M7762.66,-1187.49C7611.36,-1294.33 7391.87,-1449.32 7273.87,-1532.65"/>
+</g>
+<!-- distinguished&#45;&#45;instance -->
+<g id="distinguished--instance" class="edge">
+<title>distinguished--instance</title>
+<path fill="none" stroke="black" d="M7743.24,-991.99C7464.44,-867.98 6939.24,-634.39 6707.47,-531.3"/>
+</g>
+<!-- distinguished&#45;&#45;knowingly -->
+<g id="distinguished--knowingly" class="edge">
+<title>distinguished--knowingly</title>
+<path fill="none" stroke="black" d="M7805.74,-913.62C7779.46,-878.54 7751.78,-841.59 7726,-807.18"/>
+</g>
+<!-- distinguished&#45;&#45;execution -->
+<g id="distinguished--execution" class="edge">
+<title>distinguished--execution</title>
+<path fill="none" stroke="black" d="M8055.73,-1222.53C8116.07,-1291.63 8186.49,-1372.27 8242.14,-1436"/>
+</g>
+<!-- distinguished&#45;&#45;punishment -->
+<g id="distinguished--punishment" class="edge">
+<title>distinguished--punishment</title>
+<path fill="none" stroke="black" d="M7727.09,-1091.08C7541.22,-1108.2 7265.5,-1133.61 7085.45,-1150.2"/>
+</g>
+<!-- distinguished&#45;&#45;previous -->
+<g id="distinguished--previous" class="edge">
+<title>distinguished--previous</title>
+<path fill="none" stroke="black" d="M7953.14,-1269.56C7975.89,-1428.66 8007.45,-1649.42 8028.28,-1795.13"/>
+</g>
+<!-- distinguished&#45;&#45;witness -->
+<g id="distinguished--witness" class="edge">
+<title>distinguished--witness</title>
+<path fill="none" stroke="black" d="M8045.03,-914.35C8103.37,-837.29 8171.38,-747.48 8220.78,-682.24"/>
+</g>
+<!-- distinguished&#45;&#45;injunction -->
+<g id="distinguished--injunction" class="edge">
+<title>distinguished--injunction</title>
+<path fill="none" stroke="black" d="M7864.97,-1262.46C7799.68,-1468.65 7696.68,-1793.91 7636.92,-1982.65"/>
+</g>
+<!-- distinguished&#45;&#45;repose -->
+<g id="distinguished--repose" class="edge">
+<title>distinguished--repose</title>
+<path fill="none" stroke="black" d="M8123.58,-1069.77C8200.86,-1068.58 8286.33,-1067.26 8351.55,-1066.25"/>
+</g>
+<!-- distinguished&#45;&#45;entertain -->
+<g id="distinguished--entertain" class="edge">
+<title>distinguished--entertain</title>
+<path fill="none" stroke="black" d="M7782.65,-934.14C7590.14,-746.59 7252.04,-417.21 7087.69,-257.1"/>
+</g>
+<!-- willingly&#45;&#45;witness -->
+<g id="willingly--witness" class="edge">
+<title>willingly--witness</title>
+<path fill="none" stroke="black" d="M6556.14,-1364.44C6917.14,-1203.51 7869.29,-779.05 8185.49,-638.1"/>
+</g>
+<!-- oath&#45;&#45;willingly -->
+<g id="oath--willingly" class="edge">
+<title>oath--willingly</title>
+<path fill="none" stroke="black" d="M6397.54,-1082.59C6400.67,-1143.33 6404.24,-1212.7 6407.35,-1273.2"/>
+</g>
+<!-- oath&#45;&#45;upbraiding -->
+<g id="oath--upbraiding" class="edge">
+<title>oath--upbraiding</title>
+<path fill="none" stroke="black" d="M6531.82,-992.05C6768.61,-1101.78 7243.57,-1321.9 7508.85,-1444.84"/>
+</g>
+<!-- oath&#45;&#45;official -->
+<g id="oath--official" class="edge">
+<title>oath--official</title>
+<path fill="none" stroke="black" d="M6435.51,-1075.91C6492.63,-1261.83 6588.61,-1574.24 6638.78,-1737.54"/>
+</g>
+<!-- oath&#45;&#45;violate -->
+<g id="oath--violate" class="edge">
+<title>oath--violate</title>
+<path fill="none" stroke="black" d="M6509.97,-1025.97C6676.78,-1164.25 6973.34,-1410.1 7113.68,-1526.43"/>
+</g>
+<!-- oath&#45;&#45;punishment -->
+<g id="oath--punishment" class="edge">
+<title>oath--punishment</title>
+<path fill="none" stroke="black" d="M6531.64,-992.51C6596.28,-1022.72 6673.15,-1058.64 6740.27,-1090"/>
+</g>
+<!-- oath&#45;&#45;previous -->
+<g id="oath--previous" class="edge">
+<title>oath--previous</title>
+<path fill="none" stroke="black" d="M6522.91,-1008.12C6835.04,-1200.02 7609.75,-1676.33 7919.23,-1866.61"/>
+</g>
+<!-- oath&#45;&#45;witness -->
+<g id="oath--witness" class="edge">
+<title>oath--witness</title>
+<path fill="none" stroke="black" d="M6543.74,-898.94C6915.36,-833.56 7853.4,-668.53 8177.24,-611.56"/>
+</g>
+<!-- oath&#45;&#45;repose -->
+<g id="oath--repose" class="edge">
+<title>oath--repose</title>
+<path fill="none" stroke="black" d="M6545.82,-936.55C6948.12,-963.49 8011.31,-1034.67 8351.77,-1057.47"/>
+</g>
+<!-- magistrate&#45;&#45;willingly -->
+<g id="magistrate--willingly" class="edge">
+<title>magistrate--willingly</title>
+<path fill="none" stroke="black" d="M6993.84,-815.29C6863.29,-953.38 6649.25,-1179.76 6521.35,-1315.05"/>
+</g>
+<!-- magistrate&#45;&#45;oath -->
+<g id="magistrate--oath" class="edge">
+<title>magistrate--oath</title>
+<path fill="none" stroke="black" d="M6950.5,-746.47C6828.37,-785.58 6659.35,-839.69 6538.82,-878.27"/>
+</g>
+<!-- magistrate&#45;&#45;upbraiding -->
+<g id="magistrate--upbraiding" class="edge">
+<title>magistrate--upbraiding</title>
+<path fill="none" stroke="black" d="M7200.29,-829.68C7302.52,-973.83 7466,-1204.31 7577.76,-1361.87"/>
+</g>
+<!-- magistrate&#45;&#45;official -->
+<g id="magistrate--official" class="edge">
+<title>magistrate--official</title>
+<path fill="none" stroke="black" d="M7048.17,-849.39C6958.47,-1086.36 6788.07,-1536.54 6711.08,-1739.93"/>
+</g>
+<!-- magistrate&#45;&#45;violate -->
+<g id="magistrate--violate" class="edge">
+<title>magistrate--violate</title>
+<path fill="none" stroke="black" d="M7121.51,-859.41C7139.09,-1043.35 7167.16,-1337.1 7181.81,-1490.38"/>
+</g>
+<!-- magistrate&#45;&#45;punishment -->
+<g id="magistrate--punishment" class="edge">
+<title>magistrate--punishment</title>
+<path fill="none" stroke="black" d="M7041.75,-846.75C7020.87,-895.53 6997.58,-949.95 6976.21,-999.88"/>
+</g>
+<!-- magistrate&#45;&#45;previous -->
+<g id="magistrate--previous" class="edge">
+<title>magistrate--previous</title>
+<path fill="none" stroke="black" d="M7204.32,-826.97C7387.55,-1069.65 7778.73,-1587.73 7957.46,-1824.44"/>
+</g>
+<!-- magistrate&#45;&#45;witness -->
+<g id="magistrate--witness" class="edge">
+<title>magistrate--witness</title>
+<path fill="none" stroke="black" d="M7268.63,-682.29C7512.2,-660.71 7965.52,-620.54 8176.19,-601.87"/>
+</g>
+<!-- magistrate&#45;&#45;repose -->
+<g id="magistrate--repose" class="edge">
+<title>magistrate--repose</title>
+<path fill="none" stroke="black" d="M7263.41,-739.54C7543.34,-815.69 8120.29,-972.65 8355.27,-1036.58"/>
+</g>
+<!-- upbraiding&#45;&#45;willingly -->
+<g id="upbraiding--willingly" class="edge">
+<title>upbraiding--willingly</title>
+<path fill="none" stroke="black" d="M7490.02,-1515.8C7231.74,-1494.51 6798.48,-1458.81 6568.89,-1439.89"/>
+</g>
+<!-- upbraiding&#45;&#45;violate -->
+<g id="upbraiding--violate" class="edge">
+<title>upbraiding--violate</title>
+<path fill="none" stroke="black" d="M7490.81,-1556.77C7421.97,-1564.61 7348.52,-1572.98 7291.6,-1579.46"/>
+</g>
+<!-- upbraiding&#45;&#45;witness -->
+<g id="upbraiding--witness" class="edge">
+<title>upbraiding--witness</title>
+<path fill="none" stroke="black" d="M7810.66,-1355.18C7934.76,-1157.23 8130.72,-844.67 8228.92,-688.03"/>
+</g>
+<!-- official&#45;&#45;willingly -->
+<g id="official--willingly" class="edge">
+<title>official--willingly</title>
+<path fill="none" stroke="black" d="M6612.94,-1748.88C6578.29,-1692.49 6533.92,-1620.28 6496,-1558.57"/>
+</g>
+<!-- official&#45;&#45;upbraiding -->
+<g id="official--upbraiding" class="edge">
+<title>official--upbraiding</title>
+<path fill="none" stroke="black" d="M6778.64,-1811.87C6948.66,-1760.37 7283.16,-1659.05 7498.68,-1593.76"/>
+</g>
+<!-- official&#45;&#45;violate -->
+<g id="official--violate" class="edge">
+<title>official--violate</title>
+<path fill="none" stroke="black" d="M6772.11,-1795.29C6867.3,-1748.88 7008.93,-1679.84 7100.73,-1635.08"/>
+</g>
+<!-- official&#45;&#45;punishment -->
+<g id="official--punishment" class="edge">
+<title>official--punishment</title>
+<path fill="none" stroke="black" d="M6708.01,-1738.45C6744.83,-1631.46 6802.34,-1464.4 6845.68,-1338.46"/>
+</g>
+<!-- official&#45;&#45;previous -->
+<g id="official--previous" class="edge">
+<title>official--previous</title>
+<path fill="none" stroke="black" d="M6783.21,-1852.62C7028.93,-1870.92 7616.92,-1914.73 7896.84,-1935.59"/>
+</g>
+<!-- official&#45;&#45;witness -->
+<g id="official--witness" class="edge">
+<title>official--witness</title>
+<path fill="none" stroke="black" d="M6759.99,-1775.85C7041.67,-1557.76 7916.17,-880.68 8199.58,-661.26"/>
+</g>
+<!-- official&#45;&#45;repose -->
+<g id="official--repose" class="edge">
+<title>official--repose</title>
+<path fill="none" stroke="black" d="M6774.05,-1799.58C7090.67,-1661.41 8050.6,-1242.5 8360.6,-1107.22"/>
+</g>
+<!-- violate&#45;&#45;willingly -->
+<g id="violate--willingly" class="edge">
+<title>violate--willingly</title>
+<path fill="none" stroke="black" d="M7092.72,-1570.07C6959.73,-1542.02 6721.74,-1491.85 6566.2,-1459.05"/>
+</g>
+<!-- violate&#45;&#45;witness -->
+<g id="violate--witness" class="edge">
+<title>violate--witness</title>
+<path fill="none" stroke="black" d="M7266.01,-1522.99C7463.27,-1343.48 7997.71,-857.14 8205.24,-668.28"/>
+</g>
+<!-- instance&#45;&#45;willingly -->
+<g id="instance--willingly" class="edge">
+<title>instance--willingly</title>
+<path fill="none" stroke="black" d="M6569.41,-604.02C6537.1,-776.61 6478.56,-1089.27 6443.67,-1275.61"/>
+</g>
+<!-- instance&#45;&#45;oath -->
+<g id="instance--oath" class="edge">
+<title>instance--oath</title>
+<path fill="none" stroke="black" d="M6540.42,-594.74C6514.21,-652.28 6482.2,-722.55 6454.41,-783.55"/>
+</g>
+<!-- instance&#45;&#45;magistrate -->
+<g id="instance--magistrate" class="edge">
+<title>instance--magistrate</title>
+<path fill="none" stroke="black" d="M6708.45,-529.06C6781.49,-559.87 6876.57,-599.97 6955.43,-633.22"/>
+</g>
+<!-- instance&#45;&#45;upbraiding -->
+<g id="instance--upbraiding" class="edge">
+<title>instance--upbraiding</title>
+<path fill="none" stroke="black" d="M6683.62,-566.81C6873.48,-747.46 7313.47,-1166.07 7547.07,-1388.33"/>
+</g>
+<!-- instance&#45;&#45;official -->
+<g id="instance--official" class="edge">
+<title>instance--official</title>
+<path fill="none" stroke="black" d="M6599.87,-605.79C6615.18,-870.25 6650.53,-1480.86 6665.11,-1732.64"/>
+</g>
+<!-- instance&#45;&#45;violate -->
+<g id="instance--violate" class="edge">
+<title>instance--violate</title>
+<path fill="none" stroke="black" d="M6652.34,-591.02C6771.19,-811.46 7035.14,-1301.02 7143.53,-1502.06"/>
+</g>
+<!-- instance&#45;&#45;knowingly -->
+<g id="instance--knowingly" class="edge">
+<title>instance--knowingly</title>
+<path fill="none" stroke="black" d="M6716.63,-502.43C6897.83,-534.89 7235.8,-595.44 7442.69,-632.51"/>
+</g>
+<!-- instance&#45;&#45;punishment -->
+<g id="instance--punishment" class="edge">
+<title>instance--punishment</title>
+<path fill="none" stroke="black" d="M6644.67,-594.75C6695.19,-705.88 6772.39,-875.71 6829.57,-1001.49"/>
+</g>
+<!-- instance&#45;&#45;previous -->
+<g id="instance--previous" class="edge">
+<title>instance--previous</title>
+<path fill="none" stroke="black" d="M6681.3,-569.48C6935.34,-825.16 7665.14,-1559.67 7941.86,-1838.17"/>
+</g>
+<!-- instance&#45;&#45;witness -->
+<g id="instance--witness" class="edge">
+<title>instance--witness</title>
+<path fill="none" stroke="black" d="M6718.04,-488.46C7036.28,-509.41 7871.34,-564.36 8175.94,-584.4"/>
+</g>
+<!-- instance&#45;&#45;repose -->
+<g id="instance--repose" class="edge">
+<title>instance--repose</title>
+<path fill="none" stroke="black" d="M6712.85,-517.88C7056.25,-625.44 8037.06,-932.67 8356.41,-1032.7"/>
+</g>
+<!-- ceremony&#45;&#45;incur -->
+<g id="ceremony--incur" class="edge">
+<title>ceremony--incur</title>
+<path fill="none" stroke="black" d="M7160.52,-1981.09C7330.86,-1606.7 7791.46,-594.36 7921.89,-307.68"/>
+</g>
+<!-- ceremony&#45;&#45;distinguished -->
+<g id="ceremony--distinguished" class="edge">
+<title>ceremony--distinguished</title>
+<path fill="none" stroke="black" d="M7192.21,-2000.56C7342.91,-1809.78 7635.53,-1439.32 7801.79,-1228.85"/>
+</g>
+<!-- ceremony&#45;&#45;willingly -->
+<g id="ceremony--willingly" class="edge">
+<title>ceremony--willingly</title>
+<path fill="none" stroke="black" d="M6988.62,-2011.61C6861.24,-1881.78 6650.7,-1667.18 6523.3,-1537.32"/>
+</g>
+<!-- ceremony&#45;&#45;oath -->
+<g id="ceremony--oath" class="edge">
+<title>ceremony--oath</title>
+<path fill="none" stroke="black" d="M7018.02,-1988.84C6882.39,-1759.51 6605.71,-1291.7 6469.24,-1060.95"/>
+</g>
+<!-- ceremony&#45;&#45;magistrate -->
+<g id="ceremony--magistrate" class="edge">
+<title>ceremony--magistrate</title>
+<path fill="none" stroke="black" d="M7097.58,-1967.46C7099.37,-1696.44 7103.06,-1137.18 7104.89,-859.91"/>
+</g>
+<!-- ceremony&#45;&#45;upbraiding -->
+<g id="ceremony--upbraiding" class="edge">
+<title>ceremony--upbraiding</title>
+<path fill="none" stroke="black" d="M7207.09,-2013.68C7303.08,-1919.93 7442.94,-1783.3 7549.05,-1679.66"/>
+</g>
+<!-- ceremony&#45;&#45;official -->
+<g id="ceremony--official" class="edge">
+<title>ceremony--official</title>
+<path fill="none" stroke="black" d="M6967.33,-2037.3C6902.12,-1994.75 6824.5,-1944.09 6765.14,-1905.35"/>
+</g>
+<!-- ceremony&#45;&#45;violate -->
+<g id="ceremony--violate" class="edge">
+<title>ceremony--violate</title>
+<path fill="none" stroke="black" d="M7123.75,-1969.55C7139.79,-1879.79 7159.63,-1768.75 7173.67,-1690.18"/>
+</g>
+<!-- ceremony&#45;&#45;instance -->
+<g id="ceremony--instance" class="edge">
+<title>ceremony--instance</title>
+<path fill="none" stroke="black" d="M7051.29,-1974.17C6952.67,-1652.98 6720.08,-895.43 6629.56,-600.59"/>
+</g>
+<!-- ceremony&#45;&#45;knowingly -->
+<g id="ceremony--knowingly" class="edge">
+<title>ceremony--knowingly</title>
+<path fill="none" stroke="black" d="M7148.67,-1976.22C7246.06,-1704.4 7455.15,-1120.77 7558.47,-832.4"/>
+</g>
+<!-- ceremony&#45;&#45;execution -->
+<g id="ceremony--execution" class="edge">
+<title>ceremony--execution</title>
+<path fill="none" stroke="black" d="M7236.78,-2056.96C7477.65,-1945.83 7966.96,-1720.09 8204.5,-1610.49"/>
+</g>
+<!-- ceremony&#45;&#45;punishment -->
+<g id="ceremony--punishment" class="edge">
+<title>ceremony--punishment</title>
+<path fill="none" stroke="black" d="M7066.17,-1970.35C7032.05,-1800.51 6976.74,-1525.18 6940.55,-1345.06"/>
+</g>
+<!-- ceremony&#45;&#45;previous -->
+<g id="ceremony--previous" class="edge">
+<title>ceremony--previous</title>
+<path fill="none" stroke="black" d="M7248.43,-2093.83C7426.87,-2061.14 7721.1,-2007.25 7899.11,-1974.64"/>
+</g>
+<!-- ceremony&#45;&#45;witness -->
+<g id="ceremony--witness" class="edge">
+<title>ceremony--witness</title>
+<path fill="none" stroke="black" d="M7191.4,-2000C7423.54,-1702.24 8016.18,-942.08 8219.51,-681.27"/>
+</g>
+<!-- ceremony&#45;&#45;injunction -->
+<g id="ceremony--injunction" class="edge">
+<title>ceremony--injunction</title>
+<path fill="none" stroke="black" d="M7250.9,-2124.82C7308.96,-2126.01 7374.99,-2127.37 7433.24,-2128.57"/>
+</g>
+<!-- ceremony&#45;&#45;repose -->
+<g id="ceremony--repose" class="edge">
+<title>ceremony--repose</title>
+<path fill="none" stroke="black" d="M7218.61,-2026.91C7490.82,-1815.6 8141.93,-1310.16 8374.18,-1129.87"/>
+</g>
+<!-- ceremony&#45;&#45;entertain -->
+<g id="ceremony--entertain" class="edge">
+<title>ceremony--entertain</title>
+<path fill="none" stroke="black" d="M7088.39,-1967.66C7068.58,-1594.51 7018.26,-646.92 6999.67,-296.99"/>
+</g>
+<!-- knowingly&#45;&#45;willingly -->
+<g id="knowingly--willingly" class="edge">
+<title>knowingly--willingly</title>
+<path fill="none" stroke="black" d="M7467.58,-759.94C7229.25,-911.07 6770.32,-1202.09 6545.65,-1344.56"/>
+</g>
+<!-- knowingly&#45;&#45;oath -->
+<g id="knowingly--oath" class="edge">
+<title>knowingly--oath</title>
+<path fill="none" stroke="black" d="M7443.96,-701.32C7202.84,-752.71 6772.09,-844.53 6542.86,-893.39"/>
+</g>
+<!-- knowingly&#45;&#45;magistrate -->
+<g id="knowingly--magistrate" class="edge">
+<title>knowingly--magistrate</title>
+<path fill="none" stroke="black" d="M7440.14,-675.43C7384.5,-678.97 7323.46,-682.86 7268.94,-686.33"/>
+</g>
+<!-- knowingly&#45;&#45;upbraiding -->
+<g id="knowingly--upbraiding" class="edge">
+<title>knowingly--upbraiding</title>
+<path fill="none" stroke="black" d="M7635.26,-842.27C7648.19,-982.07 7666.22,-1176.95 7679.83,-1324.09"/>
+</g>
+<!-- knowingly&#45;&#45;official -->
+<g id="knowingly--official" class="edge">
+<title>knowingly--official</title>
+<path fill="none" stroke="black" d="M7506.87,-803.5C7309.34,-1049.63 6904.37,-1554.23 6741.6,-1757.05"/>
+</g>
+<!-- knowingly&#45;&#45;violate -->
+<g id="knowingly--violate" class="edge">
+<title>knowingly--violate</title>
+<path fill="none" stroke="black" d="M7543.85,-826.56C7453.78,-1021.89 7305.76,-1342.89 7233.61,-1499.37"/>
+</g>
+<!-- knowingly&#45;&#45;punishment -->
+<g id="knowingly--punishment" class="edge">
+<title>knowingly--punishment</title>
+<path fill="none" stroke="black" d="M7472.56,-767.02C7350.16,-853.21 7176.25,-975.67 7053.23,-1062.3"/>
+</g>
+<!-- knowingly&#45;&#45;previous -->
+<g id="knowingly--previous" class="edge">
+<title>knowingly--previous</title>
+<path fill="none" stroke="black" d="M7675.82,-833.76C7761.2,-1087.78 7920.77,-1562.52 8001.12,-1801.57"/>
+</g>
+<!-- knowingly&#45;&#45;witness -->
+<g id="knowingly--witness" class="edge">
+<title>knowingly--witness</title>
+<path fill="none" stroke="black" d="M7796.69,-644.9C7917.04,-631.94 8072.39,-615.21 8176.13,-604.03"/>
+</g>
+<!-- knowingly&#45;&#45;repose -->
+<g id="knowingly--repose" class="edge">
+<title>knowingly--repose</title>
+<path fill="none" stroke="black" d="M7780.14,-741.05C7952.44,-823.25 8219.78,-950.82 8361.86,-1018.6"/>
+</g>
+<!-- execution&#45;&#45;incur -->
+<g id="execution--incur" class="edge">
+<title>execution--incur</title>
+<path fill="none" stroke="black" d="M8298.3,-1404.88C8217.89,-1128.55 8043.62,-529.67 7980.33,-312.14"/>
+</g>
+<!-- execution&#45;&#45;willingly -->
+<g id="execution--willingly" class="edge">
+<title>execution--willingly</title>
+<path fill="none" stroke="black" d="M8191.32,-1538.68C7834.44,-1516.28 6931.9,-1459.65 6569.45,-1436.9"/>
+</g>
+<!-- execution&#45;&#45;oath -->
+<g id="execution--oath" class="edge">
+<title>execution--oath</title>
+<path fill="none" stroke="black" d="M8198.1,-1502.78C7840.44,-1388.73 6904.31,-1090.24 6538.76,-973.68"/>
+</g>
+<!-- execution&#45;&#45;magistrate -->
+<g id="execution--magistrate" class="edge">
+<title>execution--magistrate</title>
+<path fill="none" stroke="black" d="M8217.4,-1463.46C7984.98,-1303.12 7481.85,-956.02 7240.48,-789.5"/>
+</g>
+<!-- execution&#45;&#45;upbraiding -->
+<g id="execution--upbraiding" class="edge">
+<title>execution--upbraiding</title>
+<path fill="none" stroke="black" d="M8190.92,-1544.52C8107.08,-1542.57 8001.04,-1540.09 7908.92,-1537.94"/>
+</g>
+<!-- execution&#45;&#45;official -->
+<g id="execution--official" class="edge">
+<title>execution--official</title>
+<path fill="none" stroke="black" d="M8193.35,-1574.04C7864.36,-1632.47 7073.32,-1772.95 6781.84,-1824.72"/>
+</g>
+<!-- execution&#45;&#45;violate -->
+<g id="execution--violate" class="edge">
+<title>execution--violate</title>
+<path fill="none" stroke="black" d="M8190.97,-1553.57C7953.35,-1562.44 7494.69,-1579.55 7291.96,-1587.12"/>
+</g>
+<!-- execution&#45;&#45;instance -->
+<g id="execution--instance" class="edge">
+<title>execution--instance</title>
+<path fill="none" stroke="black" d="M8212.87,-1470.35C7883.42,-1269.03 7006.12,-732.91 6699.88,-545.77"/>
+</g>
+<!-- execution&#45;&#45;knowingly -->
+<g id="execution--knowingly" class="edge">
+<title>execution--knowingly</title>
+<path fill="none" stroke="black" d="M8245.67,-1432.44C8113.47,-1270.41 7873.37,-976.12 7731.77,-802.56"/>
+</g>
+<!-- execution&#45;&#45;punishment -->
+<g id="execution--punishment" class="edge">
+<title>execution--punishment</title>
+<path fill="none" stroke="black" d="M8196.09,-1509.8C7931.21,-1439.46 7367.24,-1289.68 7080.3,-1213.48"/>
+</g>
+<!-- execution&#45;&#45;previous -->
+<g id="execution--previous" class="edge">
+<title>execution--previous</title>
+<path fill="none" stroke="black" d="M8252.36,-1668.53C8216.94,-1717.28 8176.06,-1773.53 8140.35,-1822.66"/>
+</g>
+<!-- execution&#45;&#45;witness -->
+<g id="execution--witness" class="edge">
+<title>execution--witness</title>
+<path fill="none" stroke="black" d="M8332.05,-1399.13C8321.87,-1207.29 8304.4,-877.95 8295.23,-705.19"/>
+</g>
+<!-- execution&#45;&#45;injunction -->
+<g id="execution--injunction" class="edge">
+<title>execution--injunction</title>
+<path fill="none" stroke="black" d="M8222.31,-1639.54C8083.64,-1747.44 7854.26,-1925.93 7713.12,-2035.75"/>
+</g>
+<!-- execution&#45;&#45;repose -->
+<g id="execution--repose" class="edge">
+<title>execution--repose</title>
+<path fill="none" stroke="black" d="M8375.36,-1403.3C8393.88,-1327.64 8416.12,-1236.78 8432.9,-1168.22"/>
+</g>
+<!-- punishment&#45;&#45;willingly -->
+<g id="punishment--willingly" class="edge">
+<title>punishment--willingly</title>
+<path fill="none" stroke="black" d="M6744.48,-1252.11C6682.03,-1285.33 6611.21,-1323.01 6551.3,-1354.87"/>
+</g>
+<!-- punishment&#45;&#45;upbraiding -->
+<g id="punishment--upbraiding" class="edge">
+<title>punishment--upbraiding</title>
+<path fill="none" stroke="black" d="M7069.35,-1242.73C7197.17,-1301.65 7374.61,-1383.43 7508.58,-1445.19"/>
+</g>
+<!-- punishment&#45;&#45;violate -->
+<g id="punishment--violate" class="edge">
+<title>punishment--violate</title>
+<path fill="none" stroke="black" d="M7006.42,-1317.24C7049.65,-1381.18 7098.41,-1453.31 7135.02,-1507.46"/>
+</g>
+<!-- punishment&#45;&#45;witness -->
+<g id="punishment--witness" class="edge">
+<title>punishment--witness</title>
+<path fill="none" stroke="black" d="M7072.44,-1097.21C7361.66,-977.09 7946.18,-734.33 8184.49,-635.35"/>
+</g>
+<!-- punishment&#45;&#45;repose -->
+<g id="punishment--repose" class="edge">
+<title>punishment--repose</title>
+<path fill="none" stroke="black" d="M7086,-1154.93C7412.56,-1133.43 8090.07,-1088.84 8351.83,-1071.61"/>
+</g>
+<!-- previous&#45;&#45;willingly -->
+<g id="previous--willingly" class="edge">
+<title>previous--willingly</title>
+<path fill="none" stroke="black" d="M7903.49,-1900.42C7593.25,-1801.78 6873.07,-1572.79 6562.35,-1473.99"/>
+</g>
+<!-- previous&#45;&#45;upbraiding -->
+<g id="previous--upbraiding" class="edge">
+<title>previous--upbraiding</title>
+<path fill="none" stroke="black" d="M7950.63,-1829.76C7914.67,-1787.33 7873.42,-1738.65 7834.87,-1693.16"/>
+</g>
+<!-- previous&#45;&#45;violate -->
+<g id="previous--violate" class="edge">
+<title>previous--violate</title>
+<path fill="none" stroke="black" d="M7908.22,-1888.2C7731.63,-1814.95 7434.93,-1691.88 7284.66,-1629.55"/>
+</g>
+<!-- previous&#45;&#45;punishment -->
+<g id="previous--punishment" class="edge">
+<title>previous--punishment</title>
+<path fill="none" stroke="black" d="M7923.06,-1860.53C7710.2,-1715.53 7282.31,-1424.05 7054.87,-1269.12"/>
+</g>
+<!-- previous&#45;&#45;witness -->
+<g id="previous--witness" class="edge">
+<title>previous--witness</title>
+<path fill="none" stroke="black" d="M8076.69,-1795.82C8125.18,-1521.09 8226.71,-945.97 8269.52,-703.48"/>
+</g>
+<!-- previous&#45;&#45;repose -->
+<g id="previous--repose" class="edge">
+<title>previous--repose</title>
+<path fill="none" stroke="black" d="M8114.46,-1807.67C8197.88,-1627.37 8341.09,-1317.86 8413.52,-1161.32"/>
+</g>
+<!-- injunction&#45;&#45;willingly -->
+<g id="injunction--willingly" class="edge">
+<title>injunction--willingly</title>
+<path fill="none" stroke="black" d="M7455.54,-2051.31C7228.95,-1915.37 6773.1,-1641.89 6547.69,-1506.66"/>
+</g>
+<!-- injunction&#45;&#45;oath -->
+<g id="injunction--oath" class="edge">
+<title>injunction--oath</title>
+<path fill="none" stroke="black" d="M7479.46,-2021.06C7251.14,-1791.69 6728.76,-1266.91 6500.1,-1037.21"/>
+</g>
+<!-- injunction&#45;&#45;magistrate -->
+<g id="injunction--magistrate" class="edge">
+<title>injunction--magistrate</title>
+<path fill="none" stroke="black" d="M7539.74,-1983.62C7447.63,-1710.32 7251.84,-1129.47 7158.1,-851.38"/>
+</g>
+<!-- injunction&#45;&#45;upbraiding -->
+<g id="injunction--upbraiding" class="edge">
+<title>injunction--upbraiding</title>
+<path fill="none" stroke="black" d="M7617.81,-1977.99C7631.08,-1905.39 7647.11,-1817.71 7661.42,-1739.44"/>
+</g>
+<!-- injunction&#45;&#45;official -->
+<g id="injunction--official" class="edge">
+<title>injunction--official</title>
+<path fill="none" stroke="black" d="M7440.39,-2085.04C7254.6,-2026.86 6941.92,-1928.95 6778.45,-1877.76"/>
+</g>
+<!-- injunction&#45;&#45;violate -->
+<g id="injunction--violate" class="edge">
+<title>injunction--violate</title>
+<path fill="none" stroke="black" d="M7497.07,-2005.99C7421.22,-1902.99 7316.17,-1760.31 7251.07,-1671.9"/>
+</g>
+<!-- injunction&#45;&#45;instance -->
+<g id="injunction--instance" class="edge">
+<title>injunction--instance</title>
+<path fill="none" stroke="black" d="M7508.94,-1998.03C7316.36,-1679.05 6833.14,-878.64 6657.61,-587.9"/>
+</g>
+<!-- injunction&#45;&#45;knowingly -->
+<g id="injunction--knowingly" class="edge">
+<title>injunction--knowingly</title>
+<path fill="none" stroke="black" d="M7592.79,-1975.41C7598.23,-1700.64 7609.49,-1132.89 7615.23,-842.95"/>
+</g>
+<!-- injunction&#45;&#45;punishment -->
+<g id="injunction--punishment" class="edge">
+<title>injunction--punishment</title>
+<path fill="none" stroke="black" d="M7499.44,-2004.65C7373.03,-1826.56 7143.72,-1503.52 7009.8,-1314.84"/>
+</g>
+<!-- injunction&#45;&#45;previous -->
+<g id="injunction--previous" class="edge">
+<title>injunction--previous</title>
+<path fill="none" stroke="black" d="M7734.7,-2073.58C7789.91,-2051.41 7852.73,-2026.2 7907.68,-2004.13"/>
+</g>
+<!-- injunction&#45;&#45;witness -->
+<g id="injunction--witness" class="edge">
+<title>injunction--witness</title>
+<path fill="none" stroke="black" d="M7654.4,-1989.33C7793.94,-1682.17 8120.33,-963.65 8242.21,-695.34"/>
+</g>
+<!-- injunction&#45;&#45;repose -->
+<g id="injunction--repose" class="edge">
+<title>injunction--repose</title>
+<path fill="none" stroke="black" d="M7688.27,-2010.67C7866.69,-1791.45 8238.78,-1334.27 8391.08,-1147.15"/>
+</g>
+<!-- repose&#45;&#45;willingly -->
+<g id="repose--willingly" class="edge">
+<title>repose--willingly</title>
+<path fill="none" stroke="black" d="M8353.44,-1083.21C8016.9,-1142.94 6962.8,-1330.05 6567.25,-1400.26"/>
+</g>
+<!-- repose&#45;&#45;upbraiding -->
+<g id="repose--upbraiding" class="edge">
+<title>repose--upbraiding</title>
+<path fill="none" stroke="black" d="M8367.45,-1120.64C8246.93,-1195.01 8031.49,-1327.96 7877.8,-1422.8"/>
+</g>
+<!-- repose&#45;&#45;violate -->
+<g id="repose--violate" class="edge">
+<title>repose--violate</title>
+<path fill="none" stroke="black" d="M8359.65,-1105.57C8121.38,-1204.55 7516.94,-1455.64 7284.48,-1552.21"/>
+</g>
+<!-- repose&#45;&#45;witness -->
+<g id="repose--witness" class="edge">
+<title>repose--witness</title>
+<path fill="none" stroke="black" d="M8422.31,-964.05C8394.44,-886.11 8355.91,-778.34 8327.47,-698.82"/>
+</g>
+<!-- entertain&#45;&#45;incur -->
+<g id="entertain--incur" class="edge">
+<title>entertain--incur</title>
+<path fill="none" stroke="black" d="M7125.18,-173.65C7326.73,-187.57 7704.56,-213.67 7872.53,-225.27"/>
+</g>
+<!-- entertain&#45;&#45;willingly -->
+<g id="entertain--willingly" class="edge">
+<title>entertain--willingly</title>
+<path fill="none" stroke="black" d="M6937.41,-285.28C6830.02,-520.16 6593.61,-1037.22 6479.46,-1286.88"/>
+</g>
+<!-- entertain&#45;&#45;oath -->
+<g id="entertain--oath" class="edge">
+<title>entertain--oath</title>
+<path fill="none" stroke="black" d="M6910.35,-268.39C6800.02,-407.71 6604.45,-654.65 6486.9,-803.08"/>
+</g>
+<!-- entertain&#45;&#45;magistrate -->
+<g id="entertain--magistrate" class="edge">
+<title>entertain--magistrate</title>
+<path fill="none" stroke="black" d="M7020.29,-294.35C7035.88,-367.58 7055.49,-459.67 7072.02,-537.26"/>
+</g>
+<!-- entertain&#45;&#45;upbraiding -->
+<g id="entertain--upbraiding" class="edge">
+<title>entertain--upbraiding</title>
+<path fill="none" stroke="black" d="M7053.49,-282.36C7176.37,-520.39 7455,-1060.1 7602.84,-1346.47"/>
+</g>
+<!-- entertain&#45;&#45;official -->
+<g id="entertain--official" class="edge">
+<title>entertain--official</title>
+<path fill="none" stroke="black" d="M6967.71,-294.91C6906.48,-615.29 6749.52,-1436.52 6692.6,-1734.33"/>
+</g>
+<!-- entertain&#45;&#45;violate -->
+<g id="entertain--violate" class="edge">
+<title>entertain--violate</title>
+<path fill="none" stroke="black" d="M7010.94,-295.81C7050.34,-578.55 7142.47,-1239.66 7177.53,-1491.26"/>
+</g>
+<!-- entertain&#45;&#45;instance -->
+<g id="entertain--instance" class="edge">
+<title>entertain--instance</title>
+<path fill="none" stroke="black" d="M6888.58,-246.62C6827.69,-294.67 6751.26,-354.99 6691.32,-402.3"/>
+</g>
+<!-- entertain&#45;&#45;knowingly -->
+<g id="entertain--knowingly" class="edge">
+<title>entertain--knowingly</title>
+<path fill="none" stroke="black" d="M7096.38,-247.27C7201,-330.73 7363.16,-460.11 7479.04,-552.57"/>
+</g>
+<!-- entertain&#45;&#45;execution -->
+<g id="entertain--execution" class="edge">
+<title>entertain--execution</title>
+<path fill="none" stroke="black" d="M7085.24,-259.59C7327.96,-508.82 7981.33,-1179.76 8236.16,-1441.43"/>
+</g>
+<!-- entertain&#45;&#45;punishment -->
+<g id="entertain--punishment" class="edge">
+<title>entertain--punishment</title>
+<path fill="none" stroke="black" d="M6981.04,-296.82C6965.54,-473.53 6938.03,-787.27 6920.63,-985.79"/>
+</g>
+<!-- entertain&#45;&#45;previous -->
+<g id="entertain--previous" class="edge">
+<title>entertain--previous</title>
+<path fill="none" stroke="black" d="M7060.39,-278.71C7247.78,-594.62 7772.3,-1478.86 7971.71,-1815.03"/>
+</g>
+<!-- entertain&#45;&#45;witness -->
+<g id="entertain--witness" class="edge">
+<title>entertain--witness</title>
+<path fill="none" stroke="black" d="M7118.73,-206.05C7372.96,-289.85 7943.08,-477.76 8181.35,-556.3"/>
+</g>
+<!-- entertain&#45;&#45;injunction -->
+<g id="entertain--injunction" class="edge">
+<title>entertain--injunction</title>
+<path fill="none" stroke="black" d="M7031.12,-291.3C7136.76,-639.38 7430.89,-1608.56 7544.3,-1982.22"/>
+</g>
+<!-- entertain&#45;&#45;repose -->
+<g id="entertain--repose" class="edge">
+<title>entertain--repose</title>
+<path fill="none" stroke="black" d="M7105.82,-234C7386.81,-406.57 8112.04,-851.97 8367.54,-1008.88"/>
+</g>
+<!-- government&#45;&#45;inhabitant -->
+<g id="government--inhabitant" class="edge">
+<title>government--inhabitant</title>
+<path fill="none" stroke="black" d="M2850.22,-4128.2C2665.99,-4324.32 2443.1,-4561.59 2315.08,-4697.86"/>
+</g>
+<!-- government&#45;&#45;economic -->
+<g id="government--economic" class="edge">
+<title>government--economic</title>
+<path fill="none" stroke="black" d="M3253.32,-4239.12C3286.22,-4387.84 3320.75,-4543.92 3344.92,-4653.16"/>
+</g>
+<!-- government&#45;&#45;freedom -->
+<g id="government--freedom" class="edge">
+<title>government--freedom</title>
+<path fill="none" stroke="black" d="M3400.13,-3426.54C3540.03,-3210.82 3710.78,-2947.53 3828.53,-2765.96"/>
+</g>
+<!-- government&#45;&#45;citizen -->
+<g id="government--citizen" class="edge">
+<title>government--citizen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2870.76,-3457.3C2655,-3197.1 2364.34,-2846.57 2172.51,-2615.22"/>
+</g>
+<!-- government&#45;&#45;constitution -->
+<g id="government--constitution" class="edge">
+<title>government--constitution</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2789.54,-3545.75C2431.11,-3295.49 1897.37,-2922.84 1599.19,-2714.66"/>
+</g>
+<!-- government&#45;&#45;cuba -->
+<g id="government--cuba" class="edge">
+<title>government--cuba</title>
+<path fill="none" stroke="black" d="M2724.35,-3919.13C2383.52,-4011.45 1936.92,-4132.43 1758.2,-4180.84"/>
+</g>
+<!-- government&#45;&#45;great -->
+<g id="government--great" class="edge">
+<title>government--great</title>
+<path fill="none" stroke="black" d="M3065.11,-4240.19C3020.69,-4452.89 2967.95,-4705.42 2925.8,-4907.25"/>
+</g>
+<!-- government&#45;&#45;invasion -->
+<g id="government--invasion" class="edge">
+<title>government--invasion</title>
+<path fill="none" stroke="black" d="M2985.18,-4215.66C2797.21,-4669.17 2507.18,-5368.93 2393.43,-5643.37"/>
+</g>
+<!-- government&#45;&#45;nuclear -->
+<g id="government--nuclear" class="edge">
+<title>government--nuclear</title>
+<path fill="none" stroke="black" d="M3167.86,-3354.56C3170.75,-3239.36 3173.62,-3125.13 3175.66,-3043.95"/>
+</g>
+<!-- government&#45;&#45;partisan -->
+<g id="government--partisan" class="edge">
+<title>government--partisan</title>
+<path fill="none" stroke="black" d="M3011.78,-3378.25C2835.4,-2862.16 2548.06,-2021.42 2443.42,-1715.23"/>
+</g>
+<!-- government&#45;&#45;pleasing -->
+<g id="government--pleasing" class="edge">
+<title>government--pleasing</title>
+<path fill="none" stroke="black" d="M3453.15,-3466.39C3546.3,-3360.95 3642.43,-3252.14 3710.31,-3175.3"/>
+</g>
+<!-- government&#45;&#45;disaster -->
+<g id="government--disaster" class="edge">
+<title>government--disaster</title>
+<path fill="none" stroke="black" d="M3330.39,-4214.6C3359.3,-4283.22 3387.03,-4349.08 3409.21,-4401.71"/>
+</g>
+<!-- government&#45;&#45;hero -->
+<g id="government--hero" class="edge">
+<title>government--hero</title>
+<path fill="none" stroke="black" d="M3424.45,-4161.04C3526.15,-4297.36 3632.1,-4439.38 3693.2,-4521.28"/>
+</g>
+<!-- government&#45;&#45;public -->
+<g id="government--public" class="edge">
+<title>government--public</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2997.61,-3383.42C2790.7,-2838.69 2435.35,-1903.16 2263.37,-1450.39"/>
+</g>
+<!-- government&#45;&#45;executive -->
+<g id="government--executive" class="edge">
+<title>government--executive</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2709,-3799.03C2477.79,-3797.48 2207.63,-3795.66 2029.74,-3794.47"/>
+</g>
+<!-- government&#45;&#45;democracy -->
+<g id="government--democracy" class="edge">
+<title>government--democracy</title>
+<path fill="none" stroke="black" d="M3528.57,-3553.27C3571.05,-3524.86 3612.03,-3497.45 3648.22,-3473.24"/>
+</g>
+<!-- government&#45;&#45;criminal -->
+<g id="government--criminal" class="edge">
+<title>government--criminal</title>
+<path fill="none" stroke="black" d="M2721.71,-3695.04C2270.88,-3584.12 1594.89,-3417.81 1323.82,-3351.12"/>
+</g>
+<!-- government&#45;&#45;legislature -->
+<g id="government--legislature" class="edge">
+<title>government--legislature</title>
+<path fill="none" stroke="black" d="M3349.71,-3398.34C3364.01,-3368.44 3377.76,-3339.7 3390.36,-3313.35"/>
+</g>
+<!-- government&#45;&#45;people -->
+<g id="government--people" class="edge">
+<title>government--people</title>
+<path fill="none" stroke="red" stroke-width="8" d="M3165.79,-3354.31C3171.53,-3074.02 3178.89,-2714.55 3184.6,-2436.26"/>
+</g>
+<!-- government&#45;&#45;weapon -->
+<g id="government--weapon" class="edge">
+<title>government--weapon</title>
+<path fill="none" stroke="black" d="M3069.05,-3363.07C3029.22,-3163.39 2985.23,-2942.87 2959.05,-2811.62"/>
+</g>
+<!-- government&#45;&#45;progress -->
+<g id="government--progress" class="edge">
+<title>government--progress</title>
+<path fill="none" stroke="black" d="M2709.58,-3774.16C2210.69,-3743.05 1426.33,-3694.13 1065.98,-3671.65"/>
+</g>
+<!-- government&#45;&#45;principle -->
+<g id="government--principle" class="edge">
+<title>government--principle</title>
+<path fill="none" stroke="black" d="M2890.51,-4161.59C2650.41,-4486.01 2306.58,-4950.59 2116.18,-5207.85"/>
+</g>
+<!-- government&#45;&#45;revenue -->
+<g id="government--revenue" class="edge">
+<title>government--revenue</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2742.26,-3632.46C2495.58,-3531.5 2196.55,-3409.12 2016.78,-3335.55"/>
+</g>
+<!-- government&#45;&#45;party -->
+<g id="government--party" class="edge">
+<title>government--party</title>
+<path fill="none" stroke="black" d="M3255.33,-4238.79C3335.64,-4594.15 3445.48,-5080.13 3507.4,-5354.1"/>
+</g>
+<!-- government&#45;&#45;grant -->
+<g id="government--grant" class="edge">
+<title>government--grant</title>
+<path fill="none" stroke="black" d="M2781.13,-3558.08C2487.7,-3367.43 2098.76,-3114.74 1908.6,-2991.19"/>
+</g>
+<!-- government&#45;&#45;loan -->
+<g id="government--loan" class="edge">
+<title>government--loan</title>
+<path fill="none" stroke="black" d="M3225.16,-4244.61C3226.24,-4251.61 3227.29,-4258.36 3228.29,-4264.81"/>
+</g>
+<!-- government&#45;&#45;exercise -->
+<g id="government--exercise" class="edge">
+<title>government--exercise</title>
+<path fill="none" stroke="black" d="M2971.99,-3394.29C2778.91,-2967.87 2486.26,-2321.55 2356.43,-2034.83"/>
+</g>
+<!-- government&#45;&#45;nation -->
+<g id="government--nation" class="edge">
+<title>government--nation</title>
+<path fill="none" stroke="black" d="M3548.21,-3585.08C3813.81,-3437.92 4161.8,-3245.12 4417.7,-3103.34"/>
+</g>
+<!-- government&#45;&#45;texas -->
+<g id="government--texas" class="edge">
+<title>government--texas</title>
+<path fill="none" stroke="black" d="M2712.79,-3862.33C2338.71,-3913.15 1833.39,-3981.79 1633.53,-4008.94"/>
+</g>
+<!-- government&#45;&#45;country -->
+<g id="government--country" class="edge">
+<title>government--country</title>
+<path fill="none" stroke="black" d="M3543.58,-4027.21C3904.31,-4237.12 4434.41,-4545.58 4761.36,-4735.84"/>
+</g>
+<!-- government&#45;&#45;union -->
+<g id="government--union" class="edge">
+<title>government--union</title>
+<path fill="none" stroke="red" stroke-width="4" d="M2896.48,-3437.88C2828.81,-3343.14 2758.19,-3244.29 2698.46,-3160.68"/>
+</g>
+<!-- government&#45;&#45;power -->
+<g id="government--power" class="edge">
+<title>government--power</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2730.53,-3664.54C2715.41,-3659.67 2700.36,-3654.81 2685.47,-3650"/>
+</g>
+<!-- government&#45;&#45;negro -->
+<g id="government--negro" class="edge">
+<title>government--negro</title>
+<path fill="none" stroke="black" d="M2851.58,-3474.41C2387.23,-2975.65 1530.58,-2055.53 1281.12,-1787.58"/>
+</g>
+<!-- government&#45;&#45;congress -->
+<g id="government--congress" class="edge">
+<title>government--congress</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2812.39,-4088.34C2734.4,-4153.21 2654.96,-4219.29 2588.11,-4274.89"/>
+</g>
+<!-- government&#45;&#45;americans -->
+<g id="government--americans" class="edge">
+<title>government--americans</title>
+<path fill="none" stroke="black" d="M3591.26,-3694.51C3820.24,-3637.85 4087.79,-3571.66 4256.42,-3529.94"/>
+</g>
+<!-- government&#45;&#45;island -->
+<g id="government--island" class="edge">
+<title>government--island</title>
+<path fill="none" stroke="black" d="M2807.7,-4082.66C2535.96,-4301.22 2180.04,-4587.47 2026.99,-4710.56"/>
+</g>
+<!-- government&#45;&#45;enforcement -->
+<g id="government--enforcement" class="edge">
+<title>government--enforcement</title>
+<path fill="none" stroke="black" d="M2708.82,-3806.77C2309.03,-3810.99 1743.05,-3816.96 1452.12,-3820.04"/>
+</g>
+<!-- government&#45;&#45;law -->
+<g id="government--law" class="edge">
+<title>government--law</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2752.75,-3608.92C2271.89,-3378.99 1482.16,-3001.37 1069.59,-2804.09"/>
+</g>
+<!-- government&#45;&#45;preservation -->
+<g id="government--preservation" class="edge">
+<title>government--preservation</title>
+<path fill="none" stroke="black" d="M2970.71,-3394.61C2858.7,-3149.13 2722.02,-2849.58 2638.53,-2666.61"/>
+</g>
+<!-- inhabitant&#45;&#45;island -->
+<g id="inhabitant--island" class="edge">
+<title>inhabitant--island</title>
+<path fill="none" stroke="black" d="M2060.12,-4786.87C2055.78,-4786.24 2051.47,-4785.61 2047.21,-4784.99"/>
+</g>
+<!-- freedom&#45;&#45;nuclear -->
+<g id="freedom--nuclear" class="edge">
+<title>freedom--nuclear</title>
+<path fill="none" stroke="black" d="M3735.7,-2661.06C3585.53,-2733.07 3397.7,-2823.13 3283.01,-2878.13"/>
+</g>
+<!-- freedom&#45;&#45;weapon -->
+<g id="freedom--weapon" class="edge">
+<title>freedom--weapon</title>
+<path fill="none" stroke="black" d="M3712.7,-2585.16C3502.12,-2614.76 3213.5,-2655.33 3053.9,-2677.76"/>
+</g>
+<!-- freedom&#45;&#45;americans -->
+<g id="freedom--americans" class="edge">
+<title>freedom--americans</title>
+<path fill="none" stroke="black" d="M4081.9,-2782.25C4165.13,-2954.39 4276.1,-3183.89 4348.63,-3333.89"/>
+</g>
+<!-- freedom&#45;&#45;strive -->
+<g id="freedom--strive" class="edge">
+<title>freedom--strive</title>
+<path fill="none" stroke="black" d="M4033.77,-2298.62C4093.55,-2066.85 4179.66,-1733.04 4223.97,-1561.24"/>
+</g>
+<!-- freedom&#45;&#45;recovery -->
+<g id="freedom--recovery" class="edge">
+<title>freedom--recovery</title>
+<path fill="none" stroke="black" d="M4082.89,-2316.64C4095.63,-2290.6 4108.2,-2264.91 4119.83,-2241.13"/>
+</g>
+<!-- freedom&#45;&#45;seek -->
+<g id="freedom--seek" class="edge">
+<title>freedom--seek</title>
+<path fill="none" stroke="black" d="M3942.21,-2291.62C3922.65,-2104.76 3896.55,-1855.53 3878.5,-1683.02"/>
+</g>
+<!-- freedom&#45;&#45;program -->
+<g id="freedom--program" class="edge">
+<title>freedom--program</title>
+<path fill="none" stroke="black" d="M4164.21,-2379.3C4229.14,-2322.77 4298.58,-2262.32 4352.5,-2215.38"/>
+</g>
+<!-- freedom&#45;&#45;nations -->
+<g id="freedom--nations" class="edge">
+<title>freedom--nations</title>
+<path fill="none" stroke="black" d="M4026.26,-2296.49C4055.28,-2168.1 4089.08,-2018.57 4111.63,-1918.83"/>
+</g>
+<!-- freedom&#45;&#45;liberty -->
+<g id="freedom--liberty" class="edge">
+<title>freedom--liberty</title>
+<path fill="none" stroke="black" d="M4151.06,-2733.22C4353.16,-2937.8 4676.15,-3264.72 4867.35,-3458.26"/>
+</g>
+<!-- citizen&#45;&#45;constitution -->
+<g id="citizen--constitution" class="edge">
+<title>citizen--constitution</title>
+<path fill="none" stroke="black" d="M1670.2,-2467.2C1658.57,-2470.87 1646.93,-2474.54 1635.38,-2478.18"/>
+</g>
+<!-- citizen&#45;&#45;partisan -->
+<g id="citizen--partisan" class="edge">
+<title>citizen--partisan</title>
+<path fill="none" stroke="black" d="M2125.11,-2096.92C2200.73,-1961.76 2287.46,-1806.76 2343.78,-1706.1"/>
+</g>
+<!-- citizen&#45;&#45;executive -->
+<g id="citizen--executive" class="edge">
+<title>citizen--executive</title>
+<path fill="none" stroke="black" d="M1941.17,-2686.29C1914.59,-2965.62 1876.56,-3365.2 1854.22,-3600.05"/>
+</g>
+<!-- citizen&#45;&#45;grant -->
+<g id="citizen--grant" class="edge">
+<title>citizen--grant</title>
+<path fill="none" stroke="black" d="M1873.49,-2672.39C1860.47,-2712.45 1847.71,-2751.7 1836.36,-2786.62"/>
+</g>
+<!-- constitution&#45;&#45;executive -->
+<g id="constitution--executive" class="edge">
+<title>constitution--executive</title>
+<path fill="none" stroke="black" d="M1471.53,-2813.37C1559.89,-3051.01 1689.76,-3400.3 1768.22,-3611.31"/>
+</g>
+<!-- constitution&#45;&#45;grant -->
+<g id="constitution--grant" class="edge">
+<title>constitution--grant</title>
+<path fill="none" stroke="black" d="M1582.87,-2735.86C1620.04,-2767.69 1657.32,-2799.63 1689.98,-2827.62"/>
+</g>
+<!-- constitution&#45;&#45;negro -->
+<g id="constitution--negro" class="edge">
+<title>constitution--negro</title>
+<path fill="none" stroke="black" d="M1325.14,-2293.95C1293.18,-2130.79 1254.08,-1931.18 1231,-1813.36"/>
+</g>
+<!-- constitution&#45;&#45;law -->
+<g id="constitution--law" class="edge">
+<title>constitution--law</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1111.57,-2612.65C1105.35,-2613.89 1099.11,-2615.14 1092.87,-2616.38"/>
+</g>
+<!-- constitution&#45;&#45;provision -->
+<g id="constitution--provision" class="edge">
+<title>constitution--provision</title>
+<path fill="none" stroke="black" d="M1418.52,-2292.31C1433.5,-2195.38 1449.77,-2090.12 1462.16,-2009.99"/>
+</g>
+<!-- constitution&#45;&#45;minority -->
+<g id="constitution--minority" class="edge">
+<title>constitution--minority</title>
+<path fill="none" stroke="black" d="M1468.57,-2304.74C1475.13,-2286.46 1481.51,-2268.65 1487.51,-2251.9"/>
+</g>
+<!-- constitution&#45;&#45;fugitive -->
+<g id="constitution--fugitive" class="edge">
+<title>constitution--fugitive</title>
+<path fill="none" stroke="black" d="M1439.38,-2296.23C1482.96,-2111.65 1539.09,-1873.88 1572.05,-1734.27"/>
+</g>
+<!-- constitution&#45;&#45;case -->
+<g id="constitution--case" class="edge">
+<title>constitution--case</title>
+<path fill="none" stroke="black" d="M1509.78,-2323.66C1608.45,-2148.05 1739.06,-1915.58 1817.3,-1776.33"/>
+</g>
+<!-- constitution&#45;&#45;slave -->
+<g id="constitution--slave" class="edge">
+<title>constitution--slave</title>
+<path fill="none" stroke="black" d="M1505.44,-2321.51C1565.83,-2209.38 1634.25,-2082.33 1679.02,-1999.21"/>
+</g>
+<!-- constitution&#45;&#45;question -->
+<g id="constitution--question" class="edge">
+<title>constitution--question</title>
+<path fill="none" stroke="black" d="M1146.97,-2417.37C1069.23,-2369.33 983.98,-2316.64 912.03,-2272.18"/>
+</g>
+<!-- constitution&#45;&#45;territory -->
+<g id="constitution--territory" class="edge">
+<title>constitution--territory</title>
+<path fill="none" stroke="black" d="M1206.34,-2769.63C1111.71,-2885.92 997.49,-3026.29 917.96,-3124.03"/>
+</g>
+<!-- cuba&#45;&#45;inhabitant -->
+<g id="cuba--inhabitant" class="edge">
+<title>cuba--inhabitant</title>
+<path fill="none" stroke="black" d="M1733.19,-4263.71C1821.55,-4364.53 1998.58,-4566.5 2110.56,-4694.27"/>
+</g>
+<!-- cuba&#45;&#45;island -->
+<g id="cuba--island" class="edge">
+<title>cuba--island</title>
+<path fill="none" stroke="black" d="M1714.62,-4276C1764.79,-4380.78 1856.5,-4572.31 1909.96,-4683.95"/>
+</g>
+<!-- great&#45;&#45;invasion -->
+<g id="great--invasion" class="edge">
+<title>great--invasion</title>
+<path fill="none" stroke="black" d="M2583.21,-5529.02C2529.96,-5580.6 2477.57,-5631.34 2435.57,-5672.03"/>
+</g>
+<!-- great&#45;&#45;power -->
+<g id="great--power" class="edge">
+<title>great--power</title>
+<path fill="none" stroke="black" d="M2750.15,-4912.97C2664.22,-4604.81 2541.31,-4164.09 2458.63,-3867.59"/>
+</g>
+<!-- great&#45;&#45;life -->
+<g id="great--life" class="edge">
+<title>great--life</title>
+<path fill="none" stroke="black" d="M3183.85,-5109.04C3496.1,-4957.89 3953.99,-4736.25 4226.4,-4604.39"/>
+</g>
+<!-- great&#45;&#45;man -->
+<g id="great--man" class="edge">
+<title>great--man</title>
+<path fill="none" stroke="black" d="M3110.8,-5006.6C3292.24,-4822.93 3530.7,-4581.55 3698.34,-4411.86"/>
+</g>
+<!-- great&#45;&#45;familiar -->
+<g id="great--familiar" class="edge">
+<title>great--familiar</title>
+<path fill="none" stroke="black" d="M3206.07,-5375.32C3437.56,-5443.34 3725.43,-5527.92 3887.35,-5575.49"/>
+</g>
+<!-- nuclear&#45;&#45;weapon -->
+<g id="nuclear--weapon" class="edge">
+<title>nuclear--weapon</title>
+<path fill="none" stroke="black" d="M3094.98,-2847.74C3071.24,-2824.89 3045.35,-2799.97 3021.48,-2776.99"/>
+</g>
+<!-- disaster&#45;&#45;economic -->
+<g id="disaster--economic" class="edge">
+<title>disaster--economic</title>
+<path fill="none" stroke="black" d="M3423.13,-4637.29C3421.37,-4643.39 3419.6,-4649.54 3417.83,-4655.7"/>
+</g>
+<!-- public&#45;&#45;citizen -->
+<g id="public--citizen" class="edge">
+<title>public--citizen</title>
+<path fill="none" stroke="black" d="M2119.36,-1465.17C2090.23,-1643.36 2052.23,-1875.74 2021.99,-2060.68"/>
+</g>
+<!-- public&#45;&#45;partisan -->
+<g id="public--partisan" class="edge">
+<title>public--partisan</title>
+<path fill="none" stroke="black" d="M2305.15,-1430.5C2317.95,-1452.4 2330.42,-1473.72 2341.95,-1493.42"/>
+</g>
+<!-- executive&#45;&#45;inhabitant -->
+<g id="executive--inhabitant" class="edge">
+<title>executive--inhabitant</title>
+<path fill="none" stroke="black" d="M1903.11,-3975.32C1976.16,-4173.11 2091.3,-4484.9 2158.11,-4665.81"/>
+</g>
+<!-- executive&#45;&#45;cuba -->
+<g id="executive--cuba" class="edge">
+<title>executive--cuba</title>
+<path fill="none" stroke="black" d="M1766.49,-3974.37C1746.12,-4027.58 1724.94,-4082.92 1708.56,-4125.74"/>
+</g>
+<!-- executive&#45;&#45;grant -->
+<g id="executive--grant" class="edge">
+<title>executive--grant</title>
+<path fill="none" stroke="black" d="M1826.59,-3599.21C1818.7,-3433.71 1807.55,-3199.92 1800.57,-3053.42"/>
+</g>
+<!-- executive&#45;&#45;congress -->
+<g id="executive--congress" class="edge">
+<title>executive--congress</title>
+<path fill="none" stroke="black" d="M1968.67,-3934.67C2058.26,-4030.09 2176.61,-4156.17 2269.59,-4255.22"/>
+</g>
+<!-- executive&#45;&#45;island -->
+<g id="executive--island" class="edge">
+<title>executive--island</title>
+<path fill="none" stroke="black" d="M1858.66,-3985.8C1883.27,-4193.49 1921.44,-4515.73 1940.32,-4675.12"/>
+</g>
+<!-- democracy&#45;&#45;economic -->
+<g id="democracy--economic" class="edge">
+<title>democracy--economic</title>
+<path fill="none" stroke="black" d="M3738.13,-3538.98C3658.71,-3815.71 3494.2,-4388.97 3417.69,-4655.6"/>
+</g>
+<!-- democracy&#45;&#45;freedom -->
+<g id="democracy--freedom" class="edge">
+<title>democracy--freedom</title>
+<path fill="none" stroke="black" d="M3818.09,-3225.35C3844.76,-3105.97 3881.91,-2939.66 3912.7,-2801.85"/>
+</g>
+<!-- democracy&#45;&#45;disaster -->
+<g id="democracy--disaster" class="edge">
+<title>democracy--disaster</title>
+<path fill="none" stroke="black" d="M3738.14,-3539.09C3672.54,-3767.93 3551.54,-4189.99 3492.3,-4396.66"/>
+</g>
+<!-- democracy&#45;&#45;peace -->
+<g id="democracy--peace" class="edge">
+<title>democracy--peace</title>
+<path fill="none" stroke="black" d="M3856.89,-3238.94C4034.71,-2892.51 4487.8,-2009.83 4714.58,-1568.05"/>
+</g>
+<!-- democracy&#45;&#45;communism -->
+<g id="democracy--communism" class="edge">
+<title>democracy--communism</title>
+<path fill="none" stroke="black" d="M3788.29,-3221.25C3796.42,-2980.42 3811.66,-2528.98 3820.26,-2274.03"/>
+</g>
+<!-- democracy&#45;&#45;recovery -->
+<g id="democracy--recovery" class="edge">
+<title>democracy--recovery</title>
+<path fill="none" stroke="black" d="M3831.32,-3228.63C3910.34,-2976.75 4065.4,-2482.45 4138.78,-2248.51"/>
+</g>
+<!-- democracy&#45;&#45;agreement -->
+<g id="democracy--agreement" class="edge">
+<title>democracy--agreement</title>
+<path fill="none" stroke="black" d="M3843.54,-3232.9C3965.91,-2929.88 4241.16,-2248.36 4365.99,-1939.28"/>
+</g>
+<!-- democracy&#45;&#45;program -->
+<g id="democracy--program" class="edge">
+<title>democracy--program</title>
+<path fill="none" stroke="black" d="M3858.95,-3240.03C3992.79,-2988.29 4267.52,-2471.57 4388.46,-2244.08"/>
+</g>
+<!-- democracy&#45;&#45;nations -->
+<g id="democracy--nations" class="edge">
+<title>democracy--nations</title>
+<path fill="none" stroke="black" d="M3818.32,-3225.21C3889.84,-2906.84 4049.71,-2195.14 4111.71,-1919.15"/>
+</g>
+<!-- criminal&#45;&#45;progress -->
+<g id="criminal--progress" class="edge">
+<title>criminal--progress</title>
+<path fill="none" stroke="black" d="M1119.68,-3408.89C1085.87,-3443.29 1046.19,-3483.67 1008.66,-3521.85"/>
+</g>
+<!-- criminal&#45;&#45;enforcement -->
+<g id="criminal--enforcement" class="edge">
+<title>criminal--enforcement</title>
+<path fill="none" stroke="black" d="M1219.26,-3443.3C1225.92,-3500.69 1234.04,-3570.51 1241.47,-3634.49"/>
+</g>
+<!-- legislature&#45;&#45;pleasing -->
+<g id="legislature--pleasing" class="edge">
+<title>legislature--pleasing</title>
+<path fill="none" stroke="black" d="M3606.57,-3128.69C3627.13,-3122.58 3648.14,-3116.33 3668.42,-3110.3"/>
+</g>
+<!-- legislature&#45;&#45;people -->
+<g id="legislature--people" class="edge">
+<title>legislature--people</title>
+<path fill="none" stroke="black" d="M3423.38,-3021.35C3389.59,-2871.03 3336.25,-2633.75 3289.46,-2425.62"/>
+</g>
+<!-- legislature&#45;&#45;nation -->
+<g id="legislature--nation" class="edge">
+<title>legislature--nation</title>
+<path fill="none" stroke="black" d="M3610.12,-3142.4C3796.5,-3105 4118.61,-3040.35 4375.51,-2988.8"/>
+</g>
+<!-- people&#45;&#45;freedom -->
+<g id="people--freedom" class="edge">
+<title>people--freedom</title>
+<path fill="none" stroke="red" stroke-width="3" d="M3550.14,-2251.9C3621.27,-2302.35 3693.8,-2353.8 3758.09,-2399.4"/>
+</g>
+<!-- people&#45;&#45;citizen -->
+<g id="people--citizen" class="edge">
+<title>people--citizen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2775.4,-2126.66C2610.32,-2177.07 2424.29,-2233.87 2272.75,-2280.14"/>
+</g>
+<!-- people&#45;&#45;constitution -->
+<g id="people--constitution" class="edge">
+<title>people--constitution</title>
+<path fill="none" stroke="red" stroke-width="3" d="M2775.7,-2127.96C2424.26,-2236.45 1932.9,-2388.12 1635.9,-2479.8"/>
+</g>
+<!-- people&#45;&#45;nuclear -->
+<g id="people--nuclear" class="edge">
+<title>people--nuclear</title>
+<path fill="none" stroke="black" d="M3186.51,-2436.04C3184.27,-2574.73 3181.98,-2716.71 3180.44,-2812.3"/>
+</g>
+<!-- people&#45;&#45;partisan -->
+<g id="people--partisan" class="edge">
+<title>people--partisan</title>
+<path fill="none" stroke="black" d="M2803.54,-1801.49C2696.8,-1747.44 2589.59,-1693.14 2513.09,-1654.41"/>
+</g>
+<!-- people&#45;&#45;pleasing -->
+<g id="people--pleasing" class="edge">
+<title>people--pleasing</title>
+<path fill="none" stroke="black" d="M3409.75,-2378.93C3523.41,-2578.67 3655.08,-2810.05 3733.6,-2948.05"/>
+</g>
+<!-- people&#45;&#45;public -->
+<g id="people--public" class="edge">
+<title>people--public</title>
+<path fill="none" stroke="black" d="M2849.78,-1728.69C2695.93,-1607.72 2519.09,-1468.69 2383.58,-1362.14"/>
+</g>
+<!-- people&#45;&#45;executive -->
+<g id="people--executive" class="edge">
+<title>people--executive</title>
+<path fill="none" stroke="black" d="M2929.76,-2347.58C2634.35,-2737.95 2168.77,-3353.2 1952.92,-3638.45"/>
+</g>
+<!-- people&#45;&#45;democracy -->
+<g id="people--democracy" class="edge">
+<title>people--democracy</title>
+<path fill="none" stroke="black" d="M3364.79,-2401.22C3483.64,-2680.4 3635.18,-3036.4 3719.3,-3233.98"/>
+</g>
+<!-- people&#45;&#45;weapon -->
+<g id="people--weapon" class="edge">
+<title>people--weapon</title>
+<path fill="none" stroke="black" d="M3041.49,-2409.03C3017.9,-2472.63 2995.38,-2533.36 2977.23,-2582.31"/>
+</g>
+<!-- people&#45;&#45;revenue -->
+<g id="people--revenue" class="edge">
+<title>people--revenue</title>
+<path fill="none" stroke="black" d="M2876.79,-2300.22C2590.76,-2572.23 2184.64,-2958.46 1982.01,-3151.16"/>
+</g>
+<!-- people&#45;&#45;grant -->
+<g id="people--grant" class="edge">
+<title>people--grant</title>
+<path fill="none" stroke="black" d="M2828.14,-2238.62C2523.01,-2438.72 2107.02,-2711.53 1908.53,-2841.69"/>
+</g>
+<!-- people&#45;&#45;loan -->
+<g id="people--loan" class="edge">
+<title>people--loan</title>
+<path fill="none" stroke="black" d="M3202.36,-2436.23C3213.91,-3010.05 3233.39,-3977.88 3239.15,-4263.74"/>
+</g>
+<!-- people&#45;&#45;exercise -->
+<g id="people--exercise" class="edge">
+<title>people--exercise</title>
+<path fill="none" stroke="black" d="M2759.51,-1946.13C2648.52,-1932.62 2536.12,-1918.94 2449.17,-1908.35"/>
+</g>
+<!-- people&#45;&#45;union -->
+<g id="people--union" class="edge">
+<title>people--union</title>
+<path fill="none" stroke="red" stroke-width="3" d="M2948.66,-2361.34C2862.41,-2488.98 2768.3,-2628.23 2693.13,-2739.45"/>
+</g>
+<!-- people&#45;&#45;power -->
+<g id="people--power" class="edge">
+<title>people--power</title>
+<path fill="none" stroke="black" d="M2988.27,-2384.88C2844.91,-2654.38 2656.47,-3008.61 2525.38,-3255.04"/>
+</g>
+<!-- people&#45;&#45;negro -->
+<g id="people--negro" class="edge">
+<title>people--negro</title>
+<path fill="none" stroke="black" d="M2760.67,-1936.43C2291.87,-1868.69 1575.78,-1765.22 1312.72,-1727.2"/>
+</g>
+<!-- people&#45;&#45;congress -->
+<g id="people--congress" class="edge">
+<title>people--congress</title>
+<path fill="none" stroke="black" d="M3060.18,-2415.34C2893.23,-2936.5 2613.78,-3808.91 2486.46,-4206.36"/>
+</g>
+<!-- people&#45;&#45;americans -->
+<g id="people--americans" class="edge">
+<title>people--americans</title>
+<path fill="none" stroke="black" d="M3471.87,-2336.07C3738.31,-2658.78 4126.61,-3129.08 4314.09,-3356.17"/>
+</g>
+<!-- people&#45;&#45;law -->
+<g id="people--law" class="edge">
+<title>people--law</title>
+<path fill="none" stroke="red" stroke-width="3" d="M2772.76,-2117.78C2288.8,-2254.43 1507.18,-2475.11 1087.62,-2593.56"/>
+</g>
+<!-- people&#45;&#45;preservation -->
+<g id="people--preservation" class="edge">
+<title>people--preservation</title>
+<path fill="none" stroke="black" d="M2850.97,-2270.12C2800.22,-2310.29 2750.4,-2349.72 2706.81,-2384.22"/>
+</g>
+<!-- people&#45;&#45;strive -->
+<g id="people--strive" class="edge">
+<title>people--strive</title>
+<path fill="none" stroke="black" d="M3581.56,-1797.78C3785.44,-1692.06 4019.54,-1570.67 4150.4,-1502.81"/>
+</g>
+<!-- people&#45;&#45;peace -->
+<g id="people--peace" class="edge">
+<title>people--peace</title>
+<path fill="none" stroke="red" stroke-width="3" d="M3596.98,-1830.48C3901.89,-1703.13 4312.06,-1531.82 4578.25,-1420.64"/>
+</g>
+<!-- people&#45;&#45;strength -->
+<g id="people--strength" class="edge">
+<title>people--strength</title>
+<path fill="none" stroke="black" d="M3627.53,-1946.69C4000.83,-1901.72 4520.33,-1839.13 4788.87,-1806.78"/>
+</g>
+<!-- people&#45;&#45;america -->
+<g id="people--america" class="edge">
+<title>people--america</title>
+<path fill="none" stroke="black" d="M3596.39,-2168.84C4059.21,-2364 4804.73,-2678.36 5193.77,-2842.4"/>
+</g>
+<!-- people&#45;&#45;communism -->
+<g id="people--communism" class="edge">
+<title>people--communism</title>
+<path fill="none" stroke="black" d="M3626.73,-2058.72C3631.4,-2059.36 3636.02,-2060 3640.6,-2060.63"/>
+</g>
+<!-- people&#45;&#45;recovery -->
+<g id="people--recovery" class="edge">
+<title>people--recovery</title>
+<path fill="none" stroke="black" d="M3627.63,-2052.26C3778.63,-2070.8 3937.09,-2090.25 4045.2,-2103.52"/>
+</g>
+<!-- people&#45;&#45;agreement -->
+<g id="people--agreement" class="edge">
+<title>people--agreement</title>
+<path fill="none" stroke="black" d="M3624.16,-1923.24C3844.17,-1884.54 4099.18,-1839.69 4262.34,-1810.99"/>
+</g>
+<!-- people&#45;&#45;seek -->
+<g id="people--seek" class="edge">
+<title>people--seek</title>
+<path fill="none" stroke="black" d="M3538.1,-1730.23C3593.82,-1686.77 3649.06,-1643.68 3697.54,-1605.87"/>
+</g>
+<!-- people&#45;&#45;program -->
+<g id="people--program" class="edge">
+<title>people--program</title>
+<path fill="none" stroke="black" d="M3628.29,-2045.21C3872.98,-2071.23 4160.93,-2101.85 4322.14,-2118.99"/>
+</g>
+<!-- people&#45;&#45;change -->
+<g id="people--change" class="edge">
+<title>people--change</title>
+<path fill="none" stroke="black" d="M3492.22,-2318.18C3667.65,-2505.66 3880.28,-2732.9 4012.77,-2874.5"/>
+</g>
+<!-- people&#45;&#45;nations -->
+<g id="people--nations" class="edge">
+<title>people--nations</title>
+<path fill="none" stroke="black" d="M3622.13,-1911.66C3770.16,-1881.49 3923.9,-1850.17 4024.39,-1829.69"/>
+</g>
+<!-- people&#45;&#45;provision -->
+<g id="people--provision" class="edge">
+<title>people--provision</title>
+<path fill="none" stroke="black" d="M2757.36,-1968.21C2379.88,-1941.58 1857.7,-1904.74 1615.62,-1887.67"/>
+</g>
+<!-- people&#45;&#45;minority -->
+<g id="people--minority" class="edge">
+<title>people--minority</title>
+<path fill="none" stroke="black" d="M2757.83,-2035.65C2385.78,-2066.96 1875.67,-2109.88 1647.13,-2129.12"/>
+</g>
+<!-- people&#45;&#45;renewal -->
+<g id="people--renewal" class="edge">
+<title>people--renewal</title>
+<path fill="none" stroke="black" d="M3629.66,-2030.57C3999.85,-2057.38 4506.83,-2094.1 4739.21,-2110.94"/>
+</g>
+<!-- people&#45;&#45;voice -->
+<g id="people--voice" class="edge">
+<title>people--voice</title>
+<path fill="none" stroke="black" d="M3230.65,-1563.35C3258.31,-1238.41 3294.36,-815.11 3312.63,-600.44"/>
+</g>
+<!-- people&#45;&#45;fugitive -->
+<g id="people--fugitive" class="edge">
+<title>people--fugitive</title>
+<path fill="none" stroke="black" d="M2768.25,-1897.15C2414.36,-1812.41 1934.48,-1697.51 1716.27,-1645.27"/>
+</g>
+<!-- people&#45;&#45;free -->
+<g id="people--free" class="edge">
+<title>people--free</title>
+<path fill="none" stroke="black" d="M3492.25,-1679.96C3725.95,-1430.37 4042.97,-1091.79 4237.9,-883.59"/>
+</g>
+<!-- people&#45;&#45;challenge -->
+<g id="people--challenge" class="edge">
+<title>people--challenge</title>
+<path fill="none" stroke="black" d="M3630.03,-2024.03C4075.24,-2049.59 4740.32,-2087.76 5028.44,-2104.3"/>
+</g>
+<!-- people&#45;&#45;earth -->
+<g id="people--earth" class="edge">
+<title>people--earth</title>
+<path fill="none" stroke="black" d="M3313.49,-1578.49C3404.59,-1259.07 3524.76,-837.77 3588.63,-613.86"/>
+</g>
+<!-- people&#45;&#45;productivity -->
+<g id="people--productivity" class="edge">
+<title>people--productivity</title>
+<path fill="none" stroke="black" d="M3428.9,-1630.78C3569.79,-1410.35 3741.55,-1141.63 3847.64,-975.66"/>
+</g>
+<!-- people&#45;&#45;faith -->
+<g id="people--faith" class="edge">
+<title>people--faith</title>
+<path fill="none" stroke="black" d="M3356.28,-1593.27C3403.6,-1475.3 3452.8,-1352.63 3491.14,-1257.06"/>
+</g>
+<!-- people&#45;&#45;institution -->
+<g id="people--institution" class="edge">
+<title>people--institution</title>
+<path fill="none" stroke="black" d="M3015.93,-1599.74C2878.41,-1290.65 2694.79,-877.94 2593.18,-649.57"/>
+</g>
+<!-- people&#45;&#45;case -->
+<g id="people--case" class="edge">
+<title>people--case</title>
+<path fill="none" stroke="black" d="M2770.51,-1888.04C2510.28,-1819.8 2194.05,-1736.88 2018.62,-1690.87"/>
+</g>
+<!-- people&#45;&#45;today -->
+<g id="people--today" class="edge">
+<title>people--today</title>
+<path fill="none" stroke="black" d="M3621.88,-1911.83C4098.36,-1814.88 4847.09,-1662.54 5197.19,-1591.31"/>
+</g>
+<!-- people&#45;&#45;slave -->
+<g id="people--slave" class="edge">
+<title>people--slave</title>
+<path fill="none" stroke="black" d="M2757.2,-1972.18C2434.41,-1952.36 2019.29,-1926.86 1829.95,-1915.24"/>
+</g>
+<!-- people&#45;&#45;catch -->
+<g id="people--catch" class="edge">
+<title>people--catch</title>
+<path fill="none" stroke="black" d="M3258.81,-1566.82C3298.31,-1305.19 3345.36,-993.62 3368.28,-841.86"/>
+</g>
+<!-- people&#45;&#45;idea -->
+<g id="people--idea" class="edge">
+<title>people--idea</title>
+<path fill="none" stroke="black" d="M3622.24,-2084.59C4065.37,-2173.1 4729.19,-2305.67 4997.86,-2359.33"/>
+</g>
+<!-- people&#45;&#45;moment -->
+<g id="people--moment" class="edge">
+<title>people--moment</title>
+<path fill="none" stroke="black" d="M3159.76,-1563.05C3142.05,-1334.6 3121.55,-1070.23 3109.31,-912.39"/>
+</g>
+<!-- people&#45;&#45;ballot -->
+<g id="people--ballot" class="edge">
+<title>people--ballot</title>
+<path fill="none" stroke="black" d="M2789.75,-1831.14C2418.83,-1676.97 1897.89,-1460.45 1701.56,-1378.84"/>
+</g>
+<!-- revenue&#45;&#45;loan -->
+<g id="revenue--loan" class="edge">
+<title>revenue--loan</title>
+<path fill="none" stroke="black" d="M1993.39,-3376.19C2285.93,-3603.52 2963.99,-4130.46 3176.14,-4295.33"/>
+</g>
+<!-- revenue&#45;&#45;texas -->
+<g id="revenue--texas" class="edge">
+<title>revenue--texas</title>
+<path fill="none" stroke="black" d="M1791,-3429.76C1726.36,-3586.33 1630.42,-3818.7 1580.28,-3940.14"/>
+</g>
+<!-- revenue&#45;&#45;congress -->
+<g id="revenue--congress" class="edge">
+<title>revenue--congress</title>
+<path fill="none" stroke="black" d="M1933.24,-3425.42C2034.31,-3631.08 2212.62,-3993.86 2322.98,-4218.41"/>
+</g>
+<!-- exercise&#45;&#45;preservation -->
+<g id="exercise--preservation" class="edge">
+<title>exercise--preservation</title>
+<path fill="none" stroke="black" d="M2355.46,-2035.09C2395,-2123.89 2445.65,-2237.62 2486.9,-2330.23"/>
+</g>
+<!-- nation&#45;&#45;freedom -->
+<g id="nation--freedom" class="edge">
+<title>nation--freedom</title>
+<path fill="none" stroke="red" stroke-width="2" d="M4403.32,-2746.05C4335.94,-2715.49 4267.18,-2684.3 4204.84,-2656.02"/>
+</g>
+<!-- nation&#45;&#45;pleasing -->
+<g id="nation--pleasing" class="edge">
+<title>nation--pleasing</title>
+<path fill="none" stroke="black" d="M4373.2,-2975.63C4220.17,-3001.03 4054.75,-3028.48 3941.72,-3047.24"/>
+</g>
+<!-- nation&#45;&#45;democracy -->
+<g id="nation--democracy" class="edge">
+<title>nation--democracy</title>
+<path fill="none" stroke="red" stroke-width="2" d="M4407.09,-3082.99C4241.7,-3162.53 4054.62,-3252.5 3928.75,-3313.04"/>
+</g>
+<!-- nation&#45;&#45;people -->
+<g id="nation--people" class="edge">
+<title>nation--people</title>
+<path fill="none" stroke="red" stroke-width="3" d="M4421.24,-2710.73C4170.2,-2565.19 3830.24,-2368.1 3571.71,-2218.21"/>
+</g>
+<!-- nation&#45;&#45;union -->
+<g id="nation--union" class="edge">
+<title>nation--union</title>
+<path fill="none" stroke="black" d="M4367.63,-2917.95C3914.87,-2926.45 3188.96,-2940.07 2805.67,-2947.26"/>
+</g>
+<!-- nation&#45;&#45;commitment -->
+<g id="nation--commitment" class="edge">
+<title>nation--commitment</title>
+<path fill="none" stroke="black" d="M5163.86,-2917.77C5357.63,-2921.32 5581.39,-2925.41 5735.42,-2928.23"/>
+</g>
+<!-- nation&#45;&#45;strive -->
+<g id="nation--strive" class="edge">
+<title>nation--strive</title>
+<path fill="none" stroke="black" d="M4633.83,-2534.78C4519.82,-2210.18 4362.45,-1762.15 4290.89,-1558.43"/>
+</g>
+<!-- nation&#45;&#45;life -->
+<g id="nation--life" class="edge">
+<title>nation--life</title>
+<path fill="none" stroke="black" d="M4689,-3301.14C4631.02,-3596.14 4553.19,-3992.1 4503.43,-4245.21"/>
+</g>
+<!-- nation&#45;&#45;peace -->
+<g id="nation--peace" class="edge">
+<title>nation--peace</title>
+<path fill="none" stroke="red" stroke-width="3" d="M4786.21,-2512.8C4800.75,-2229.73 4819.96,-1855.72 4833.1,-1599.94"/>
+</g>
+<!-- nation&#45;&#45;story -->
+<g id="nation--story" class="edge">
+<title>nation--story</title>
+<path fill="none" stroke="black" d="M5139.56,-2773.03C5440.41,-2662.39 5841.28,-2514.98 6018.44,-2449.83"/>
+</g>
+<!-- nation&#45;&#45;man -->
+<g id="nation--man" class="edge">
+<title>nation--man</title>
+<path fill="none" stroke="black" d="M4544.89,-3241.78C4394.79,-3466.91 4199.63,-3759.61 4064,-3963.02"/>
+</g>
+<!-- nation&#45;&#45;strength -->
+<g id="nation--strength" class="edge">
+<title>nation--strength</title>
+<path fill="none" stroke="black" d="M4835.28,-2518.6C4869.04,-2328.22 4907.91,-2109.02 4934.28,-1960.28"/>
+</g>
+<!-- nation&#45;&#45;america -->
+<g id="nation--america" class="edge">
+<title>nation--america</title>
+<path fill="none" stroke="red" stroke-width="5" d="M5162.99,-2933.38C5166.07,-2933.56 5169.14,-2933.74 5172.21,-2933.92"/>
+</g>
+<!-- nation&#45;&#45;mastery -->
+<g id="nation--mastery" class="edge">
+<title>nation--mastery</title>
+<path fill="none" stroke="black" d="M4498.33,-3205.23C4391.6,-3322.86 4275.46,-3450.85 4196.04,-3538.37"/>
+</g>
+<!-- nation&#45;&#45;communism -->
+<g id="nation--communism" class="edge">
+<title>nation--communism</title>
+<path fill="none" stroke="black" d="M4466.69,-2648C4299.69,-2501.44 4099.4,-2325.68 3967.87,-2210.26"/>
+</g>
+<!-- nation&#45;&#45;recovery -->
+<g id="nation--recovery" class="edge">
+<title>nation--recovery</title>
+<path fill="none" stroke="black" d="M4528.43,-2590.65C4432.77,-2461.75 4328.86,-2321.73 4259.45,-2228.21"/>
+</g>
+<!-- nation&#45;&#45;civility -->
+<g id="nation--civility" class="edge">
+<title>nation--civility</title>
+<path fill="none" stroke="black" d="M5155.96,-2832.72C5458.97,-2772.33 5857.17,-2692.96 6038.9,-2656.74"/>
+</g>
+<!-- nation&#45;&#45;covenant -->
+<g id="nation--covenant" class="edge">
+<title>nation--covenant</title>
+<path fill="none" stroke="black" d="M4453.4,-3157.41C4255.34,-3313.98 4011.13,-3507.01 3872.37,-3616.7"/>
+</g>
+<!-- nation&#45;&#45;enhance -->
+<g id="nation--enhance" class="edge">
+<title>nation--enhance</title>
+<path fill="none" stroke="black" d="M5141.89,-2780.45C5349.27,-2708.75 5593.58,-2624.29 5739.56,-2573.82"/>
+</g>
+<!-- nation&#45;&#45;promise -->
+<g id="nation--promise" class="edge">
+<title>nation--promise</title>
+<path fill="none" stroke="black" d="M5091.71,-3139.16C5289.77,-3278.13 5532.23,-3448.26 5680.41,-3552.24"/>
+</g>
+<!-- nation&#45;&#45;agreement -->
+<g id="nation--agreement" class="edge">
+<title>nation--agreement</title>
+<path fill="none" stroke="black" d="M4652.24,-2529.06C4592.94,-2329.9 4523.5,-2096.63 4478.16,-1944.33"/>
+</g>
+<!-- nation&#45;&#45;seek -->
+<g id="nation--seek" class="edge">
+<title>nation--seek</title>
+<path fill="none" stroke="black" d="M4552.23,-2574.47C4368.27,-2285.03 4110.25,-1879.08 3965.98,-1652.09"/>
+</g>
+<!-- nation&#45;&#45;program -->
+<g id="nation--program" class="edge">
+<title>nation--program</title>
+<path fill="none" stroke="black" d="M4615.2,-2541.93C4571.87,-2435.87 4527.7,-2327.77 4495.63,-2249.28"/>
+</g>
+<!-- nation&#45;&#45;change -->
+<g id="nation--change" class="edge">
+<title>nation--change</title>
+<path fill="none" stroke="black" d="M4372.74,-2972.94C4355.66,-2975.65 4338.92,-2978.31 4322.74,-2980.88"/>
+</g>
+<!-- nation&#45;&#45;role -->
+<g id="nation--role" class="edge">
+<title>nation--role</title>
+<path fill="none" stroke="black" d="M5113.47,-2716.78C5353.45,-2583.1 5653.79,-2415.78 5795.02,-2337.09"/>
+</g>
+<!-- nation&#45;&#45;century -->
+<g id="nation--century" class="edge">
+<title>nation--century</title>
+<path fill="none" stroke="black" d="M5144.03,-3035.19C5359,-3106.08 5617.27,-3191.24 5781.79,-3245.48"/>
+</g>
+<!-- nation&#45;&#45;responsibility -->
+<g id="nation--responsibility" class="edge">
+<title>nation--responsibility</title>
+<path fill="none" stroke="black" d="M5046.96,-2628.68C5216.37,-2458.88 5424.39,-2250.39 5557.42,-2117.06"/>
+</g>
+<!-- nation&#45;&#45;era -->
+<g id="nation--era" class="edge">
+<title>nation--era</title>
+<path fill="none" stroke="black" d="M5084.96,-2672.26C5236,-2559.52 5404.51,-2433.75 5503.19,-2360.09"/>
+</g>
+<!-- nation&#45;&#45;nations -->
+<g id="nation--nations" class="edge">
+<title>nation--nations</title>
+<path fill="none" stroke="black" d="M4568.77,-2564.66C4438.9,-2336.72 4277.84,-2054.03 4193.9,-1906.69"/>
+</g>
+<!-- nation&#45;&#45;dream -->
+<g id="nation--dream" class="edge">
+<title>nation--dream</title>
+<path fill="none" stroke="red" stroke-width="2" d="M5092.25,-3138.18C5172.22,-3193.96 5252.49,-3249.95 5314.32,-3293.08"/>
+</g>
+<!-- country&#45;&#45;party -->
+<g id="country--party" class="edge">
+<title>country--party</title>
+<path fill="none" stroke="black" d="M4743.92,-5042.81C4445.99,-5173.49 4005.26,-5366.79 3752.47,-5477.66"/>
+</g>
+<!-- country&#45;&#45;america -->
+<g id="country--america" class="edge">
+<title>country--america</title>
+<path fill="none" stroke="black" d="M5121.61,-4574.04C5198.38,-4192.74 5322.78,-3574.83 5393.96,-3221.26"/>
+</g>
+<!-- country&#45;&#45;dream -->
+<g id="country--dream" class="edge">
+<title>country--dream</title>
+<path fill="none" stroke="black" d="M5134.54,-4576.7C5215.58,-4242.08 5336.99,-3740.71 5394.3,-3504.03"/>
+</g>
+<!-- country&#45;&#45;american -->
+<g id="country--american" class="edge">
+<title>country--american</title>
+<path fill="none" stroke="black" d="M5294.66,-4666.98C5354.34,-4607.42 5417.11,-4544.76 5472.7,-4489.27"/>
+</g>
+<!-- country&#45;&#45;job -->
+<g id="country--job" class="edge">
+<title>country--job</title>
+<path fill="none" stroke="black" d="M5180.96,-4591.81C5194.56,-4557.91 5207.52,-4525.63 5218.76,-4497.62"/>
+</g>
+<!-- country&#45;&#45;obama -->
+<g id="country--obama" class="edge">
+<title>country--obama</title>
+<path fill="none" stroke="black" d="M5214.09,-4606.97C5314.01,-4419.22 5436.92,-4188.28 5507.96,-4054.79"/>
+</g>
+<!-- union&#45;&#45;constitution -->
+<g id="union--constitution" class="edge">
+<title>union--constitution</title>
+<path fill="none" stroke="red" stroke-width="3" d="M2306.2,-2870.64C2109.76,-2804.89 1834.08,-2712.6 1634.08,-2645.65"/>
+</g>
+<!-- union&#45;&#45;revenue -->
+<g id="union--revenue" class="edge">
+<title>union--revenue</title>
+<path fill="none" stroke="black" d="M2316.43,-3059.08C2216.95,-3104.77 2103.46,-3156.89 2014.15,-3197.91"/>
+</g>
+<!-- union&#45;&#45;exercise -->
+<g id="union--exercise" class="edge">
+<title>union--exercise</title>
+<path fill="none" stroke="black" d="M2488.71,-2702.83C2439.07,-2499.09 2370.43,-2217.39 2328.3,-2044.51"/>
+</g>
+<!-- union&#45;&#45;texas -->
+<g id="union--texas" class="edge">
+<title>union--texas</title>
+<path fill="none" stroke="black" d="M2373.97,-3139.13C2144.66,-3383.59 1754.85,-3799.14 1606.62,-3957.16"/>
+</g>
+<!-- union&#45;&#45;negro -->
+<g id="union--negro" class="edge">
+<title>union--negro</title>
+<path fill="none" stroke="black" d="M2361.26,-2777.76C2062.15,-2500.7 1491.15,-1971.8 1286.53,-1782.27"/>
+</g>
+<!-- union&#45;&#45;law -->
+<g id="union--law" class="edge">
+<title>union--law</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2296.38,-2911.99C1978.11,-2861.59 1432.57,-2775.19 1095.33,-2721.78"/>
+</g>
+<!-- union&#45;&#45;preservation -->
+<g id="union--preservation" class="edge">
+<title>union--preservation</title>
+<path fill="none" stroke="black" d="M2556.54,-2695.66C2556.65,-2691.55 2556.77,-2687.46 2556.88,-2683.39"/>
+</g>
+<!-- union&#45;&#45;man -->
+<g id="union--man" class="edge">
+<title>union--man</title>
+<path fill="none" stroke="black" d="M2737.59,-3126.3C2987.4,-3357.63 3427.43,-3765.1 3689.3,-4007.6"/>
+</g>
+<!-- union&#45;&#45;mastery -->
+<g id="union--mastery" class="edge">
+<title>union--mastery</title>
+<path fill="none" stroke="black" d="M2783.49,-3056.83C3113.3,-3204.45 3703.81,-3468.77 3966.51,-3586.36"/>
+</g>
+<!-- union&#45;&#45;covenant -->
+<g id="union--covenant" class="edge">
+<title>union--covenant</title>
+<path fill="none" stroke="black" d="M2767.31,-3087.12C3023.49,-3245.91 3439.48,-3503.77 3642.74,-3629.77"/>
+</g>
+<!-- union&#45;&#45;change -->
+<g id="union--change" class="edge">
+<title>union--change</title>
+<path fill="none" stroke="black" d="M2805.8,-2961.41C3127.09,-2973.11 3669.97,-2992.89 3953.89,-3003.23"/>
+</g>
+<!-- union&#45;&#45;provision -->
+<g id="union--provision" class="edge">
+<title>union--provision</title>
+<path fill="none" stroke="black" d="M2368.76,-2770.22C2139.78,-2539.77 1753.63,-2151.13 1576.47,-1972.83"/>
+</g>
+<!-- union&#45;&#45;minority -->
+<g id="union--minority" class="edge">
+<title>union--minority</title>
+<path fill="none" stroke="black" d="M2348.85,-2792.43C2129.07,-2617.53 1785.98,-2344.5 1621.73,-2213.79"/>
+</g>
+<!-- union&#45;&#45;fugitive -->
+<g id="union--fugitive" class="edge">
+<title>union--fugitive</title>
+<path fill="none" stroke="black" d="M2400.78,-2743.15C2192.54,-2450.52 1822.33,-1930.27 1669.07,-1714.89"/>
+</g>
+<!-- union&#45;&#45;case -->
+<g id="union--case" class="edge">
+<title>union--case</title>
+<path fill="none" stroke="black" d="M2432.37,-2723.69C2291.21,-2448.29 2059.1,-1995.48 1948.04,-1778.82"/>
+</g>
+<!-- union&#45;&#45;slave -->
+<g id="union--slave" class="edge">
+<title>union--slave</title>
+<path fill="none" stroke="black" d="M2390.75,-2750.64C2208.57,-2519.41 1918.54,-2151.28 1791.15,-1989.59"/>
+</g>
+<!-- union&#45;&#45;question -->
+<g id="union--question" class="edge">
+<title>union--question</title>
+<path fill="none" stroke="black" d="M2314.4,-2850.05C1949.45,-2691.64 1254.36,-2389.94 925.5,-2247.2"/>
+</g>
+<!-- union&#45;&#45;territory -->
+<g id="union--territory" class="edge">
+<title>union--territory</title>
+<path fill="none" stroke="black" d="M2296.63,-2994.75C1932.23,-3056.27 1270.49,-3167.98 972.73,-3218.25"/>
+</g>
+<!-- power&#45;&#45;citizen -->
+<g id="power--citizen" class="edge">
+<title>power--citizen</title>
+<path fill="none" stroke="black" d="M2263,-3233.73C2203.83,-3059.16 2130.63,-2843.17 2072.33,-2671.13"/>
+</g>
+<!-- power&#45;&#45;constitution -->
+<g id="power--constitution" class="edge">
+<title>power--constitution</title>
+<path fill="none" stroke="black" d="M2134.35,-3313.81C1961.84,-3141.98 1730.47,-2911.54 1569.08,-2750.79"/>
+</g>
+<!-- power&#45;&#45;executive -->
+<g id="power--executive" class="edge">
+<title>power--executive</title>
+<path fill="none" stroke="black" d="M2067.98,-3686.55C2048.97,-3695.28 2030.2,-3703.9 2012.06,-3712.23"/>
+</g>
+<!-- power&#45;&#45;revenue -->
+<g id="power--revenue" class="edge">
+<title>power--revenue</title>
+<path fill="none" stroke="black" d="M2077.65,-3389.8C2054.01,-3376.99 2030.79,-3364.39 2008.8,-3352.47"/>
+</g>
+<!-- power&#45;&#45;grant -->
+<g id="power--grant" class="edge">
+<title>power--grant</title>
+<path fill="none" stroke="black" d="M2146.2,-3303.07C2055.69,-3203.78 1956.21,-3094.65 1886.14,-3017.78"/>
+</g>
+<!-- power&#45;&#45;texas -->
+<g id="power--texas" class="edge">
+<title>power--texas</title>
+<path fill="none" stroke="black" d="M2081.85,-3713.36C1918.32,-3807.33 1726.05,-3917.81 1622.41,-3977.37"/>
+</g>
+<!-- power&#45;&#45;union -->
+<g id="power--union" class="edge">
+<title>power--union</title>
+<path fill="none" stroke="black" d="M2465.41,-3230.43C2468.72,-3219.46 2472.02,-3208.53 2475.29,-3197.69"/>
+</g>
+<!-- negro&#45;&#45;interstate -->
+<g id="negro--interstate" class="edge">
+<title>negro--interstate</title>
+<path fill="none" stroke="black" d="M1109.8,-1728.5C995.4,-1746.48 808.51,-1775.87 679.27,-1796.2"/>
+</g>
+<!-- negro&#45;&#45;business -->
+<g id="negro--business" class="edge">
+<title>negro--business</title>
+<path fill="none" stroke="black" d="M1117.62,-1670.07C1013.29,-1622.75 842.99,-1545.5 718.97,-1489.25"/>
+</g>
+<!-- negro&#45;&#45;tariff -->
+<g id="negro--tariff" class="edge">
+<title>negro--tariff</title>
+<path fill="none" stroke="black" d="M1108.52,-1710.44C1073.26,-1709.72 1033.37,-1708.91 996.38,-1708.15"/>
+</g>
+<!-- negro&#45;&#45;amendment -->
+<g id="negro--amendment" class="edge">
+<title>negro--amendment</title>
+<path fill="none" stroke="black" d="M1154.41,-1626.99C1115.32,-1568.16 1062.41,-1488.53 1016.67,-1419.68"/>
+</g>
+<!-- congress&#45;&#45;inhabitant -->
+<g id="congress--inhabitant" class="edge">
+<title>congress--inhabitant</title>
+<path fill="none" stroke="black" d="M2316.94,-4608.72C2305.2,-4630.87 2293.43,-4653.08 2282.23,-4674.21"/>
+</g>
+<!-- congress&#45;&#45;cuba -->
+<g id="congress--cuba" class="edge">
+<title>congress--cuba</title>
+<path fill="none" stroke="black" d="M2208.95,-4354.47C2058.5,-4311.22 1864.57,-4255.47 1758.05,-4224.85"/>
+</g>
+<!-- congress&#45;&#45;loan -->
+<g id="congress--loan" class="edge">
+<title>congress--loan</title>
+<path fill="none" stroke="black" d="M2638.06,-4396.55C2809.58,-4382.05 3038.87,-4362.65 3159.2,-4352.47"/>
+</g>
+<!-- congress&#45;&#45;island -->
+<g id="congress--island" class="edge">
+<title>congress--island</title>
+<path fill="none" stroke="black" d="M2245.38,-4547.63C2170.68,-4604.48 2087.27,-4667.95 2028.48,-4712.69"/>
+</g>
+<!-- americans&#45;&#45;hero -->
+<g id="americans--hero" class="edge">
+<title>americans--hero</title>
+<path fill="none" stroke="black" d="M4333.39,-3635.01C4186.83,-3873.25 3901.94,-4336.34 3791.01,-4516.66"/>
+</g>
+<!-- americans&#45;&#45;renewal -->
+<g id="americans--renewal" class="edge">
+<title>americans--renewal</title>
+<path fill="none" stroke="black" d="M4476.25,-3324.89C4566.18,-3046.06 4747,-2485.41 4826.2,-2239.85"/>
+</g>
+<!-- americans&#45;&#45;challenge -->
+<g id="americans--challenge" class="edge">
+<title>americans--challenge</title>
+<path fill="none" stroke="black" d="M4505.47,-3337.4C4654.04,-3063.52 4964.96,-2490.31 5102.28,-2237.16"/>
+</g>
+<!-- americans&#45;&#45;idea -->
+<g id="americans--idea" class="edge">
+<title>americans--idea</title>
+<path fill="none" stroke="black" d="M4514.84,-3342.96C4657.3,-3115.91 4928.78,-2683.24 5052.62,-2485.88"/>
+</g>
+<!-- americans&#45;&#45;liberty -->
+<g id="americans--liberty" class="edge">
+<title>americans--liberty</title>
+<path fill="none" stroke="black" d="M4591.47,-3524.43C4657.98,-3538.61 4735.31,-3555.1 4806.02,-3570.17"/>
+</g>
+<!-- enforcement&#45;&#45;progress -->
+<g id="enforcement--progress" class="edge">
+<title>enforcement--progress</title>
+<path fill="none" stroke="black" d="M1089.06,-3749.5C1076.68,-3744.35 1064.18,-3739.14 1051.78,-3733.98"/>
+</g>
+<!-- law&#45;&#45;criminal -->
+<g id="law--criminal" class="edge">
+<title>law--criminal</title>
+<path fill="none" stroke="black" d="M958.34,-2928.31C1021.76,-3029.45 1091.19,-3140.18 1140.22,-3218.36"/>
+</g>
+<!-- law&#45;&#45;progress -->
+<g id="law--progress" class="edge">
+<title>law--progress</title>
+<path fill="none" stroke="black" d="M821.81,-2973.38C833.82,-3133.7 848.28,-3326.67 858.8,-3467.09"/>
+</g>
+<!-- law&#45;&#45;negro -->
+<g id="law--negro" class="edge">
+<title>law--negro</title>
+<path fill="none" stroke="black" d="M917.18,-2399.79C1002.4,-2200.64 1112.45,-1943.44 1170.78,-1807.12"/>
+</g>
+<!-- law&#45;&#45;enforcement -->
+<g id="law--enforcement" class="edge">
+<title>law--enforcement</title>
+<path fill="none" stroke="black" d="M911.72,-2952.61C999.19,-3168.93 1117.92,-3462.58 1192.56,-3647.18"/>
+</g>
+<!-- law&#45;&#45;provision -->
+<g id="law--provision" class="edge">
+<title>law--provision</title>
+<path fill="none" stroke="black" d="M994.28,-2447.7C1126.57,-2293.41 1295.13,-2096.82 1395.62,-1979.62"/>
+</g>
+<!-- law&#45;&#45;minority -->
+<g id="law--minority" class="edge">
+<title>law--minority</title>
+<path fill="none" stroke="black" d="M1040.76,-2497.45C1174.14,-2399.35 1332.44,-2282.92 1431.56,-2210.02"/>
+</g>
+<!-- law&#45;&#45;slave -->
+<g id="law--slave" class="edge">
+<title>law--slave</title>
+<path fill="none" stroke="black" d="M1030.38,-2484.35C1231.99,-2317.98 1512.91,-2086.15 1648.37,-1974.36"/>
+</g>
+<!-- law&#45;&#45;ballot -->
+<g id="law--ballot" class="edge">
+<title>law--ballot</title>
+<path fill="none" stroke="black" d="M957.18,-2420.27C1149.15,-2110.33 1462.02,-1605.21 1577.71,-1418.42"/>
+</g>
+<!-- law&#45;&#45;specie -->
+<g id="law--specie" class="edge">
+<title>law--specie</title>
+<path fill="none" stroke="black" d="M523.35,-2558.87C509.78,-2553.17 496.68,-2547.67 484.33,-2542.47"/>
+</g>
+<!-- law&#45;&#45;debt -->
+<g id="law--debt" class="edge">
+<title>law--debt</title>
+<path fill="none" stroke="black" d="M542.53,-2828.84C451.48,-2883.38 353.79,-2941.91 281.47,-2985.24"/>
+</g>
+<!-- law&#45;&#45;payment -->
+<g id="law--payment" class="edge">
+<title>law--payment</title>
+<path fill="none" stroke="black" d="M501.1,-2698.9C422.45,-2705.23 341.34,-2711.75 275.77,-2717.01"/>
+</g>
+<!-- law&#45;&#45;dollar -->
+<g id="law--dollar" class="edge">
+<title>law--dollar</title>
+<path fill="none" stroke="black" d="M551.22,-2842.26C519.97,-2863.32 490.23,-2883.37 465.19,-2900.25"/>
+</g>
+<!-- law&#45;&#45;pay -->
+<g id="law--pay" class="edge">
+<title>law--pay</title>
+<path fill="none" stroke="black" d="M652.65,-2936.03C606.38,-3018.32 557.42,-3105.4 519.18,-3173.41"/>
+</g>
+<!-- commitment&#45;&#45;story -->
+<g id="commitment--story" class="edge">
+<title>commitment--story</title>
+<path fill="none" stroke="black" d="M5986.22,-2755.8C6016.49,-2672.28 6051.39,-2575.98 6076.26,-2507.35"/>
+</g>
+<!-- life&#45;&#45;democracy -->
+<g id="life--democracy" class="edge">
+<title>life--democracy</title>
+<path fill="none" stroke="black" d="M4323.43,-4277.16C4188.18,-4053.51 3981.29,-3711.4 3866.64,-3521.82"/>
+</g>
+<!-- life&#45;&#45;man -->
+<g id="life--man" class="edge">
+<title>life--man</title>
+<path fill="none" stroke="black" d="M4230.04,-4376.48C4207.06,-4364.45 4183.58,-4352.17 4160.28,-4339.97"/>
+</g>
+<!-- life&#45;&#45;america -->
+<g id="life--america" class="edge">
+<title>life--america</title>
+<path fill="none" stroke="black" d="M4591.72,-4280.88C4777.27,-3992.66 5107.03,-3480.44 5298.85,-3182.48"/>
+</g>
+<!-- peace&#45;&#45;freedom -->
+<g id="peace--freedom" class="edge">
+<title>peace--freedom</title>
+<path fill="none" stroke="red" stroke-width="2" d="M4679.15,-1546.51C4516.9,-1775.63 4274.13,-2118.45 4118.71,-2337.92"/>
+</g>
+<!-- peace&#45;&#45;strive -->
+<g id="peace--strive" class="edge">
+<title>peace--strive</title>
+<path fill="none" stroke="black" d="M4563.49,-1375.73C4492.93,-1392.54 4421.39,-1409.58 4364.77,-1423.07"/>
+</g>
+<!-- peace&#45;&#45;communism -->
+<g id="peace--communism" class="edge">
+<title>peace--communism</title>
+<path fill="none" stroke="black" d="M4615.66,-1485.04C4419.32,-1634.65 4143.97,-1844.45 3975.85,-1972.55"/>
+</g>
+<!-- peace&#45;&#45;recovery -->
+<g id="peace--recovery" class="edge">
+<title>peace--recovery</title>
+<path fill="none" stroke="black" d="M4662.19,-1533.59C4532.18,-1691.4 4364.58,-1894.83 4264.84,-2015.9"/>
+</g>
+<!-- peace&#45;&#45;agreement -->
+<g id="peace--agreement" class="edge">
+<title>peace--agreement</title>
+<path fill="none" stroke="black" d="M4654.51,-1527.07C4616,-1570.66 4576.78,-1615.05 4542.11,-1654.3"/>
+</g>
+<!-- peace&#45;&#45;seek -->
+<g id="peace--seek" class="edge">
+<title>peace--seek</title>
+<path fill="none" stroke="black" d="M4560.21,-1358.29C4398.81,-1386.51 4201.55,-1421.01 4057.13,-1446.27"/>
+</g>
+<!-- peace&#45;&#45;program -->
+<g id="peace--program" class="edge">
+<title>peace--program</title>
+<path fill="none" stroke="black" d="M4720.36,-1571.06C4647.09,-1721.97 4558.87,-1903.7 4503.06,-2018.65"/>
+</g>
+<!-- peace&#45;&#45;role -->
+<g id="peace--role" class="edge">
+<title>peace--role</title>
+<path fill="none" stroke="black" d="M5059.1,-1510.11C5293.99,-1735.16 5660.14,-2085.97 5809.09,-2228.68"/>
+</g>
+<!-- peace&#45;&#45;responsibility -->
+<g id="peace--responsibility" class="edge">
+<title>peace--responsibility</title>
+<path fill="none" stroke="black" d="M5076.3,-1490.56C5224.71,-1609.33 5413.94,-1760.76 5543.06,-1864.09"/>
+</g>
+<!-- peace&#45;&#45;era -->
+<g id="peace--era" class="edge">
+<title>peace--era</title>
+<path fill="none" stroke="black" d="M5023.27,-1541.92C5184.32,-1757.04 5414.28,-2064.2 5524.53,-2211.47"/>
+</g>
+<!-- peace&#45;&#45;nations -->
+<g id="peace--nations" class="edge">
+<title>peace--nations</title>
+<path fill="none" stroke="black" d="M4608.82,-1475.77C4479.55,-1566.45 4327.22,-1673.3 4231.36,-1740.54"/>
+</g>
+<!-- peace&#45;&#45;voice -->
+<g id="peace--voice" class="edge">
+<title>peace--voice</title>
+<path fill="none" stroke="black" d="M4592.63,-1166.21C4260.01,-981.69 3692.03,-666.6 3445.03,-529.56"/>
+</g>
+<!-- peace&#45;&#45;earth -->
+<g id="peace--earth" class="edge">
+<title>peace--earth</title>
+<path fill="none" stroke="black" d="M4608.39,-1140.33C4355.99,-963.84 3967.75,-692.37 3765.62,-551.04"/>
+</g>
+<!-- peace&#45;&#45;today -->
+<g id="peace--today" class="edge">
+<title>peace--today</title>
+<path fill="none" stroke="black" d="M5114.53,-1428.07C5147.14,-1442.77 5179.83,-1457.51 5210.71,-1471.44"/>
+</g>
+<!-- peace&#45;&#45;catch -->
+<g id="peace--catch" class="edge">
+<title>peace--catch</title>
+<path fill="none" stroke="black" d="M4574.95,-1203.9C4237.82,-1075.49 3682.98,-864.15 3469.59,-782.86"/>
+</g>
+<!-- peace&#45;&#45;moment -->
+<g id="peace--moment" class="edge">
+<title>peace--moment</title>
+<path fill="none" stroke="black" d="M4568.44,-1222.33C4186.75,-1105.48 3517.61,-900.64 3232.86,-813.47"/>
+</g>
+<!-- peace&#45;&#45;trend -->
+<g id="peace--trend" class="edge">
+<title>peace--trend</title>
+<path fill="none" stroke="black" d="M5096.53,-1153.84C5212.09,-1082.17 5341.47,-1001.92 5421.91,-952.03"/>
+</g>
+<!-- peace&#45;&#45;test -->
+<g id="peace--test" class="edge">
+<title>peace--test</title>
+<path fill="none" stroke="black" d="M4943.32,-1031.56C4966.16,-965.28 4989.01,-898.96 5006.63,-847.82"/>
+</g>
+<!-- peace&#45;&#45;upward -->
+<g id="peace--upward" class="edge">
+<title>peace--upward</title>
+<path fill="none" stroke="black" d="M5133.63,-1245.04C5230.94,-1223.6 5334.42,-1200.81 5411.17,-1183.9"/>
+</g>
+<!-- man&#45;&#45;mastery -->
+<g id="man--mastery" class="edge">
+<title>man--mastery</title>
+<path fill="none" stroke="black" d="M3998.81,-3930.67C4016.86,-3879.21 4034.98,-3827.51 4050.75,-3782.54"/>
+</g>
+<!-- man&#45;&#45;covenant -->
+<g id="man--covenant" class="edge">
+<title>man--covenant</title>
+<path fill="none" stroke="black" d="M3824.17,-3925.14C3815.85,-3895.43 3807.68,-3866.27 3800.15,-3839.37"/>
+</g>
+<!-- man&#45;&#45;change -->
+<g id="man--change" class="edge">
+<title>man--change</title>
+<path fill="none" stroke="black" d="M3959.12,-3919.99C4003.89,-3694.22 4065.07,-3385.64 4103.44,-3192.13"/>
+</g>
+<!-- strength&#45;&#45;enhance -->
+<g id="strength--enhance" class="edge">
+<title>strength--enhance</title>
+<path fill="none" stroke="black" d="M5102.49,-1898.47C5283.9,-2047.79 5599.65,-2307.68 5763.43,-2442.49"/>
+</g>
+<!-- strength&#45;&#45;dream -->
+<g id="strength--dream" class="edge">
+<title>strength--dream</title>
+<path fill="none" stroke="black" d="M5014.84,-1955.99C5107.49,-2274.56 5305.04,-2953.83 5388.25,-3239.93"/>
+</g>
+<!-- america&#45;&#45;freedom -->
+<g id="america--freedom" class="edge">
+<title>america--freedom</title>
+<path fill="none" stroke="black" d="M5181.55,-2877.52C4908.03,-2803.43 4486.16,-2689.15 4219.06,-2616.8"/>
+</g>
+<!-- america&#45;&#45;democracy -->
+<g id="america--democracy" class="edge">
+<title>america--democracy</title>
+<path fill="none" stroke="black" d="M5180.97,-3019.48C4829.76,-3110.85 4224.68,-3268.27 3939.79,-3342.38"/>
+</g>
+<!-- america&#45;&#45;americans -->
+<g id="america--americans" class="edge">
+<title>america--americans</title>
+<path fill="none" stroke="red" stroke-width="2" d="M5203.71,-3078.56C5008.55,-3181.12 4741.43,-3321.51 4575.79,-3408.55"/>
+</g>
+<!-- america&#45;&#45;commitment -->
+<g id="america--commitment" class="edge">
+<title>america--commitment</title>
+<path fill="none" stroke="black" d="M5725.3,-2939.23C5728.75,-2939.1 5732.18,-2938.97 5735.6,-2938.84"/>
+</g>
+<!-- america&#45;&#45;peace -->
+<g id="america--peace" class="edge">
+<title>america--peace</title>
+<path fill="none" stroke="black" d="M5353.62,-2690.14C5243.07,-2387.88 5061.3,-1890.9 4948.49,-1582.45"/>
+</g>
+<!-- america&#45;&#45;story -->
+<g id="america--story" class="edge">
+<title>america--story</title>
+<path fill="none" stroke="black" d="M5663.99,-2775.94C5791.25,-2673.18 5944.51,-2549.43 6033.98,-2477.19"/>
+</g>
+<!-- america&#45;&#45;civility -->
+<g id="america--civility" class="edge">
+<title>america--civility</title>
+<path fill="none" stroke="black" d="M5700.52,-2835.43C5821.25,-2780.6 5958.34,-2718.33 6046.13,-2678.46"/>
+</g>
+<!-- america&#45;&#45;promise -->
+<g id="america--promise" class="edge">
+<title>america--promise</title>
+<path fill="none" stroke="black" d="M5577.47,-3194.38C5631.3,-3296.52 5692.05,-3411.8 5738.81,-3500.53"/>
+</g>
+<!-- america&#45;&#45;change -->
+<g id="america--change" class="edge">
+<title>america--change</title>
+<path fill="none" stroke="black" d="M5172.19,-2962.56C4917.3,-2974.27 4545.98,-2991.32 4324.99,-3001.48"/>
+</g>
+<!-- america&#45;&#45;role -->
+<g id="america--role" class="edge">
+<title>america--role</title>
+<path fill="none" stroke="black" d="M5599.1,-2718.02C5678.19,-2596.18 5769.95,-2454.84 5825.31,-2369.55"/>
+</g>
+<!-- america&#45;&#45;century -->
+<g id="america--century" class="edge">
+<title>america--century</title>
+<path fill="none" stroke="black" d="M5674.87,-3108.79C5719.14,-3139.88 5764.39,-3171.66 5804.96,-3200.16"/>
+</g>
+<!-- america&#45;&#45;responsibility -->
+<g id="america--responsibility" class="edge">
+<title>america--responsibility</title>
+<path fill="none" stroke="black" d="M5515.99,-2681.44C5557.11,-2517.66 5608.6,-2312.54 5645.14,-2167.02"/>
+</g>
+<!-- america&#45;&#45;era -->
+<g id="america--era" class="edge">
+<title>america--era</title>
+<path fill="none" stroke="black" d="M5506.42,-2679.43C5527.43,-2581.15 5549.94,-2475.87 5566.02,-2400.64"/>
+</g>
+<!-- america&#45;&#45;dream -->
+<g id="america--dream" class="edge">
+<title>america--dream</title>
+<path fill="none" stroke="red" stroke-width="2" d="M5434.07,-3226.25C5433.93,-3229.05 5433.78,-3231.82 5433.64,-3234.58"/>
+</g>
+<!-- america&#45;&#45;renewal -->
+<g id="america--renewal" class="edge">
+<title>america--renewal</title>
+<path fill="none" stroke="black" d="M5289.28,-2723.38C5174.41,-2560.1 5024.77,-2347.38 4937.3,-2223.04"/>
+</g>
+<!-- america&#45;&#45;challenge -->
+<g id="america--challenge" class="edge">
+<title>america--challenge</title>
+<path fill="none" stroke="black" d="M5361.2,-2687.19C5312.56,-2541.01 5254.06,-2365.22 5214.67,-2246.85"/>
+</g>
+<!-- america&#45;&#45;today -->
+<g id="america--today" class="edge">
+<title>america--today</title>
+<path fill="none" stroke="black" d="M5436.95,-2673.3C5425.44,-2400.26 5408.13,-1989.65 5397.97,-1748.48"/>
+</g>
+<!-- america&#45;&#45;idea -->
+<g id="america--idea" class="edge">
+<title>america--idea</title>
+<path fill="none" stroke="black" d="M5308.97,-2711.16C5263.4,-2633.27 5215.13,-2550.76 5178.4,-2487.97"/>
+</g>
+<!-- america&#45;&#45;american -->
+<g id="america--american" class="edge">
+<title>america--american</title>
+<path fill="none" stroke="black" d="M5487.66,-3223.97C5523.31,-3474.16 5575.48,-3840.28 5609.5,-4079.02"/>
+</g>
+<!-- america&#45;&#45;job -->
+<g id="america--job" class="edge">
+<title>america--job</title>
+<path fill="none" stroke="black" d="M5412.4,-3224.32C5369.32,-3550.95 5299.56,-4079.82 5270.45,-4300.48"/>
+</g>
+<!-- america&#45;&#45;obama -->
+<g id="america--obama" class="edge">
+<title>america--obama</title>
+<path fill="none" stroke="black" d="M5481.11,-3224.81C5504.23,-3420.46 5534.2,-3673.96 5551.72,-3822.19"/>
+</g>
+<!-- america&#45;&#45;liberty -->
+<g id="america--liberty" class="edge">
+<title>america--liberty</title>
+<path fill="none" stroke="black" d="M5300.02,-3183.05C5248.75,-3263.5 5192.02,-3352.54 5143.37,-3428.89"/>
+</g>
+<!-- america&#45;&#45;journey -->
+<g id="america--journey" class="edge">
+<title>america--journey</title>
+<path fill="none" stroke="black" d="M5703.57,-3057.79C5901.21,-3141.45 6164.69,-3252.99 6307.3,-3313.36"/>
+</g>
+<!-- america&#45;&#45;creed -->
+<g id="america--creed" class="edge">
+<title>america--creed</title>
+<path fill="none" stroke="black" d="M5669.44,-3116.42C5853.54,-3255.27 6105.17,-3445.06 6230.2,-3539.36"/>
+</g>
+<!-- america&#45;&#45;relationship -->
+<g id="america--relationship" class="edge">
+<title>america--relationship</title>
+<path fill="none" stroke="black" d="M5715.84,-2877.4C5902.03,-2826.91 6144.99,-2761.04 6306.39,-2717.27"/>
+</g>
+<!-- america&#45;&#45;civilization -->
+<g id="america--civilization" class="edge">
+<title>america--civilization</title>
+<path fill="none" stroke="black" d="M5724.04,-2976.25C5920.63,-2995.09 6177.64,-3019.72 6338.06,-3035.09"/>
+</g>
+<!-- communism&#45;&#45;freedom -->
+<g id="communism--freedom" class="edge">
+<title>communism--freedom</title>
+<path fill="none" stroke="black" d="M3881.92,-2265.88C3885.56,-2277.7 3889.26,-2289.7 3892.97,-2301.77"/>
+</g>
+<!-- communism&#45;&#45;recovery -->
+<g id="communism--recovery" class="edge">
+<title>communism--recovery</title>
+<path fill="none" stroke="black" d="M4013.69,-2104.15C4024.24,-2105.16 4034.73,-2106.16 4045.02,-2107.15"/>
+</g>
+<!-- communism&#45;&#45;program -->
+<g id="communism--program" class="edge">
+<title>communism--program</title>
+<path fill="none" stroke="black" d="M4013.84,-2100.17C4113.52,-2107.56 4233.44,-2116.46 4321.95,-2123.02"/>
+</g>
+<!-- communism&#45;&#45;nations -->
+<g id="communism--nations" class="edge">
+<title>communism--nations</title>
+<path fill="none" stroke="black" d="M3965.89,-1960.82C3995.06,-1934.56 4024.98,-1907.6 4051.48,-1883.74"/>
+</g>
+<!-- civility&#45;&#45;commitment -->
+<g id="civility--commitment" class="edge">
+<title>civility--commitment</title>
+<path fill="none" stroke="black" d="M6078.35,-2717.66C6064.09,-2737.25 6048.37,-2758.83 6032.57,-2780.52"/>
+</g>
+<!-- civility&#45;&#45;story -->
+<g id="civility--story" class="edge">
+<title>civility--story</title>
+<path fill="none" stroke="black" d="M6124.49,-2538.13C6123.41,-2529.53 6122.32,-2520.84 6121.24,-2512.27"/>
+</g>
+<!-- covenant&#45;&#45;mastery -->
+<g id="covenant--mastery" class="edge">
+<title>covenant--mastery</title>
+<path fill="none" stroke="black" d="M3900.54,-3679.86C3918.77,-3676.71 3937.47,-3673.47 3955.77,-3670.3"/>
+</g>
+<!-- agreement&#45;&#45;freedom -->
+<g id="agreement--freedom" class="edge">
+<title>agreement--freedom</title>
+<path fill="none" stroke="black" d="M4342.26,-1927.28C4274.5,-2040.21 4179.46,-2198.61 4102.27,-2327.26"/>
+</g>
+<!-- agreement&#45;&#45;communism -->
+<g id="agreement--communism" class="edge">
+<title>agreement--communism</title>
+<path fill="none" stroke="black" d="M4277.9,-1858.25C4191.53,-1901.89 4083.21,-1956.62 3994.34,-2001.52"/>
+</g>
+<!-- agreement&#45;&#45;recovery -->
+<g id="agreement--recovery" class="edge">
+<title>agreement--recovery</title>
+<path fill="none" stroke="black" d="M4328.49,-1918.22C4305.54,-1949.22 4281.46,-1981.73 4259.51,-2011.39"/>
+</g>
+<!-- agreement&#45;&#45;program -->
+<g id="agreement--program" class="edge">
+<title>agreement--program</title>
+<path fill="none" stroke="black" d="M4438.48,-1951.3C4439.44,-1969.76 4440.4,-1988.29 4441.32,-2006.09"/>
+</g>
+<!-- agreement&#45;&#45;nations -->
+<g id="agreement--nations" class="edge">
+<title>agreement--nations</title>
+<path fill="none" stroke="black" d="M4260.26,-1796.14C4257.35,-1796.39 4254.45,-1796.64 4251.58,-1796.89"/>
+</g>
+<!-- seek&#45;&#45;strive -->
+<g id="seek--strive" class="edge">
+<title>seek--strive</title>
+<path fill="none" stroke="black" d="M4059.68,-1465.11C4086.47,-1462.98 4113.14,-1460.86 4137.73,-1458.9"/>
+</g>
+<!-- program&#45;&#45;recovery -->
+<g id="program--recovery" class="edge">
+<title>program--recovery</title>
+<path fill="none" stroke="black" d="M4321.75,-2126.54C4319.16,-2126.42 4316.56,-2126.3 4313.97,-2126.18"/>
+</g>
+<!-- change&#45;&#45;americans -->
+<g id="change--americans" class="edge">
+<title>change--americans</title>
+<path fill="none" stroke="black" d="M4234.28,-3169.7C4267.02,-3224.89 4303.53,-3286.45 4335.68,-3340.65"/>
+</g>
+<!-- change&#45;&#45;mastery -->
+<g id="change--mastery" class="edge">
+<title>change--mastery</title>
+<path fill="none" stroke="black" d="M4127.68,-3195.11C4121.43,-3292.49 4113.88,-3410.14 4108.07,-3500.78"/>
+</g>
+<!-- change&#45;&#45;covenant -->
+<g id="change--covenant" class="edge">
+<title>change--covenant</title>
+<path fill="none" stroke="black" d="M4050.83,-3173.1C3983.07,-3297.68 3891.13,-3466.72 3829.38,-3580.25"/>
+</g>
+<!-- change&#45;&#45;renewal -->
+<g id="change--renewal" class="edge">
+<title>change--renewal</title>
+<path fill="none" stroke="black" d="M4256.89,-2866.02C4405.43,-2683.75 4657.34,-2374.64 4785.24,-2217.71"/>
+</g>
+<!-- change&#45;&#45;challenge -->
+<g id="change--challenge" class="edge">
+<title>change--challenge</title>
+<path fill="none" stroke="black" d="M4279.59,-2888.01C4488.13,-2706.35 4875.8,-2368.65 5063.13,-2205.47"/>
+</g>
+<!-- change&#45;&#45;idea -->
+<g id="change--idea" class="edge">
+<title>change--idea</title>
+<path fill="none" stroke="black" d="M4295.79,-2909.8C4497.72,-2780.31 4843.65,-2558.48 5014.89,-2448.67"/>
+</g>
+<!-- century&#45;&#45;promise -->
+<g id="century--promise" class="edge">
+<title>century--promise</title>
+<path fill="none" stroke="black" d="M5885.82,-3462.85C5882.17,-3472.56 5878.5,-3482.32 5874.86,-3492"/>
+</g>
+<!-- responsibility&#45;&#45;role -->
+<g id="responsibility--role" class="edge">
+<title>responsibility--role</title>
+<path fill="none" stroke="black" d="M5788.55,-2146.14C5802.38,-2169.39 5816.05,-2192.38 5828.32,-2213.01"/>
+</g>
+<!-- era&#45;&#45;role -->
+<g id="era--role" class="edge">
+<title>era--role</title>
+<path fill="none" stroke="black" d="M5694.8,-2294.99C5723.85,-2294.56 5755.08,-2294.09 5783.27,-2293.66"/>
+</g>
+<!-- era&#45;&#45;responsibility -->
+<g id="era--responsibility" class="edge">
+<title>era--responsibility</title>
+<path fill="none" stroke="black" d="M5621.46,-2195.58C5624.9,-2185.1 5628.47,-2174.23 5632.1,-2163.21"/>
+</g>
+<!-- nations&#45;&#45;recovery -->
+<g id="nations--recovery" class="edge">
+<title>nations--recovery</title>
+<path fill="none" stroke="black" d="M4152.3,-1920.71C4155.16,-1941.97 4158.17,-1964.35 4161.1,-1986.13"/>
+</g>
+<!-- nations&#45;&#45;program -->
+<g id="nations--program" class="edge">
+<title>nations--program</title>
+<path fill="none" stroke="black" d="M4216.22,-1889.76C4260.3,-1935.92 4315.23,-1993.46 4360.54,-2040.91"/>
+</g>
+<!-- dream&#45;&#45;enhance -->
+<g id="dream--enhance" class="edge">
+<title>dream--enhance</title>
+<path fill="none" stroke="black" d="M5490.05,-3250.18C5574.07,-3090.2 5721.21,-2810.05 5805.2,-2650.13"/>
+</g>
+<!-- dream&#45;&#45;promise -->
+<g id="dream--promise" class="edge">
+<title>dream--promise</title>
+<path fill="none" stroke="black" d="M5538.17,-3450.47C5582.61,-3481.96 5634.15,-3518.49 5680.71,-3551.49"/>
+</g>
+<!-- dream&#45;&#45;century -->
+<g id="dream--century" class="edge">
+<title>dream--century</title>
+<path fill="none" stroke="black" d="M5562.22,-3352.69C5627.15,-3343.8 5705.6,-3333.06 5774.69,-3323.59"/>
+</g>
+<!-- dream&#45;&#45;american -->
+<g id="dream--american" class="edge">
+<title>dream--american</title>
+<path fill="none" stroke="black" d="M5456.99,-3504.51C5491.34,-3654.34 5547.79,-3900.55 5589.63,-4083.04"/>
+</g>
+<!-- dream&#45;&#45;job -->
+<g id="dream--job" class="edge">
+<title>dream--job</title>
+<path fill="none" stroke="black" d="M5404.26,-3506.33C5369.84,-3715.74 5304.38,-4114.08 5273.69,-4300.84"/>
+</g>
+<!-- dream&#45;&#45;obama -->
+<g id="dream--obama" class="edge">
+<title>dream--obama</title>
+<path fill="none" stroke="black" d="M5458.88,-3504.41C5482.47,-3601.27 5514.15,-3731.33 5536.98,-3825.05"/>
+</g>
+<!-- provision&#45;&#45;slave -->
+<g id="provision--slave" class="edge">
+<title>provision--slave</title>
+<path fill="none" stroke="black" d="M1614.76,-1894.83C1618.38,-1895.28 1621.98,-1895.73 1625.56,-1896.18"/>
+</g>
+<!-- minority&#45;&#45;provision -->
+<g id="minority--provision" class="edge">
+<title>minority--provision</title>
+<path fill="none" stroke="black" d="M1507.35,-2020.92C1506.7,-2017.15 1506.04,-2013.36 1505.38,-2009.57"/>
+</g>
+<!-- minority&#45;&#45;slave -->
+<g id="minority--slave" class="edge">
+<title>minority--slave</title>
+<path fill="none" stroke="black" d="M1606.57,-2048.5C1624.36,-2027.99 1643.09,-2006.4 1660.36,-1986.49"/>
+</g>
+<!-- fugitive&#45;&#45;law -->
+<g id="fugitive--law" class="edge">
+<title>fugitive--law</title>
+<path fill="none" stroke="black" d="M1527.23,-1713.06C1404.65,-1875.07 1152.78,-2207.94 980.02,-2436.28"/>
+</g>
+<!-- fugitive&#45;&#45;provision -->
+<g id="fugitive--provision" class="edge">
+<title>fugitive--provision</title>
+<path fill="none" stroke="black" d="M1550.49,-1726.87C1546.04,-1736.77 1541.52,-1746.84 1537.04,-1756.83"/>
+</g>
+<!-- fugitive&#45;&#45;minority -->
+<g id="fugitive--minority" class="edge">
+<title>fugitive--minority</title>
+<path fill="none" stroke="black" d="M1583.29,-1736.4C1571.59,-1821.53 1555.91,-1935.59 1544.23,-2020.6"/>
+</g>
+<!-- fugitive&#45;&#45;slave -->
+<g id="fugitive--slave" class="edge">
+<title>fugitive--slave</title>
+<path fill="none" stroke="black" d="M1647.85,-1727.17C1660.53,-1756.07 1674.1,-1786.98 1686.38,-1814.97"/>
+</g>
+<!-- free&#45;&#45;strength -->
+<g id="free--strength" class="edge">
+<title>free--strength</title>
+<path fill="none" stroke="black" d="M4531.21,-925.85C4637.67,-1136.7 4792.21,-1442.77 4885.3,-1627.14"/>
+</g>
+<!-- free&#45;&#45;productivity -->
+<g id="free--productivity" class="edge">
+<title>free--productivity</title>
+<path fill="none" stroke="black" d="M4164.45,-761.82C4151.42,-765.31 4138.47,-768.78 4125.74,-772.18"/>
+</g>
+<!-- challenge&#45;&#45;renewal -->
+<g id="challenge--renewal" class="edge">
+<title>challenge--renewal</title>
+<path fill="none" stroke="black" d="M5028.11,-2115.96C5015.66,-2116.27 5003.11,-2116.59 4990.81,-2116.89"/>
+</g>
+<!-- challenge&#45;&#45;idea -->
+<g id="challenge--idea" class="edge">
+<title>challenge--idea</title>
+<path fill="none" stroke="black" d="M5142.81,-2251.35C5142,-2255.51 5141.19,-2259.66 5140.39,-2263.79"/>
+</g>
+<!-- earth&#45;&#45;voice -->
+<g id="earth--voice" class="edge">
+<title>earth--voice</title>
+<path fill="none" stroke="black" d="M3471,-460.57C3468.09,-460.61 3465.18,-460.65 3462.28,-460.69"/>
+</g>
+<!-- earth&#45;&#45;moment -->
+<g id="earth--moment" class="edge">
+<title>earth--moment</title>
+<path fill="none" stroke="black" d="M3493.25,-540.4C3408.34,-590.28 3300.99,-653.34 3219.68,-701.11"/>
+</g>
+<!-- productivity&#45;&#45;strength -->
+<g id="productivity--strength" class="edge">
+<title>productivity--strength</title>
+<path fill="none" stroke="black" d="M4081.3,-947.2C4278.12,-1133.85 4642.72,-1479.63 4836.45,-1663.36"/>
+</g>
+<!-- faith&#45;&#45;strength -->
+<g id="faith--strength" class="edge">
+<title>faith--strength</title>
+<path fill="none" stroke="black" d="M3729.52,-1166.65C4002.81,-1303.52 4539.3,-1572.2 4806.38,-1705.96"/>
+</g>
+<!-- faith&#45;&#45;free -->
+<g id="faith--free" class="edge">
+<title>faith--free</title>
+<path fill="none" stroke="black" d="M3732.62,-1004.53C3860.73,-946.36 4037.39,-866.15 4178.8,-801.94"/>
+</g>
+<!-- faith&#45;&#45;productivity -->
+<g id="faith--productivity" class="edge">
+<title>faith--productivity</title>
+<path fill="none" stroke="black" d="M3716.79,-976.58C3742.33,-959.22 3768.78,-941.24 3794.25,-923.92"/>
+</g>
+<!-- case&#45;&#45;law -->
+<g id="case--law" class="edge">
+<title>case--law</title>
+<path fill="none" stroke="black" d="M1784.33,-1750.33C1610.69,-1913.35 1251.06,-2250.96 1017.77,-2469.97"/>
+</g>
+<!-- case&#45;&#45;provision -->
+<g id="case--provision" class="edge">
+<title>case--provision</title>
+<path fill="none" stroke="black" d="M1763.97,-1722.72C1711.77,-1751.58 1650.95,-1785.19 1599.24,-1813.77"/>
+</g>
+<!-- case&#45;&#45;minority -->
+<g id="case--minority" class="edge">
+<title>case--minority</title>
+<path fill="none" stroke="black" d="M1802.86,-1767.02C1741.29,-1850.36 1657.87,-1963.27 1599.12,-2042.79"/>
+</g>
+<!-- case&#45;&#45;fugitive -->
+<g id="case--fugitive" class="edge">
+<title>case--fugitive</title>
+<path fill="none" stroke="black" d="M1748.18,-1637.38C1738.31,-1636.05 1728.4,-1634.71 1718.65,-1633.39"/>
+</g>
+<!-- case&#45;&#45;slave -->
+<g id="case--slave" class="edge">
+<title>case--slave</title>
+<path fill="none" stroke="black" d="M1812.07,-1773.13C1801.86,-1789.55 1791.52,-1806.19 1781.74,-1821.91"/>
+</g>
+<!-- today&#45;&#45;americans -->
+<g id="today--americans" class="edge">
+<title>today--americans</title>
+<path fill="none" stroke="black" d="M5302.03,-1727.83C5114.56,-2103.54 4677.4,-2979.66 4500.15,-3334.9"/>
+</g>
+<!-- today&#45;&#45;change -->
+<g id="today--change" class="edge">
+<title>today--change</title>
+<path fill="none" stroke="black" d="M5261.78,-1701.3C5019.55,-1983.78 4497,-2593.16 4260.36,-2869.11"/>
+</g>
+<!-- today&#45;&#45;renewal -->
+<g id="today--renewal" class="edge">
+<title>today--renewal</title>
+<path fill="none" stroke="black" d="M5256.23,-1696.55C5160.11,-1800.55 5033.26,-1937.8 4950.41,-2027.45"/>
+</g>
+<!-- today&#45;&#45;challenge -->
+<g id="today--challenge" class="edge">
+<title>today--challenge</title>
+<path fill="none" stroke="black" d="M5317.89,-1735.21C5286.52,-1815.18 5250.44,-1907.19 5221.75,-1980.32"/>
+</g>
+<!-- today&#45;&#45;idea -->
+<g id="today--idea" class="edge">
+<title>today--idea</title>
+<path fill="none" stroke="black" d="M5328.43,-1738.89C5275.21,-1901.13 5199.81,-2130.96 5154.93,-2267.75"/>
+</g>
+<!-- today&#45;&#45;trend -->
+<g id="today--trend" class="edge">
+<title>today--trend</title>
+<path fill="none" stroke="black" d="M5422.73,-1358.37C5443.3,-1237.78 5468.79,-1088.26 5484.81,-994.32"/>
+</g>
+<!-- today&#45;&#45;upward -->
+<g id="today--upward" class="edge">
+<title>today--upward</title>
+<path fill="none" stroke="black" d="M5455.41,-1366.82C5466.9,-1334.43 5478.53,-1301.62 5489.08,-1271.89"/>
+</g>
+<!-- catch&#45;&#45;voice -->
+<g id="catch--voice" class="edge">
+<title>catch--voice</title>
+<path fill="none" stroke="black" d="M3363.75,-658C3359.9,-638.89 3355.76,-618.36 3351.67,-598.05"/>
+</g>
+<!-- catch&#45;&#45;earth -->
+<g id="catch--earth" class="edge">
+<title>catch--earth</title>
+<path fill="none" stroke="black" d="M3443.24,-678.7C3468.54,-649.31 3498.63,-614.36 3527.32,-581.04"/>
+</g>
+<!-- catch&#45;&#45;moment -->
+<g id="catch--moment" class="edge">
+<title>catch--moment</title>
+<path fill="none" stroke="black" d="M3289.3,-757.03C3273.05,-758.33 3255.83,-759.71 3238.65,-761.09"/>
+</g>
+<!-- idea&#45;&#45;renewal -->
+<g id="idea--renewal" class="edge">
+<title>idea--renewal</title>
+<path fill="none" stroke="black" d="M5033.09,-2295.53C5007,-2268.32 4978.2,-2238.28 4951.92,-2210.86"/>
+</g>
+<!-- moment&#45;&#45;voice -->
+<g id="moment--voice" class="edge">
+<title>moment--voice</title>
+<path fill="none" stroke="black" d="M3181.29,-658.77C3201.38,-631.23 3222.84,-601.82 3242.86,-574.37"/>
+</g>
+<!-- false&#45;&#45;public -->
+<g id="false--public" class="edge">
+<title>false--public</title>
+<path fill="none" stroke="black" d="M1697.8,-456.28C1772.06,-573.02 1908.58,-787.65 2014.84,-954.7"/>
+</g>
+<!-- british&#45;&#45;savage -->
+<g id="british--savage" class="edge">
+<title>british--savage</title>
+<path fill="none" stroke="black" d="M2564.25,-6332C2564.19,-6487.67 2564.09,-6797.44 2564.03,-6970.98"/>
+</g>
+<!-- british&#45;&#45;war -->
+<g id="british--war" class="edge">
+<title>british--war</title>
+<path fill="none" stroke="black" d="M2654.32,-6266.45C2853.31,-6331.07 3336.47,-6487.97 3634.97,-6584.91"/>
+</g>
+<!-- savage&#45;&#45;war -->
+<g id="savage--war" class="edge">
+<title>savage--war</title>
+<path fill="none" stroke="black" d="M2683.32,-7057.41C2897.3,-6987.81 3350.48,-6840.39 3635.28,-6747.75"/>
+</g>
+<!-- war&#45;&#45;woe -->
+<g id="war--woe" class="edge">
+<title>war--woe</title>
+<path fill="none" stroke="black" d="M4105.33,-6811.66C4269.12,-6920.03 4481.72,-7060.69 4585.41,-7129.29"/>
+</g>
+<!-- war&#45;&#45;insurgent -->
+<g id="war--insurgent" class="edge">
+<title>war--insurgent</title>
+<path fill="none" stroke="black" d="M4141.19,-6602.66C4415.83,-6534.26 4844.04,-6427.6 5075.78,-6369.88"/>
+</g>
+<!-- war&#45;&#45;offense -->
+<g id="war--offense" class="edge">
+<title>war--offense</title>
+<path fill="none" stroke="black" d="M4141.18,-6730.09C4434.76,-6803.36 4903.82,-6920.43 5120.78,-6974.58"/>
+</g>
+<!-- war&#45;&#45;god -->
+<g id="war--god" class="edge">
+<title>war--god</title>
+<path fill="none" stroke="black" d="M4105.74,-6521.29C4224.76,-6442.86 4369.48,-6347.51 4479.51,-6275.01"/>
+</g>
+<!-- insurgent&#45;&#45;woe -->
+<g id="insurgent--woe" class="edge">
+<title>insurgent--woe</title>
+<path fill="none" stroke="black" d="M5142.12,-6466.03C5012.05,-6651.41 4785,-6975.02 4690.73,-7109.38"/>
+</g>
+<!-- insurgent&#45;&#45;offense -->
+<g id="insurgent--offense" class="edge">
+<title>insurgent--offense</title>
+<path fill="none" stroke="black" d="M5237.9,-6496.61C5237.89,-6616.54 5237.88,-6775.36 5237.87,-6883.1"/>
+</g>
+<!-- offense&#45;&#45;woe -->
+<g id="offense--woe" class="edge">
+<title>offense--woe</title>
+<path fill="none" stroke="black" d="M5121.64,-7036.65C5002.11,-7070.43 4819.72,-7121.98 4719.67,-7150.26"/>
+</g>
+<!-- god&#45;&#45;woe -->
+<g id="god--woe" class="edge">
+<title>god--woe</title>
+<path fill="none" stroke="black" d="M4648.24,-6365.99C4648.11,-6591.05 4647.92,-6943.12 4647.84,-7095.78"/>
+</g>
+<!-- god&#45;&#45;insurgent -->
+<g id="god--insurgent" class="edge">
+<title>god--insurgent</title>
+<path fill="none" stroke="black" d="M4843.03,-6218.48C4919,-6239.84 5005.03,-6264.03 5077.36,-6284.36"/>
+</g>
+<!-- god&#45;&#45;offense -->
+<g id="god--offense" class="edge">
+<title>god--offense</title>
+<path fill="none" stroke="black" d="M4764.47,-6329.22C4884.89,-6500.82 5069.18,-6763.43 5168.57,-6905.06"/>
+</g>
+<!-- familiar&#45;&#45;life -->
+<g id="familiar--life" class="edge">
+<title>familiar--life</title>
+<path fill="none" stroke="black" d="M4061.46,-5490.39C4133.28,-5308.32 4269.81,-4962.23 4361.52,-4729.77"/>
+</g>
+<!-- familiar&#45;&#45;man -->
+<g id="familiar--man" class="edge">
+<title>familiar--man</title>
+<path fill="none" stroke="black" d="M4003,-5481.67C3985.42,-5258.17 3949.2,-4797.71 3925.41,-4495.25"/>
+</g>
+<!-- question&#45;&#45;territory -->
+<g id="question--territory" class="edge">
+<title>question--territory</title>
+<path fill="none" stroke="black" d="M758.35,-2365.53C773.07,-2574.07 796,-2898.93 809.47,-3089.66"/>
+</g>
+<!-- debt&#45;&#45;specie -->
+<g id="debt--specie" class="edge">
+<title>debt--specie</title>
+<path fill="none" stroke="black" d="M218.48,-2931.46C257.82,-2831.86 313.07,-2691.94 349.69,-2599.22"/>
+</g>
+<!-- debt&#45;&#45;payment -->
+<g id="debt--payment" class="edge">
+<title>debt--payment</title>
+<path fill="none" stroke="black" d="M157.96,-2923.11C156.02,-2904.25 154.02,-2884.76 152.06,-2865.72"/>
+</g>
+<!-- debt&#45;&#45;dollar -->
+<g id="debt--dollar" class="edge">
+<title>debt--dollar</title>
+<path fill="none" stroke="black" d="M288.02,-2997.29C297.26,-2993.01 306.44,-2988.76 315.33,-2984.66"/>
+</g>
+<!-- debt&#45;&#45;pay -->
+<g id="debt--pay" class="edge">
+<title>debt--pay</title>
+<path fill="none" stroke="black" d="M267.79,-3136.56C292.15,-3158.04 318.43,-3181.22 343.24,-3203.1"/>
+</g>
+<!-- payment&#45;&#45;specie -->
+<g id="payment--specie" class="edge">
+<title>payment--specie</title>
+<path fill="none" stroke="black" d="M240.38,-2635.49C263.86,-2614.27 288.44,-2592.06 310.66,-2571.98"/>
+</g>
+<!-- dollar&#45;&#45;specie -->
+<g id="dollar--specie" class="edge">
+<title>dollar--specie</title>
+<path fill="none" stroke="black" d="M392.7,-2862.04C391.76,-2789.06 390.42,-2684.27 389.42,-2606.54"/>
+</g>
+<!-- dollar&#45;&#45;payment -->
+<g id="dollar--payment" class="edge">
+<title>dollar--payment</title>
+<path fill="none" stroke="black" d="M328.24,-2891.93C302.17,-2869.49 271.54,-2843.12 242.56,-2818.18"/>
+</g>
+<!-- dollar&#45;&#45;pay -->
+<g id="dollar--pay" class="edge">
+<title>dollar--pay</title>
+<path fill="none" stroke="black" d="M407.48,-3033.65C413.43,-3070.74 420.55,-3115.18 427.24,-3156.9"/>
+</g>
+<!-- pay&#45;&#45;specie -->
+<g id="pay--specie" class="edge">
+<title>pay--specie</title>
+<path fill="none" stroke="black" d="M438.76,-3155.78C426.54,-2998.17 407.06,-2746.84 396.15,-2606.14"/>
+</g>
+<!-- pay&#45;&#45;payment -->
+<g id="pay--payment" class="edge">
+<title>pay--payment</title>
+<path fill="none" stroke="black" d="M381.47,-3172.5C328.87,-3076.52 256.54,-2944.55 204.38,-2849.38"/>
+</g>
+<!-- domingo&#45;&#45;transit -->
+<g id="domingo--transit" class="edge">
+<title>domingo--transit</title>
+<path fill="none" stroke="black" d="M1329.25,-7312.1C1103.77,-7276.31 688.73,-7210.44 491.46,-7179.13"/>
+</g>
+<!-- domingo&#45;&#45;santo -->
+<g id="domingo--santo" class="edge">
+<title>domingo--santo</title>
+<path fill="none" stroke="black" d="M1391.49,-7210.73C1201.98,-6950.13 771.02,-6357.49 614.14,-6141.76"/>
+</g>
+<!-- domingo&#45;&#45;proposition -->
+<g id="domingo--proposition" class="edge">
+<title>domingo--proposition</title>
+<path fill="none" stroke="black" d="M1507.24,-7183C1539.66,-6978.18 1596.88,-6616.7 1630.53,-6404.11"/>
+</g>
+<!-- santo&#45;&#45;transit -->
+<g id="santo--transit" class="edge">
+<title>santo--transit</title>
+<path fill="none" stroke="black" d="M540.13,-6159.45C507.73,-6364.49 433.06,-6837.06 399.12,-7051.87"/>
+</g>
+<!-- proposition&#45;&#45;transit -->
+<g id="proposition--transit" class="edge">
+<title>proposition--transit</title>
+<path fill="none" stroke="black" d="M1518.41,-6335.67C1255.29,-6526.9 690.99,-6937 471.61,-7096.43"/>
+</g>
+<!-- proposition&#45;&#45;santo -->
+<g id="proposition--santo" class="edge">
+<title>proposition--santo</title>
+<path fill="none" stroke="black" d="M1487.62,-6207.99C1254.33,-6171.27 842.17,-6106.4 654.12,-6076.81"/>
+</g>
+<!-- american&#45;&#45;job -->
+<g id="american--job" class="edge">
+<title>american--job</title>
+<path fill="none" stroke="black" d="M5407.34,-4369.74C5390.07,-4373.48 5373.28,-4377.11 5357.57,-4380.51"/>
+</g>
+<!-- american&#45;&#45;obama -->
+<g id="american--obama" class="edge">
+<title>american--obama</title>
+<path fill="none" stroke="black" d="M5594.58,-4081.9C5593.51,-4076.7 5592.44,-4071.55 5591.39,-4066.48"/>
+</g>
+<!-- job&#45;&#45;obama -->
+<g id="job--obama" class="edge">
+<title>job--obama</title>
+<path fill="none" stroke="black" d="M5314.65,-4317.09C5366.2,-4240.91 5441.87,-4129.07 5496.76,-4047.95"/>
+</g>
+<!-- interstate&#45;&#45;tariff -->
+<g id="interstate--tariff" class="edge">
+<title>interstate--tariff</title>
+<path fill="none" stroke="black" d="M673.34,-1772.03C698.14,-1763.6 723.83,-1754.87 748.11,-1746.61"/>
+</g>
+<!-- business&#45;&#45;interstate -->
+<g id="business--interstate" class="edge">
+<title>business--interstate</title>
+<path fill="none" stroke="black" d="M552.76,-1588.17C550.68,-1616.8 548.54,-1646.3 546.52,-1674.23"/>
+</g>
+<!-- business&#45;&#45;tariff -->
+<g id="business--tariff" class="edge">
+<title>business--tariff</title>
+<path fill="none" stroke="black" d="M688.15,-1535.38C717.6,-1563.11 748.54,-1592.25 776.34,-1618.42"/>
+</g>
+<!-- amendment&#45;&#45;interstate -->
+<g id="amendment--interstate" class="edge">
+<title>amendment--interstate</title>
+<path fill="none" stroke="black" d="M817.73,-1417.36C755.77,-1505.64 677.52,-1617.14 619.22,-1700.21"/>
+</g>
+<!-- amendment&#45;&#45;business -->
+<g id="amendment--business" class="edge">
+<title>amendment--business</title>
+<path fill="none" stroke="black" d="M756.05,-1340.35C744.44,-1345.16 732.74,-1350 721.16,-1354.79"/>
+</g>
+<!-- amendment&#45;&#45;tariff -->
+<g id="amendment--tariff" class="edge">
+<title>amendment--tariff</title>
+<path fill="none" stroke="black" d="M898.76,-1448.24C893.67,-1492.04 888.31,-1538.17 883.55,-1579.09"/>
+</g>
+<!-- aright&#45;&#45;problem -->
+<g id="aright--problem" class="edge">
+<title>aright--problem</title>
+<path fill="none" stroke="black" d="M1250.34,-687.19C1079.26,-687.19 751.5,-687.19 561.75,-687.19"/>
+</g>
+<!-- action&#45;&#45;counsel -->
+<g id="action--counsel" class="edge">
+<title>action--counsel</title>
+<path fill="none" stroke="black" d="M5852.26,-6465.47C5775.76,-6235.65 5640.82,-5830.31 5575.55,-5634.23"/>
+</g>
+<!-- action&#45;&#45;purpose -->
+<g id="action--purpose" class="edge">
+<title>action--purpose</title>
+<path fill="none" stroke="black" d="M5962.53,-6464.8C6068.1,-6134.57 6301.28,-5405.18 6417.11,-5042.88"/>
+</g>
+<!-- action&#45;&#45;stand -->
+<g id="action--stand" class="edge">
+<title>action--stand</title>
+<path fill="none" stroke="black" d="M6051.69,-6529.13C6340.28,-6317.67 6989.18,-5842.21 7285.72,-5624.93"/>
+</g>
+<!-- action&#45;&#45;thought -->
+<g id="action--thought" class="edge">
+<title>action--thought</title>
+<path fill="none" stroke="black" d="M6086.17,-6633.3C6321.52,-6632.21 6731.39,-6630.32 6943.33,-6629.34"/>
+</g>
+<!-- counsel&#45;&#45;purpose -->
+<g id="counsel--purpose" class="edge">
+<title>counsel--purpose</title>
+<path fill="none" stroke="black" d="M5633.67,-5451.91C5790.54,-5337.35 6105.09,-5107.62 6304.84,-4961.74"/>
+</g>
+<!-- counsel&#45;&#45;stand -->
+<g id="counsel--stand" class="edge">
+<title>counsel--stand</title>
+<path fill="none" stroke="black" d="M5656.63,-5521.16C5976.41,-5519.65 6858.88,-5515.49 7249.05,-5513.66"/>
+</g>
+<!-- counsel&#45;&#45;thought -->
+<g id="counsel--thought" class="edge">
+<title>counsel--thought</title>
+<path fill="none" stroke="black" d="M5634.19,-5590.75C5906.16,-5786.16 6680.26,-6342.32 6968.75,-6549.58"/>
+</g>
+<!-- purpose&#45;&#45;stand -->
+<g id="purpose--stand" class="edge">
+<title>purpose--stand</title>
+<path fill="none" stroke="black" d="M6666.76,-4960.08C6845.51,-5088.04 7115.49,-5281.32 7284.25,-5402.12"/>
+</g>
+<!-- purpose&#45;&#45;thought -->
+<g id="purpose--thought" class="edge">
+<title>purpose--thought</title>
+<path fill="none" stroke="black" d="M6555.15,-5042.12C6679.48,-5418.76 6935.25,-6193.57 7036.38,-6499.95"/>
+</g>
+<!-- stand&#45;&#45;thought -->
+<g id="stand--thought" class="edge">
+<title>stand--thought</title>
+<path fill="none" stroke="black" d="M7380.47,-5693.61C7307.53,-5919.76 7184.49,-6301.29 7120.44,-6499.87"/>
+</g>
+<!-- creed&#45;&#45;journey -->
+<g id="creed--journey" class="edge">
+<title>creed--journey</title>
+<path fill="none" stroke="black" d="M6345,-3508.46C6351.88,-3492.24 6359.11,-3475.21 6366.13,-3458.65"/>
+</g>
+<!-- civilization&#45;&#45;relationship -->
+<g id="civilization--relationship" class="edge">
+<title>civilization--relationship</title>
+<path fill="none" stroke="black" d="M6485.42,-2897.75C6485.03,-2881.97 6484.63,-2865.83 6484.23,-2849.79"/>
+</g>
+<!-- leadership&#45;&#45;stricken -->
+<g id="leadership--stricken" class="edge">
+<title>leadership--stricken</title>
+<path fill="none" stroke="black" d="M5408.16,-155.72C5196.26,-155.72 4820.82,-155.72 4617.18,-155.72"/>
+</g>
+<!-- learn&#45;&#45;peace -->
+<g id="learn--peace" class="edge">
+<title>learn--peace</title>
+<path fill="none" stroke="black" d="M5174.41,-1057.52C5145.74,-1079.52 5113.23,-1104.47 5080.1,-1129.9"/>
+</g>
+<!-- learn&#45;&#45;today -->
+<g id="learn--today" class="edge">
+<title>learn--today</title>
+<path fill="none" stroke="black" d="M5299.3,-1104.44C5314.32,-1178.84 5333.77,-1275.15 5350.77,-1359.37"/>
+</g>
+<!-- learn&#45;&#45;mistake -->
+<g id="learn--mistake" class="edge">
+<title>learn--mistake</title>
+<path fill="none" stroke="black" d="M5273.4,-854.74C5273.38,-852.24 5273.36,-849.74 5273.34,-847.25"/>
+</g>
+<!-- learn&#45;&#45;trend -->
+<g id="learn--trend" class="edge">
+<title>learn--trend</title>
+<path fill="none" stroke="black" d="M5393.62,-939.96C5400.09,-937.74 5406.54,-935.53 5412.87,-933.36"/>
+</g>
+<!-- learn&#45;&#45;test -->
+<g id="learn--test" class="edge">
+<title>learn--test</title>
+<path fill="none" stroke="black" d="M5183.62,-893.6C5159.13,-870.05 5132.99,-844.92 5109.76,-822.58"/>
+</g>
+<!-- learn&#45;&#45;upward -->
+<g id="learn--upward" class="edge">
+<title>learn--upward</title>
+<path fill="none" stroke="black" d="M5377.77,-1052.57C5395.04,-1064.54 5412.92,-1076.95 5430.09,-1088.86"/>
+</g>
+<!-- mistake&#45;&#45;peace -->
+<g id="mistake--peace" class="edge">
+<title>mistake--peace</title>
+<path fill="none" stroke="black" d="M5201.17,-824.08C5151.71,-891.85 5083.61,-985.18 5020.41,-1071.79"/>
+</g>
+<!-- mistake&#45;&#45;today -->
+<g id="mistake--today" class="edge">
+<title>mistake--today</title>
+<path fill="none" stroke="black" d="M5289.42,-846.04C5308.44,-980.02 5339.56,-1199.14 5362.09,-1357.78"/>
+</g>
+<!-- mistake&#45;&#45;trend -->
+<g id="mistake--trend" class="edge">
+<title>mistake--trend</title>
+<path fill="none" stroke="black" d="M5368.08,-800.7C5387.94,-816.12 5408.55,-832.13 5427.43,-846.79"/>
+</g>
+<!-- mistake&#45;&#45;test -->
+<g id="mistake--test" class="edge">
+<title>mistake--test</title>
+<path fill="none" stroke="black" d="M5152.2,-740.81C5147.06,-741.42 5141.93,-742.04 5136.84,-742.64"/>
+</g>
+<!-- mistake&#45;&#45;upward -->
+<g id="mistake--upward" class="edge">
+<title>mistake--upward</title>
+<path fill="none" stroke="black" d="M5334.34,-830.3C5374.68,-897.99 5427.12,-985.99 5467.48,-1053.73"/>
+</g>
+<!-- trend&#45;&#45;upward -->
+<g id="trend--upward" class="edge">
+<title>trend--upward</title>
+<path fill="none" stroke="black" d="M5510.86,-995.25C5512.45,-1009.06 5514.1,-1023.47 5515.74,-1037.76"/>
+</g>
+<!-- test&#45;&#45;today -->
+<g id="test--today" class="edge">
+<title>test--today</title>
+<path fill="none" stroke="black" d="M5078.56,-844.73C5134.72,-972.41 5238.49,-1208.36 5310.68,-1372.48"/>
+</g>
+<!-- test&#45;&#45;trend -->
+<g id="test--trend" class="edge">
+<title>test--trend</title>
+<path fill="none" stroke="black" d="M5132.77,-784.71C5214.6,-811.13 5332.36,-849.16 5412.37,-874.99"/>
+</g>
+<!-- test&#45;&#45;upward -->
+<g id="test--upward" class="edge">
+<title>test--upward</title>
+<path fill="none" stroke="black" d="M5114.96,-816.97C5201.5,-888.13 5342.82,-1004.32 5436,-1080.93"/>
+</g>
+<!-- blow&#45;&#45;breeze -->
+<g id="blow--breeze" class="edge">
+<title>blow--breeze</title>
+<path fill="none" stroke="black" d="M1195.21,-5501.75C1036.06,-5476.49 682.16,-5420.32 499.61,-5391.35"/>
+</g>
+<!-- blow&#45;&#45;friend -->
+<g id="blow--friend" class="edge">
+<title>blow--friend</title>
+<path fill="none" stroke="black" d="M1228.14,-5448.53C1104.19,-5278.08 772.22,-4821.58 613.4,-4603.17"/>
+</g>
+<!-- blow&#45;&#45;word -->
+<g id="blow--word" class="edge">
+<title>blow--word</title>
+<path fill="none" stroke="black" d="M1289.01,-5433.58C1315.56,-5265.87 1376.32,-4882.02 1403.56,-4709.95"/>
+</g>
+<!-- breeze&#45;&#45;friend -->
+<g id="breeze--friend" class="edge">
+<title>breeze--friend</title>
+<path fill="none" stroke="black" d="M403.77,-5259.7C429.12,-5099.24 475.43,-4806.14 503.32,-4629.66"/>
+</g>
+<!-- breeze&#45;&#45;word -->
+<g id="breeze--word" class="edge">
+<title>breeze--word</title>
+<path fill="none" stroke="black" d="M478.71,-5305.78C682.59,-5157.61 1165.51,-4806.66 1346.8,-4674.9"/>
+</g>
+<!-- friend&#45;&#45;word -->
+<g id="friend--word" class="edge">
+<title>friend--word</title>
+<path fill="none" stroke="black" d="M672.5,-4506.54C859.82,-4536.02 1178.59,-4586.19 1331.03,-4610.18"/>
+</g>
+<!-- arrive -->
+<g id="arrive" class="node">
+<title>arrive</title>
+<g id="a_arrive"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="7476.29" cy="-93.98" rx="93.98" ry="93.98"/>
+<text text-anchor="middle" x="7476.29" y="-69.56" font-family="Arial" font-size="64.00" fill="white">arrive</text>
+</a>
+</g>
+</g>
+<!-- incur -->
+<g id="incur" class="node">
+<title>incur</title>
+<g id="a_incur"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="7956.74" cy="-231.09" rx="83.93" ry="83.93"/>
+<text text-anchor="middle" x="7956.74" y="-206.67" font-family="Arial" font-size="64.00" fill="white">incur</text>
+</a>
+</g>
+</g>
+<!-- distinguished -->
+<g id="distinguished" class="node">
+<title>distinguished</title>
+<g id="a_distinguished"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="7925.02" cy="-1072.84" rx="198.46" ry="198.46"/>
+<text text-anchor="middle" x="7925.02" y="-1048.41" font-family="Arial" font-size="64.00" fill="white">distinguished</text>
+</a>
+</g>
+</g>
+<!-- willingly -->
+<g id="willingly" class="node">
+<title>willingly</title>
+<g id="a_willingly"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="6415.29" cy="-1427.23" rx="154" ry="154"/>
+<text text-anchor="middle" x="6415.29" y="-1402.8" font-family="Arial" font-size="64.00" fill="white">willingly</text>
+</a>
+</g>
+</g>
+<!-- oath -->
+<g id="oath" class="node">
+<title>oath</title>
+<g id="a_oath"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="6389.48" cy="-926.08" rx="156.48" ry="156.48"/>
+<text text-anchor="middle" x="6389.48" y="-901.66" font-family="Arial" font-size="64.00" fill="white">oath</text>
+</a>
+</g>
+</g>
+<!-- magistrate -->
+<g id="magistrate" class="node">
+<title>magistrate</title>
+<g id="a_magistrate"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="7105.97" cy="-696.7" rx="162.98" ry="162.98"/>
+<text text-anchor="middle" x="7105.97" y="-672.28" font-family="Arial" font-size="64.00" fill="white">magistrate</text>
+</a>
+</g>
+</g>
+<!-- upbraiding -->
+<g id="upbraiding" class="node">
+<title>upbraiding</title>
+<g id="a_upbraiding"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="7699.16" cy="-1533.04" rx="209.48" ry="209.48"/>
+<text text-anchor="middle" x="7699.16" y="-1508.61" font-family="Arial" font-size="64.00" fill="white">upbraiding</text>
+</a>
+</g>
+</g>
+<!-- official -->
+<g id="official" class="node">
+<title>official</title>
+<g id="a_official"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="6671.58" cy="-1844.3" rx="111.51" ry="111.51"/>
+<text text-anchor="middle" x="6671.58" y="-1819.87" font-family="Arial" font-size="64.00" fill="white">official</text>
+</a>
+</g>
+</g>
+<!-- violate -->
+<g id="violate" class="node">
+<title>violate</title>
+<g id="a_violate"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="7191.41" cy="-1590.87" rx="100.48" ry="100.48"/>
+<text text-anchor="middle" x="7191.41" y="-1566.45" font-family="Arial" font-size="64.00" fill="white">violate</text>
+</a>
+</g>
+</g>
+<!-- instance -->
+<g id="instance" class="node">
+<title>instance</title>
+<g id="a_instance"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="6592.59" cy="-480.21" rx="125.53" ry="125.53"/>
+<text text-anchor="middle" x="6592.59" y="-455.78" font-family="Arial" font-size="64.00" fill="white">instance</text>
+</a>
+</g>
+</g>
+<!-- ceremony -->
+<g id="ceremony" class="node">
+<title>ceremony</title>
+<g id="a_ceremony"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="7096.57" cy="-2121.64" rx="154.01" ry="154.01"/>
+<text text-anchor="middle" x="7096.57" y="-2097.22" font-family="Arial" font-size="64.00" fill="white">ceremony</text>
+</a>
+</g>
+</g>
+<!-- knowingly -->
+<g id="knowingly" class="node">
+<title>knowingly</title>
+<g id="a_knowingly"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="7618.78" cy="-664.06" rx="178.57" ry="178.57"/>
+<text text-anchor="middle" x="7618.78" y="-639.63" font-family="Arial" font-size="64.00" fill="white">knowingly</text>
+</a>
+</g>
+</g>
+<!-- execution -->
+<g id="execution" class="node">
+<title>execution</title>
+<g id="a_execution"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="8339.95" cy="-1548.01" rx="148.68" ry="148.68"/>
+<text text-anchor="middle" x="8339.95" y="-1523.58" font-family="Arial" font-size="64.00" fill="white">execution</text>
+</a>
+</g>
+</g>
+<!-- punishment -->
+<g id="punishment" class="node">
+<title>punishment</title>
+<g id="a_punishment"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="6904.75" cy="-1166.86" rx="181.26" ry="181.26"/>
+<text text-anchor="middle" x="6904.75" y="-1142.43" font-family="Arial" font-size="64.00" fill="white">punishment</text>
+</a>
+</g>
+</g>
+<!-- previous -->
+<g id="previous" class="node">
+<title>previous</title>
+<g id="a_previous"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="8050" cy="-1947" rx="153.26" ry="153.26"/>
+<text text-anchor="middle" x="8050" y="-1922.58" font-family="Arial" font-size="64.00" fill="white">previous</text>
+</a>
+</g>
+</g>
+<!-- witness -->
+<g id="witness" class="node">
+<title>witness</title>
+<g id="a_witness"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="8289.22" cy="-591.85" rx="113.27" ry="113.27"/>
+<text text-anchor="middle" x="8289.22" y="-567.43" font-family="Arial" font-size="64.00" fill="white">witness</text>
+</a>
+</g>
+</g>
+<!-- injunction -->
+<g id="injunction" class="node">
+<title>injunction</title>
+<g id="a_injunction"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="7589.69" cy="-2131.79" rx="156" ry="156"/>
+<text text-anchor="middle" x="7589.69" y="-2107.37" font-family="Arial" font-size="64.00" fill="white">injunction</text>
+</a>
+</g>
+</g>
+<!-- repose -->
+<g id="repose" class="node">
+<title>repose</title>
+<g id="a_repose"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="8458.26" cy="-1064.6" rx="106.32" ry="106.32"/>
+<text text-anchor="middle" x="8458.26" y="-1040.18" font-family="Arial" font-size="64.00" fill="white">repose</text>
+</a>
+</g>
+</g>
+<!-- entertain -->
+<g id="entertain" class="node">
+<title>entertain</title>
+<g id="a_entertain"><a xlink:title="'02_washington_1793'">
+<ellipse fill="#081d58" stroke="black" cx="6992.64" cy="-164.49" rx="132.39" ry="132.39"/>
+<text text-anchor="middle" x="6992.64" y="-140.07" font-family="Arial" font-size="64.00" fill="white">entertain</text>
+</a>
+</g>
+</g>
+<!-- government -->
+<g id="government" class="node">
+<title>government</title>
+<g id="a_government"><a xlink:title="'03_adams_john_1797'&#10;'04_jefferson_1801'&#10;'08_monroe_1817'&#10;'10_adams_john_quincy_1825'&#10;'11_jackson_1829'&#10;'12_jackson_1833'&#10;'14_harrison_1841'&#10;'15_polk_1845'&#10;'16_taylor_1849'&#10;'23_hayes_1877'&#10;'24_garfield_1881'&#10;'25_cleveland_1885'&#10;'27_cleveland_1893'&#10;'28_mckinley_1897'&#10;'29_mckinley_1901'&#10;'36_hoover_1929'&#10;'38_roosevelt_franklin_1937'&#10;'49_reagan_1981'&#10;'50_reagan_1985'">
+<ellipse fill="#253494" stroke="black" cx="3156.62" cy="-3802.04" rx="447.41" ry="447.41"/>
+<text text-anchor="middle" x="3156.62" y="-3777.61" font-family="Arial" font-size="64.00" fill="white">government</text>
+</a>
+</g>
+</g>
+<!-- inhabitant -->
+<g id="inhabitant" class="node">
+<title>inhabitant</title>
+<g id="a_inhabitant"><a xlink:title="'29_mckinley_1901'">
+<ellipse fill="#41b6c4" stroke="black" cx="2210.91" cy="-4808.76" rx="151.95" ry="151.95"/>
+<text text-anchor="middle" x="2210.91" y="-4784.33" font-family="Arial" font-size="64.00">inhabitant</text>
+</a>
+</g>
+</g>
+<!-- economic -->
+<g id="economic" class="node">
+<title>economic</title>
+<g id="a_economic"><a xlink:title="'38_roosevelt_franklin_1937'">
+<ellipse fill="#c7e9b4" stroke="black" cx="3376.9" cy="-4797.71" rx="147.54" ry="147.54"/>
+<text text-anchor="middle" x="3376.9" y="-4773.28" font-family="Arial" font-size="64.00">economic</text>
+</a>
+</g>
+</g>
+<!-- freedom -->
+<g id="freedom" class="node">
+<title>freedom</title>
+<g id="a_freedom"><a xlink:title="'41_truman_1949'&#10;'43_eisenhower_1957'&#10;'50_reagan_1985'&#10;'55_bush_george_w_2005'">
+<ellipse fill="#c7e9b4" stroke="black" cx="3969.16" cy="-2549.11" rx="258.5" ry="258.5"/>
+<text text-anchor="middle" x="3969.16" y="-2524.69" font-family="Arial" font-size="64.00">freedom</text>
+</a>
+</g>
+</g>
+<!-- citizen -->
+<g id="citizen" class="node">
+<title>citizen</title>
+<g id="a_citizen"><a xlink:title="'14_harrison_1841'&#10;'25_cleveland_1885'">
+<ellipse fill="#1d91c0" stroke="black" cx="1971.05" cy="-2372.26" rx="315.32" ry="315.32"/>
+<text text-anchor="middle" x="1971.05" y="-2347.84" font-family="Arial" font-size="64.00">citizen</text>
+</a>
+</g>
+</g>
+<!-- constitution -->
+<g id="constitution" class="node">
+<title>constitution</title>
+<g id="a_constitution"><a xlink:title="'14_harrison_1841'&#10;'18_buchanan_1857'&#10;'19_lincoln_1861'&#10;'24_garfield_1881'">
+<ellipse fill="#1d91c0" stroke="black" cx="1377.19" cy="-2559.66" rx="270.42" ry="270.42"/>
+<text text-anchor="middle" x="1377.19" y="-2535.23" font-family="Arial" font-size="64.00">constitution</text>
+</a>
+</g>
+</g>
+<!-- cuba -->
+<g id="cuba" class="node">
+<title>cuba</title>
+<g id="a_cuba"><a xlink:title="'29_mckinley_1901'">
+<ellipse fill="#41b6c4" stroke="black" cx="1679.29" cy="-4202.21" rx="81.57" ry="81.57"/>
+<text text-anchor="middle" x="1679.29" y="-4177.79" font-family="Arial" font-size="64.00">cuba</text>
+</a>
+</g>
+</g>
+<!-- great -->
+<g id="great" class="node">
+<title>great</title>
+<g id="a_great"><a xlink:title="'08_monroe_1817'&#10;'09_monroe_1821'&#10;'32_wilson_1913'">
+<ellipse fill="#225ea8" stroke="black" cx="2849.91" cy="-5270.68" rx="371.01" ry="371.01"/>
+<text text-anchor="middle" x="2849.91" y="-5246.25" font-family="Arial" font-size="64.00" fill="white">great</text>
+</a>
+</g>
+</g>
+<!-- invasion -->
+<g id="invasion" class="node">
+<title>invasion</title>
+<g id="a_invasion"><a xlink:title="'08_monroe_1817'">
+<ellipse fill="#225ea8" stroke="black" cx="2345.32" cy="-5759.45" rx="125.17" ry="125.17"/>
+<text text-anchor="middle" x="2345.32" y="-5735.03" font-family="Arial" font-size="64.00" fill="white">invasion</text>
+</a>
+</g>
+</g>
+<!-- nuclear -->
+<g id="nuclear" class="node">
+<title>nuclear</title>
+<g id="a_nuclear"><a xlink:title="'50_reagan_1985'">
+<ellipse fill="#edf8b1" stroke="black" cx="3178.57" cy="-2928.21" rx="115.56" ry="115.56"/>
+<text text-anchor="middle" x="3178.57" y="-2903.78" font-family="Arial" font-size="64.00">nuclear</text>
+</a>
+</g>
+</g>
+<!-- partisan -->
+<g id="partisan" class="node">
+<title>partisan</title>
+<g id="a_partisan"><a xlink:title="'25_cleveland_1885'">
+<ellipse fill="#41b6c4" stroke="black" cx="2403.7" cy="-1599.01" rx="122.32" ry="122.32"/>
+<text text-anchor="middle" x="2403.7" y="-1574.59" font-family="Arial" font-size="64.00">partisan</text>
+</a>
+</g>
+</g>
+<!-- pleasing -->
+<g id="pleasing" class="node">
+<title>pleasing</title>
+<g id="a_pleasing"><a xlink:title="'03_adams_john_1797'">
+<ellipse fill="#253494" stroke="black" cx="3803.13" cy="-3070.24" rx="140.09" ry="140.09"/>
+<text text-anchor="middle" x="3803.13" y="-3045.81" font-family="Arial" font-size="64.00" fill="white">pleasing</text>
+</a>
+</g>
+</g>
+<!-- disaster -->
+<g id="disaster" class="node">
+<title>disaster</title>
+<g id="a_disaster"><a xlink:title="'38_roosevelt_franklin_1937'">
+<ellipse fill="#c7e9b4" stroke="black" cx="3457.78" cy="-4517.05" rx="124.86" ry="124.86"/>
+<text text-anchor="middle" x="3457.78" y="-4492.62" font-family="Arial" font-size="64.00">disaster</text>
+</a>
+</g>
+</g>
+<!-- hero -->
+<g id="hero" class="node">
+<title>hero</title>
+<g id="a_hero"><a xlink:title="'49_reagan_1981'">
+<ellipse fill="#edf8b1" stroke="black" cx="3745.25" cy="-4591.05" rx="86.91" ry="86.91"/>
+<text text-anchor="middle" x="3745.25" y="-4566.62" font-family="Arial" font-size="64.00">hero</text>
+</a>
+</g>
+</g>
+<!-- public -->
+<g id="public" class="node">
+<title>public</title>
+<g id="a_public"><a xlink:title="'05_jefferson_1805'&#10;'11_jackson_1829'&#10;'25_cleveland_1885'">
+<ellipse fill="#225ea8" stroke="black" cx="2164.39" cy="-1189.8" rx="278.57" ry="278.57"/>
+<text text-anchor="middle" x="2164.39" y="-1165.38" font-family="Arial" font-size="64.00" fill="white">public</text>
+</a>
+</g>
+</g>
+<!-- executive -->
+<g id="executive" class="node">
+<title>executive</title>
+<g id="a_executive"><a xlink:title="'14_harrison_1841'&#10;'29_mckinley_1901'">
+<ellipse fill="#1d91c0" stroke="black" cx="1835.84" cy="-3793.17" rx="193.74" ry="193.74"/>
+<text text-anchor="middle" x="1835.84" y="-3768.74" font-family="Arial" font-size="64.00">executive</text>
+</a>
+</g>
+</g>
+<!-- democracy -->
+<g id="democracy" class="node">
+<title>democracy</title>
+<g id="a_democracy"><a xlink:title="'38_roosevelt_franklin_1937'&#10;'39_roosevelt_franklin_1941'&#10;'41_truman_1949'">
+<ellipse fill="#c7e9b4" stroke="black" cx="3782.83" cy="-3383.22" rx="161.74" ry="161.74"/>
+<text text-anchor="middle" x="3782.83" y="-3358.79" font-family="Arial" font-size="64.00">democracy</text>
+</a>
+</g>
+</g>
+<!-- criminal -->
+<g id="criminal" class="node">
+<title>criminal</title>
+<g id="a_criminal"><a xlink:title="'36_hoover_1929'">
+<ellipse fill="#7fcdbb" stroke="black" cx="1205.16" cy="-3321.92" rx="121.8" ry="121.8"/>
+<text text-anchor="middle" x="1205.16" y="-3297.5" font-family="Arial" font-size="64.00">criminal</text>
+</a>
+</g>
+</g>
+<!-- legislature -->
+<g id="legislature" class="node">
+<title>legislature</title>
+<g id="a_legislature"><a xlink:title="'03_adams_john_1797'">
+<ellipse fill="#253494" stroke="black" cx="3457.48" cy="-3173.03" rx="155.25" ry="155.25"/>
+<text text-anchor="middle" x="3457.48" y="-3148.61" font-family="Arial" font-size="64.00" fill="white">legislature</text>
+</a>
+</g>
+</g>
+<!-- people -->
+<g id="people" class="node">
+<title>people</title>
+<g id="a_people"><a xlink:title="'03_adams_john_1797'&#10;'12_jackson_1833'&#10;'13_van_buren_1837'&#10;'14_harrison_1841'&#10;'19_lincoln_1861'&#10;'24_garfield_1881'&#10;'25_cleveland_1885'&#10;'26_harrison_1889'&#10;'27_cleveland_1893'&#10;'28_mckinley_1897'&#10;'41_truman_1949'&#10;'42_eisenhower_1953'&#10;'43_eisenhower_1957'&#10;'46_nixon_1969'&#10;'50_reagan_1985'&#10;'52_clinton_1993'">
+<ellipse fill="#253494" stroke="black" cx="3193.55" cy="-1998.98" rx="436.88" ry="436.88"/>
+<text text-anchor="middle" x="3193.55" y="-1974.55" font-family="Arial" font-size="64.00" fill="white">people</text>
+</a>
+</g>
+</g>
+<!-- weapon -->
+<g id="weapon" class="node">
+<title>weapon</title>
+<g id="a_weapon"><a xlink:title="'50_reagan_1985'">
+<ellipse fill="#edf8b1" stroke="black" cx="2935.67" cy="-2694.38" rx="119.15" ry="119.15"/>
+<text text-anchor="middle" x="2935.67" y="-2669.96" font-family="Arial" font-size="64.00">weapon</text>
+</a>
+</g>
+</g>
+<!-- progress -->
+<g id="progress" class="node">
+<title>progress</title>
+<g id="a_progress"><a xlink:title="'36_hoover_1929'">
+<ellipse fill="#7fcdbb" stroke="black" cx="873.23" cy="-3659.63" rx="192.92" ry="192.92"/>
+<text text-anchor="middle" x="873.23" y="-3635.21" font-family="Arial" font-size="64.00">progress</text>
+</a>
+</g>
+</g>
+<!-- principle -->
+<g id="principle" class="node">
+<title>principle</title>
+<g id="a_principle"><a xlink:title="'04_jefferson_1801'">
+<ellipse fill="#253494" stroke="black" cx="1975.78" cy="-5397.55" rx="235.79" ry="235.79"/>
+<text text-anchor="middle" x="1975.78" y="-5373.12" font-family="Arial" font-size="64.00" fill="white">principle</text>
+</a>
+</g>
+</g>
+<!-- revenue -->
+<g id="revenue" class="node">
+<title>revenue</title>
+<g id="a_revenue"><a xlink:title="'15_polk_1845'&#10;'28_mckinley_1897'">
+<ellipse fill="#1d91c0" stroke="black" cx="1856.91" cy="-3270.12" rx="172.61" ry="172.61"/>
+<text text-anchor="middle" x="1856.91" y="-3245.7" font-family="Arial" font-size="64.00">revenue</text>
+</a>
+</g>
+</g>
+<!-- party -->
+<g id="party" class="node">
+<title>party</title>
+<g id="a_party"><a xlink:title="'23_hayes_1877'">
+<ellipse fill="#41b6c4" stroke="black" cx="3554.91" cy="-5564.31" rx="215.28" ry="215.28"/>
+<text text-anchor="middle" x="3554.91" y="-5539.89" font-family="Arial" font-size="64.00">party</text>
+</a>
+</g>
+</g>
+<!-- grant -->
+<g id="grant" class="node">
+<title>grant</title>
+<g id="a_grant"><a xlink:title="'14_harrison_1841'">
+<ellipse fill="#1d91c0" stroke="black" cx="1794.05" cy="-2916.77" rx="136.54" ry="136.54"/>
+<text text-anchor="middle" x="1794.05" y="-2892.34" font-family="Arial" font-size="64.00">grant</text>
+</a>
+</g>
+</g>
+<!-- loan -->
+<g id="loan" class="node">
+<title>loan</title>
+<g id="a_loan"><a xlink:title="'28_mckinley_1897'">
+<ellipse fill="#41b6c4" stroke="black" cx="3240.79" cy="-4345.57" rx="81.54" ry="81.54"/>
+<text text-anchor="middle" x="3240.79" y="-4321.15" font-family="Arial" font-size="64.00">loan</text>
+</a>
+</g>
+</g>
+<!-- exercise -->
+<g id="exercise" class="node">
+<title>exercise</title>
+<g id="a_exercise"><a xlink:title="'12_jackson_1833'">
+<ellipse fill="#1d91c0" stroke="black" cx="2290.41" cy="-1889.02" rx="159.66" ry="159.66"/>
+<text text-anchor="middle" x="2290.41" y="-1864.6" font-family="Arial" font-size="64.00">exercise</text>
+</a>
+</g>
+</g>
+<!-- nation -->
+<g id="nation" class="node">
+<title>nation</title>
+<g id="a_nation"><a xlink:title="'03_adams_john_1797'&#10;'06_madison_1809'&#10;'39_roosevelt_franklin_1941'&#10;'41_truman_1949'&#10;'43_eisenhower_1957'&#10;'45_johnson_1965'&#10;'47_nixon_1973'&#10;'48_carter_1977'&#10;'53_clinton_1997'&#10;'54_bush_george_w_2001'&#10;'56_obama_2009'">
+<ellipse fill="#253494" stroke="black" cx="4765.79" cy="-2910.48" rx="397.8" ry="397.8"/>
+<text text-anchor="middle" x="4765.79" y="-2886.05" font-family="Arial" font-size="64.00" fill="white">nation</text>
+</a>
+</g>
+</g>
+<!-- texas -->
+<g id="texas" class="node">
+<title>texas</title>
+<g id="a_texas"><a xlink:title="'15_polk_1845'">
+<ellipse fill="#1d91c0" stroke="black" cx="1547.02" cy="-4020.7" rx="86.91" ry="86.91"/>
+<text text-anchor="middle" x="1547.02" y="-3996.27" font-family="Arial" font-size="64.00">texas</text>
+</a>
+</g>
+</g>
+<!-- country -->
+<g id="country" class="node">
+<title>country</title>
+<g id="a_country"><a xlink:title="'23_hayes_1877'&#10;'35_coolidge_1925'&#10;'58_trump_2017'">
+<ellipse fill="#41b6c4" stroke="black" cx="5054.68" cy="-4906.52" rx="338.91" ry="338.91"/>
+<text text-anchor="middle" x="5054.68" y="-4882.09" font-family="Arial" font-size="64.00">country</text>
+</a>
+</g>
+</g>
+<!-- union -->
+<g id="union" class="node">
+<title>union</title>
+<g id="a_union"><a xlink:title="'10_adams_john_quincy_1825'&#10;'12_jackson_1833'&#10;'15_polk_1845'&#10;'18_buchanan_1857'&#10;'19_lincoln_1861'&#10;'24_garfield_1881'&#10;'45_johnson_1965'">
+<ellipse fill="#225ea8" stroke="black" cx="2549.44" cy="-2952.07" rx="256.16" ry="256.16"/>
+<text text-anchor="middle" x="2549.44" y="-2927.65" font-family="Arial" font-size="64.00" fill="white">union</text>
+</a>
+</g>
+</g>
+<!-- power -->
+<g id="power" class="node">
+<title>power</title>
+<g id="a_power"><a xlink:title="'09_monroe_1821'&#10;'14_harrison_1841'&#10;'15_polk_1845'">
+<ellipse fill="#225ea8" stroke="black" cx="2369.52" cy="-3548.05" rx="331.55" ry="331.55"/>
+<text text-anchor="middle" x="2369.52" y="-3523.62" font-family="Arial" font-size="64.00" fill="white">power</text>
+</a>
+</g>
+</g>
+<!-- negro -->
+<g id="negro" class="node">
+<title>negro</title>
+<g id="a_negro"><a xlink:title="'24_garfield_1881'&#10;'31_taft_1909'">
+<ellipse fill="#41b6c4" stroke="black" cx="1211.25" cy="-1712.54" rx="102.38" ry="102.38"/>
+<text text-anchor="middle" x="1211.25" y="-1688.12" font-family="Arial" font-size="64.00">negro</text>
+</a>
+</g>
+</g>
+<!-- congress -->
+<g id="congress" class="node">
+<title>congress</title>
+<g id="a_congress"><a xlink:title="'28_mckinley_1897'&#10;'29_mckinley_1901'">
+<ellipse fill="#41b6c4" stroke="black" cx="2419.62" cy="-4415.03" rx="218.86" ry="218.86"/>
+<text text-anchor="middle" x="2419.62" y="-4390.61" font-family="Arial" font-size="64.00">congress</text>
+</a>
+</g>
+</g>
+<!-- americans -->
+<g id="americans" class="node">
+<title>americans</title>
+<g id="a_americans"><a xlink:title="'49_reagan_1981'&#10;'52_clinton_1993'&#10;'55_bush_george_w_2005'">
+<ellipse fill="#edf8b1" stroke="black" cx="4423.45" cy="-3488.62" rx="171.66" ry="171.66"/>
+<text text-anchor="middle" x="4423.45" y="-3464.19" font-family="Arial" font-size="64.00">americans</text>
+</a>
+</g>
+</g>
+<!-- island -->
+<g id="island" class="node">
+<title>island</title>
+<g id="a_island"><a xlink:title="'29_mckinley_1901'">
+<ellipse fill="#41b6c4" stroke="black" cx="1951.7" cy="-4771.12" rx="96.24" ry="96.24"/>
+<text text-anchor="middle" x="1951.7" y="-4746.7" font-family="Arial" font-size="64.00">island</text>
+</a>
+</g>
+</g>
+<!-- enforcement -->
+<g id="enforcement" class="node">
+<title>enforcement</title>
+<g id="a_enforcement"><a xlink:title="'36_hoover_1929'">
+<ellipse fill="#7fcdbb" stroke="black" cx="1263.26" cy="-3822.03" rx="188.4" ry="188.4"/>
+<text text-anchor="middle" x="1263.26" y="-3797.61" font-family="Arial" font-size="64.00">enforcement</text>
+</a>
+</g>
+</g>
+<!-- law -->
+<g id="law" class="node">
+<title>law</title>
+<g id="a_law"><a xlink:title="'19_lincoln_1861'&#10;'21_grant_1869'&#10;'24_garfield_1881'&#10;'26_harrison_1889'&#10;'36_hoover_1929'">
+<ellipse fill="#1d91c0" stroke="black" cx="799.45" cy="-2674.92" rx="299.07" ry="299.07"/>
+<text text-anchor="middle" x="799.45" y="-2650.5" font-family="Arial" font-size="64.00">law</text>
+</a>
+</g>
+</g>
+<!-- preservation -->
+<g id="preservation" class="node">
+<title>preservation</title>
+<g id="a_preservation"><a xlink:title="'12_jackson_1833'">
+<ellipse fill="#1d91c0" stroke="black" cx="2561.99" cy="-2498.85" rx="184.34" ry="184.34"/>
+<text text-anchor="middle" x="2561.99" y="-2474.42" font-family="Arial" font-size="64.00">preservation</text>
+</a>
+</g>
+</g>
+<!-- commitment -->
+<g id="commitment" class="node">
+<title>commitment</title>
+<g id="a_commitment"><a xlink:title="'54_bush_george_w_2001'">
+<ellipse fill="#ffffd9" stroke="black" cx="5922.5" cy="-2931.66" rx="186.68" ry="186.68"/>
+<text text-anchor="middle" x="5922.5" y="-2907.23" font-family="Arial" font-size="64.00">commitment</text>
+</a>
+</g>
+</g>
+<!-- strive -->
+<g id="strive" class="node">
+<title>strive</title>
+<g id="a_strive"><a xlink:title="'43_eisenhower_1957'">
+<ellipse fill="#c7e9b4" stroke="black" cx="4252.72" cy="-1449.75" rx="114.87" ry="114.87"/>
+<text text-anchor="middle" x="4252.72" y="-1425.33" font-family="Arial" font-size="64.00">strive</text>
+</a>
+</g>
+</g>
+<!-- life -->
+<g id="life" class="node">
+<title>life</title>
+<g id="a_life"><a xlink:title="'32_wilson_1913'&#10;'39_roosevelt_franklin_1941'">
+<ellipse fill="#7fcdbb" stroke="black" cx="4454.54" cy="-4493.96" rx="253.2" ry="253.2"/>
+<text text-anchor="middle" x="4454.54" y="-4469.54" font-family="Arial" font-size="64.00">life</text>
+</a>
+</g>
+</g>
+<!-- peace -->
+<g id="peace" class="node">
+<title>peace</title>
+<g id="a_peace"><a xlink:title="'40_roosevelt_franklin_1945'&#10;'41_truman_1949'&#10;'43_eisenhower_1957'&#10;'46_nixon_1969'&#10;'47_nixon_1973'">
+<ellipse fill="#c7e9b4" stroke="black" cx="4848.1" cy="-1307.94" rx="292.08" ry="292.08"/>
+<text text-anchor="middle" x="4848.1" y="-1283.51" font-family="Arial" font-size="64.00">peace</text>
+</a>
+</g>
+</g>
+<!-- story -->
+<g id="story" class="node">
+<title>story</title>
+<g id="a_story"><a xlink:title="'54_bush_george_w_2001'">
+<ellipse fill="#ffffd9" stroke="black" cx="6109.19" cy="-2416.46" rx="96.24" ry="96.24"/>
+<text text-anchor="middle" x="6109.19" y="-2392.03" font-family="Arial" font-size="64.00">story</text>
+</a>
+</g>
+</g>
+<!-- man -->
+<g id="man" class="node">
+<title>man</title>
+<g id="a_man"><a xlink:title="'32_wilson_1913'&#10;'45_johnson_1965'">
+<ellipse fill="#7fcdbb" stroke="black" cx="3902.59" cy="-4205.12" rx="290.56" ry="290.56"/>
+<text text-anchor="middle" x="3902.59" y="-4180.69" font-family="Arial" font-size="64.00">man</text>
+</a>
+</g>
+</g>
+<!-- strength -->
+<g id="strength" class="node">
+<title>strength</title>
+<g id="a_strength"><a xlink:title="'42_eisenhower_1953'&#10;'48_carter_1977'">
+<ellipse fill="#c7e9b4" stroke="black" cx="4965.27" cy="-1785.53" rx="177.27" ry="177.27"/>
+<text text-anchor="middle" x="4965.27" y="-1761.1" font-family="Arial" font-size="64.00">strength</text>
+</a>
+</g>
+</g>
+<!-- america -->
+<g id="america" class="node">
+<title>america</title>
+<g id="a_america"><a xlink:title="'34_harding_1921'&#10;'39_roosevelt_franklin_1941'&#10;'47_nixon_1973'&#10;'52_clinton_1993'&#10;'53_clinton_1997'&#10;'54_bush_george_w_2001'&#10;'55_bush_george_w_2005'&#10;'56_obama_2009'&#10;'57_obama_2013'&#10;'58_trump_2017'">
+<ellipse fill="#7fcdbb" stroke="black" cx="5448.6" cy="-2949.86" rx="276.42" ry="276.42"/>
+<text text-anchor="middle" x="5448.6" y="-2925.43" font-family="Arial" font-size="64.00">america</text>
+</a>
+</g>
+</g>
+<!-- mastery -->
+<g id="mastery" class="node">
+<title>mastery</title>
+<g id="a_mastery"><a xlink:title="'45_johnson_1965'">
+<ellipse fill="#edf8b1" stroke="black" cx="4098.78" cy="-3645.56" rx="144.67" ry="144.67"/>
+<text text-anchor="middle" x="4098.78" y="-3621.14" font-family="Arial" font-size="64.00">mastery</text>
+</a>
+</g>
+</g>
+<!-- communism -->
+<g id="communism" class="node">
+<title>communism</title>
+<g id="a_communism"><a xlink:title="'41_truman_1949'">
+<ellipse fill="#c7e9b4" stroke="black" cx="3826.6" cy="-2086.28" rx="187.48" ry="187.48"/>
+<text text-anchor="middle" x="3826.6" y="-2061.85" font-family="Arial" font-size="64.00">communism</text>
+</a>
+</g>
+</g>
+<!-- recovery -->
+<g id="recovery" class="node">
+<title>recovery</title>
+<g id="a_recovery"><a xlink:title="'41_truman_1949'">
+<ellipse fill="#c7e9b4" stroke="black" cx="4179.11" cy="-2119.96" rx="134.61" ry="134.61"/>
+<text text-anchor="middle" x="4179.11" y="-2095.53" font-family="Arial" font-size="64.00">recovery</text>
+</a>
+</g>
+</g>
+<!-- civility -->
+<g id="civility" class="node">
+<title>civility</title>
+<g id="a_civility"><a xlink:title="'54_bush_george_w_2001'">
+<ellipse fill="#ffffd9" stroke="black" cx="6136.95" cy="-2637.2" rx="99.51" ry="99.51"/>
+<text text-anchor="middle" x="6136.95" y="-2612.78" font-family="Arial" font-size="64.00">civility</text>
+</a>
+</g>
+</g>
+<!-- covenant -->
+<g id="covenant" class="node">
+<title>covenant</title>
+<g id="a_covenant"><a xlink:title="'45_johnson_1965'">
+<ellipse fill="#edf8b1" stroke="black" cx="3762.18" cy="-3703.8" rx="140.29" ry="140.29"/>
+<text text-anchor="middle" x="3762.18" y="-3679.37" font-family="Arial" font-size="64.00">covenant</text>
+</a>
+</g>
+</g>
+<!-- enhance -->
+<g id="enhance" class="node">
+<title>enhance</title>
+<g id="a_enhance"><a xlink:title="'48_carter_1977'">
+<ellipse fill="#edf8b1" stroke="black" cx="5868.73" cy="-2529.16" rx="136.18" ry="136.18"/>
+<text text-anchor="middle" x="5868.73" y="-2504.73" font-family="Arial" font-size="64.00">enhance</text>
+</a>
+</g>
+</g>
+<!-- promise -->
+<g id="promise" class="node">
+<title>promise</title>
+<g id="a_promise"><a xlink:title="'53_clinton_1997'">
+<ellipse fill="#edf8b1" stroke="black" cx="5816.32" cy="-3647.6" rx="165.8" ry="165.8"/>
+<text text-anchor="middle" x="5816.32" y="-3623.18" font-family="Arial" font-size="64.00">promise</text>
+</a>
+</g>
+</g>
+<!-- agreement -->
+<g id="agreement" class="node">
+<title>agreement</title>
+<g id="a_agreement"><a xlink:title="'41_truman_1949'">
+<ellipse fill="#c7e9b4" stroke="black" cx="4429.69" cy="-1781.55" rx="169.7" ry="169.7"/>
+<text text-anchor="middle" x="4429.69" y="-1757.13" font-family="Arial" font-size="64.00">agreement</text>
+</a>
+</g>
+</g>
+<!-- seek -->
+<g id="seek" class="node">
+<title>seek</title>
+<g id="a_seek"><a xlink:title="'43_eisenhower_1957'">
+<ellipse fill="#c7e9b4" stroke="black" cx="3857.37" cy="-1481.21" rx="202.54" ry="202.54"/>
+<text text-anchor="middle" x="3857.37" y="-1456.78" font-family="Arial" font-size="64.00">seek</text>
+</a>
+</g>
+</g>
+<!-- program -->
+<g id="program" class="node">
+<title>program</title>
+<g id="a_program"><a xlink:title="'41_truman_1949'">
+<ellipse fill="#c7e9b4" stroke="black" cx="4447.86" cy="-2132.36" rx="126.04" ry="126.04"/>
+<text text-anchor="middle" x="4447.86" y="-2107.94" font-family="Arial" font-size="64.00">program</text>
+</a>
+</g>
+</g>
+<!-- change -->
+<g id="change" class="node">
+<title>change</title>
+<g id="a_change"><a xlink:title="'45_johnson_1965'&#10;'52_clinton_1993'">
+<ellipse fill="#edf8b1" stroke="black" cx="4139.55" cy="-3010" rx="185.3" ry="185.3"/>
+<text text-anchor="middle" x="4139.55" y="-2985.57" font-family="Arial" font-size="64.00">change</text>
+</a>
+</g>
+</g>
+<!-- role -->
+<g id="role" class="node">
+<title>role</title>
+<g id="a_role"><a xlink:title="'47_nixon_1973'">
+<ellipse fill="#edf8b1" stroke="black" cx="5875.47" cy="-2292.28" rx="91.77" ry="91.77"/>
+<text text-anchor="middle" x="5875.47" y="-2267.85" font-family="Arial" font-size="64.00">role</text>
+</a>
+</g>
+</g>
+<!-- century -->
+<g id="century" class="node">
+<title>century</title>
+<g id="a_century"><a xlink:title="'53_clinton_1997'">
+<ellipse fill="#edf8b1" stroke="black" cx="5947.09" cy="-3299.99" rx="173.56" ry="173.56"/>
+<text text-anchor="middle" x="5947.09" y="-3275.56" font-family="Arial" font-size="64.00">century</text>
+</a>
+</g>
+</g>
+<!-- responsibility -->
+<g id="responsibility" class="node">
+<title>responsibility</title>
+<g id="a_responsibility"><a xlink:title="'47_nixon_1973'">
+<ellipse fill="#edf8b1" stroke="black" cx="5691.39" cy="-1982.79" rx="189.58" ry="189.58"/>
+<text text-anchor="middle" x="5691.39" y="-1958.37" font-family="Arial" font-size="64.00">responsibility</text>
+</a>
+</g>
+</g>
+<!-- era -->
+<g id="era" class="node">
+<title>era</title>
+<g id="a_era"><a xlink:title="'47_nixon_1973'">
+<ellipse fill="#edf8b1" stroke="black" cx="5588.26" cy="-2296.6" rx="106.18" ry="106.18"/>
+<text text-anchor="middle" x="5588.26" y="-2272.17" font-family="Arial" font-size="64.00">era</text>
+</a>
+</g>
+</g>
+<!-- nations -->
+<g id="nations" class="node">
+<title>nations</title>
+<g id="a_nations"><a xlink:title="'41_truman_1949'">
+<ellipse fill="#c7e9b4" stroke="black" cx="4136.96" cy="-1806.75" rx="114.81" ry="114.81"/>
+<text text-anchor="middle" x="4136.96" y="-1782.33" font-family="Arial" font-size="64.00">nations</text>
+</a>
+</g>
+</g>
+<!-- dream -->
+<g id="dream" class="node">
+<title>dream</title>
+<g id="a_dream"><a xlink:title="'48_carter_1977'&#10;'53_clinton_1997'&#10;'58_trump_2017'">
+<ellipse fill="#edf8b1" stroke="black" cx="5426.45" cy="-3371.29" rx="136.54" ry="136.54"/>
+<text text-anchor="middle" x="5426.45" y="-3346.86" font-family="Arial" font-size="64.00">dream</text>
+</a>
+</g>
+</g>
+<!-- provision -->
+<g id="provision" class="node">
+<title>provision</title>
+<g id="a_provision"><a xlink:title="'19_lincoln_1861'">
+<ellipse fill="#1d91c0" stroke="black" cx="1482.52" cy="-1878.28" rx="133.07" ry="133.07"/>
+<text text-anchor="middle" x="1482.52" y="-1853.85" font-family="Arial" font-size="64.00">provision</text>
+</a>
+</g>
+</g>
+<!-- minority -->
+<g id="minority" class="node">
+<title>minority</title>
+<g id="a_minority"><a xlink:title="'19_lincoln_1861'">
+<ellipse fill="#1d91c0" stroke="black" cx="1527.93" cy="-2139.15" rx="119.55" ry="119.55"/>
+<text text-anchor="middle" x="1527.93" y="-2114.72" font-family="Arial" font-size="64.00">minority</text>
+</a>
+</g>
+</g>
+<!-- renewal -->
+<g id="renewal" class="node">
+<title>renewal</title>
+<g id="a_renewal"><a xlink:title="'52_clinton_1993'">
+<ellipse fill="#edf8b1" stroke="black" cx="4864.84" cy="-2120.04" rx="125.64" ry="125.64"/>
+<text text-anchor="middle" x="4864.84" y="-2095.61" font-family="Arial" font-size="64.00">renewal</text>
+</a>
+</g>
+</g>
+<!-- voice -->
+<g id="voice" class="node">
+<title>voice</title>
+<g id="a_voice"><a xlink:title="'46_nixon_1969'">
+<ellipse fill="#edf8b1" stroke="black" cx="3324.37" cy="-462.63" rx="137.82" ry="137.82"/>
+<text text-anchor="middle" x="3324.37" y="-438.2" font-family="Arial" font-size="64.00">voice</text>
+</a>
+</g>
+</g>
+<!-- fugitive -->
+<g id="fugitive" class="node">
+<title>fugitive</title>
+<g id="a_fugitive"><a xlink:title="'19_lincoln_1861'">
+<ellipse fill="#1d91c0" stroke="black" cx="1599.65" cy="-1617.34" rx="119.7" ry="119.7"/>
+<text text-anchor="middle" x="1599.65" y="-1592.92" font-family="Arial" font-size="64.00">fugitive</text>
+</a>
+</g>
+</g>
+<!-- free -->
+<g id="free" class="node">
+<title>free</title>
+<g id="a_free"><a xlink:title="'42_eisenhower_1953'">
+<ellipse fill="#c7e9b4" stroke="black" cx="4414.59" cy="-694.88" rx="258.5" ry="258.5"/>
+<text text-anchor="middle" x="4414.59" y="-670.46" font-family="Arial" font-size="64.00">free</text>
+</a>
+</g>
+</g>
+<!-- challenge -->
+<g id="challenge" class="node">
+<title>challenge</title>
+<g id="a_challenge"><a xlink:title="'52_clinton_1993'">
+<ellipse fill="#edf8b1" stroke="black" cx="5169.94" cy="-2112.42" rx="141.44" ry="141.44"/>
+<text text-anchor="middle" x="5169.94" y="-2088" font-family="Arial" font-size="64.00">challenge</text>
+</a>
+</g>
+</g>
+<!-- earth -->
+<g id="earth" class="node">
+<title>earth</title>
+<g id="a_earth"><a xlink:title="'46_nixon_1969'">
+<ellipse fill="#edf8b1" stroke="black" cx="3632.99" cy="-458.3" rx="161.74" ry="161.74"/>
+<text text-anchor="middle" x="3632.99" y="-433.88" font-family="Arial" font-size="64.00">earth</text>
+</a>
+</g>
+</g>
+<!-- productivity -->
+<g id="productivity" class="node">
+<title>productivity</title>
+<g id="a_productivity"><a xlink:title="'42_eisenhower_1953'">
+<ellipse fill="#c7e9b4" stroke="black" cx="3947.15" cy="-819.97" rx="184.49" ry="184.49"/>
+<text text-anchor="middle" x="3947.15" y="-795.55" font-family="Arial" font-size="64.00">productivity</text>
+</a>
+</g>
+</g>
+<!-- faith -->
+<g id="faith" class="node">
+<title>faith</title>
+<g id="a_faith"><a xlink:title="'42_eisenhower_1953'">
+<ellipse fill="#c7e9b4" stroke="black" cx="3561.21" cy="-1082.36" rx="187.88" ry="187.88"/>
+<text text-anchor="middle" x="3561.21" y="-1057.93" font-family="Arial" font-size="64.00">faith</text>
+</a>
+</g>
+</g>
+<!-- institution -->
+<g id="institution" class="node">
+<title>institution</title>
+<g id="a_institution"><a xlink:title="'13_van_buren_1837'">
+<ellipse fill="#1d91c0" stroke="black" cx="2517.49" cy="-479.44" rx="186.17" ry="186.17"/>
+<text text-anchor="middle" x="2517.49" y="-455.01" font-family="Arial" font-size="64.00">institution</text>
+</a>
+</g>
+</g>
+<!-- case -->
+<g id="case" class="node">
+<title>case</title>
+<g id="a_case"><a xlink:title="'19_lincoln_1861'">
+<ellipse fill="#1d91c0" stroke="black" cx="1885" cy="-1655.83" rx="137.82" ry="137.82"/>
+<text text-anchor="middle" x="1885" y="-1631.41" font-family="Arial" font-size="64.00">case</text>
+</a>
+</g>
+</g>
+<!-- today -->
+<g id="today" class="node">
+<title>today</title>
+<g id="a_today"><a xlink:title="'40_roosevelt_franklin_1945'&#10;'52_clinton_1993'">
+<ellipse fill="#c7e9b4" stroke="black" cx="5389.69" cy="-1552.14" rx="196.19" ry="196.19"/>
+<text text-anchor="middle" x="5389.69" y="-1527.71" font-family="Arial" font-size="64.00">today</text>
+</a>
+</g>
+</g>
+<!-- slave -->
+<g id="slave" class="node">
+<title>slave</title>
+<g id="a_slave"><a xlink:title="'19_lincoln_1861'">
+<ellipse fill="#1d91c0" stroke="black" cx="1727.63" cy="-1908.95" rx="102.38" ry="102.38"/>
+<text text-anchor="middle" x="1727.63" y="-1884.53" font-family="Arial" font-size="64.00">slave</text>
+</a>
+</g>
+</g>
+<!-- catch -->
+<g id="catch" class="node">
+<title>catch</title>
+<g id="a_catch"><a xlink:title="'46_nixon_1969'">
+<ellipse fill="#edf8b1" stroke="black" cx="3382.21" cy="-749.58" rx="93.06" ry="93.06"/>
+<text text-anchor="middle" x="3382.21" y="-725.16" font-family="Arial" font-size="64.00">catch</text>
+</a>
+</g>
+</g>
+<!-- idea -->
+<g id="idea" class="node">
+<title>idea</title>
+<g id="a_idea"><a xlink:title="'52_clinton_1993'">
+<ellipse fill="#edf8b1" stroke="black" cx="5117.08" cy="-2383.14" rx="121.19" ry="121.19"/>
+<text text-anchor="middle" x="5117.08" y="-2358.72" font-family="Arial" font-size="64.00">idea</text>
+</a>
+</g>
+</g>
+<!-- moment -->
+<g id="moment" class="node">
+<title>moment</title>
+<g id="a_moment"><a xlink:title="'46_nixon_1969'">
+<ellipse fill="#edf8b1" stroke="black" cx="3098.45" cy="-772.33" rx="140.34" ry="140.34"/>
+<text text-anchor="middle" x="3098.45" y="-747.9" font-family="Arial" font-size="64.00">moment</text>
+</a>
+</g>
+</g>
+<!-- ballot -->
+<g id="ballot" class="node">
+<title>ballot</title>
+<g id="a_ballot"><a xlink:title="'26_harrison_1889'">
+<ellipse fill="#41b6c4" stroke="black" cx="1622.56" cy="-1346.01" rx="85.06" ry="85.06"/>
+<text text-anchor="middle" x="1622.56" y="-1321.58" font-family="Arial" font-size="64.00">ballot</text>
+</a>
+</g>
+</g>
+<!-- false -->
+<g id="false" class="node">
+<title>false</title>
+<g id="a_false"><a xlink:title="'05_jefferson_1805'">
+<ellipse fill="#225ea8" stroke="black" cx="1643.81" cy="-371.4" rx="100.4" ry="100.4"/>
+<text text-anchor="middle" x="1643.81" y="-346.97" font-family="Arial" font-size="64.00" fill="white">false</text>
+</a>
+</g>
+</g>
+<!-- british -->
+<g id="british" class="node">
+<title>british</title>
+<g id="a_british"><a xlink:title="'07_madison_1813'">
+<ellipse fill="#225ea8" stroke="black" cx="2564.28" cy="-6237.2" rx="94.36" ry="94.36"/>
+<text text-anchor="middle" x="2564.28" y="-6212.78" font-family="Arial" font-size="64.00" fill="white">british</text>
+</a>
+</g>
+</g>
+<!-- savage -->
+<g id="savage" class="node">
+<title>savage</title>
+<g id="a_savage"><a xlink:title="'07_madison_1813'">
+<ellipse fill="#225ea8" stroke="black" cx="2563.99" cy="-7096.23" rx="124.99" ry="124.99"/>
+<text text-anchor="middle" x="2563.99" y="-7071.8" font-family="Arial" font-size="64.00" fill="white">savage</text>
+</a>
+</g>
+</g>
+<!-- war -->
+<g id="war" class="node">
+<title>war</title>
+<g id="a_war"><a xlink:title="'07_madison_1813'&#10;'20_lincoln_1865'">
+<ellipse fill="#225ea8" stroke="black" cx="3885.65" cy="-6666.31" rx="263.11" ry="263.11"/>
+<text text-anchor="middle" x="3885.65" y="-6641.89" font-family="Arial" font-size="64.00" fill="white">war</text>
+</a>
+</g>
+</g>
+<!-- woe -->
+<g id="woe" class="node">
+<title>woe</title>
+<g id="a_woe"><a xlink:title="'20_lincoln_1865'">
+<ellipse fill="#1d91c0" stroke="black" cx="4647.8" cy="-7170.57" rx="74.48" ry="74.48"/>
+<text text-anchor="middle" x="4647.8" y="-7146.14" font-family="Arial" font-size="64.00">woe</text>
+</a>
+</g>
+</g>
+<!-- insurgent -->
+<g id="insurgent" class="node">
+<title>insurgent</title>
+<g id="a_insurgent"><a xlink:title="'20_lincoln_1865'">
+<ellipse fill="#1d91c0" stroke="black" cx="5237.91" cy="-6329.49" rx="166.63" ry="166.63"/>
+<text text-anchor="middle" x="5237.91" y="-6305.07" font-family="Arial" font-size="64.00">insurgent</text>
+</a>
+</g>
+</g>
+<!-- offense -->
+<g id="offense" class="node">
+<title>offense</title>
+<g id="a_offense"><a xlink:title="'20_lincoln_1865'">
+<ellipse fill="#1d91c0" stroke="black" cx="5237.86" cy="-7003.81" rx="120.37" ry="120.37"/>
+<text text-anchor="middle" x="5237.86" y="-6979.38" font-family="Arial" font-size="64.00">offense</text>
+</a>
+</g>
+</g>
+<!-- god -->
+<g id="god" class="node">
+<title>god</title>
+<g id="a_god"><a xlink:title="'20_lincoln_1865'">
+<ellipse fill="#1d91c0" stroke="black" cx="4648.35" cy="-6163.76" rx="201.76" ry="201.76"/>
+<text text-anchor="middle" x="4648.35" y="-6139.33" font-family="Arial" font-size="64.00">god</text>
+</a>
+</g>
+</g>
+<!-- familiar -->
+<g id="familiar" class="node">
+<title>familiar</title>
+<g id="a_familiar"><a xlink:title="'32_wilson_1913'">
+<ellipse fill="#7fcdbb" stroke="black" cx="4013.29" cy="-5612.49" rx="130.82" ry="130.82"/>
+<text text-anchor="middle" x="4013.29" y="-5588.06" font-family="Arial" font-size="64.00">familiar</text>
+</a>
+</g>
+</g>
+<!-- question -->
+<g id="question" class="node">
+<title>question</title>
+<g id="a_question"><a xlink:title="'18_buchanan_1857'">
+<ellipse fill="#1d91c0" stroke="black" cx="744.45" cy="-2168.61" rx="197" ry="197"/>
+<text text-anchor="middle" x="744.45" y="-2144.18" font-family="Arial" font-size="64.00">question</text>
+</a>
+</g>
+</g>
+<!-- territory -->
+<g id="territory" class="node">
+<title>territory</title>
+<g id="a_territory"><a xlink:title="'18_buchanan_1857'">
+<ellipse fill="#1d91c0" stroke="black" cx="820.36" cy="-3243.97" rx="154.31" ry="154.31"/>
+<text text-anchor="middle" x="820.36" y="-3219.55" font-family="Arial" font-size="64.00">territory</text>
+</a>
+</g>
+</g>
+<!-- specie -->
+<g id="specie" class="node">
+<title>specie</title>
+<g id="a_specie"><a xlink:title="'21_grant_1869'">
+<ellipse fill="#41b6c4" stroke="black" cx="388.08" cy="-2502.02" rx="104.07" ry="104.07"/>
+<text text-anchor="middle" x="388.08" y="-2477.59" font-family="Arial" font-size="64.00">specie</text>
+</a>
+</g>
+</g>
+<!-- debt -->
+<g id="debt" class="node">
+<title>debt</title>
+<g id="a_debt"><a xlink:title="'21_grant_1869'">
+<ellipse fill="#41b6c4" stroke="black" cx="171.14" cy="-3051.33" rx="128.49" ry="128.49"/>
+<text text-anchor="middle" x="171.14" y="-3026.9" font-family="Arial" font-size="64.00">debt</text>
+</a>
+</g>
+</g>
+<!-- payment -->
+<g id="payment" class="node">
+<title>payment</title>
+<g id="a_payment"><a xlink:title="'21_grant_1869'">
+<ellipse fill="#41b6c4" stroke="black" cx="137.91" cy="-2728.1" rx="137.91" ry="137.91"/>
+<text text-anchor="middle" x="137.91" y="-2703.67" font-family="Arial" font-size="64.00">payment</text>
+</a>
+</g>
+</g>
+<!-- dollar -->
+<g id="dollar" class="node">
+<title>dollar</title>
+<g id="a_dollar"><a xlink:title="'21_grant_1869'">
+<ellipse fill="#41b6c4" stroke="black" cx="393.8" cy="-2948.37" rx="86.05" ry="86.05"/>
+<text text-anchor="middle" x="393.8" y="-2923.94" font-family="Arial" font-size="64.00">dollar</text>
+</a>
+</g>
+</g>
+<!-- pay -->
+<g id="pay" class="node">
+<title>pay</title>
+<g id="a_pay"><a xlink:title="'21_grant_1869'">
+<ellipse fill="#41b6c4" stroke="black" cx="449.7" cy="-3296.99" rx="141.57" ry="141.57"/>
+<text text-anchor="middle" x="449.7" y="-3272.57" font-family="Arial" font-size="64.00">pay</text>
+</a>
+</g>
+</g>
+<!-- domingo -->
+<g id="domingo" class="node">
+<title>domingo</title>
+<g id="a_domingo"><a xlink:title="'22_grant_1873'">
+<ellipse fill="#41b6c4" stroke="black" cx="1482.95" cy="-7336.49" rx="155.17" ry="155.17"/>
+<text text-anchor="middle" x="1482.95" y="-7312.06" font-family="Arial" font-size="64.00">domingo</text>
+</a>
+</g>
+</g>
+<!-- transit -->
+<g id="transit" class="node">
+<title>transit</title>
+<g id="a_transit"><a xlink:title="'22_grant_1873'">
+<ellipse fill="#41b6c4" stroke="black" cx="381.77" cy="-7161.72" rx="110.77" ry="110.77"/>
+<text text-anchor="middle" x="381.77" y="-7137.3" font-family="Arial" font-size="64.00">transit</text>
+</a>
+</g>
+</g>
+<!-- santo -->
+<g id="santo" class="node">
+<title>santo</title>
+<g id="a_santo"><a xlink:title="'22_grant_1873'">
+<ellipse fill="#41b6c4" stroke="black" cx="555.64" cy="-6061.31" rx="99.31" ry="99.31"/>
+<text text-anchor="middle" x="555.64" y="-6036.88" font-family="Arial" font-size="64.00">santo</text>
+</a>
+</g>
+</g>
+<!-- proposition -->
+<g id="proposition" class="node">
+<title>proposition</title>
+<g id="a_proposition"><a xlink:title="'22_grant_1873'">
+<ellipse fill="#41b6c4" stroke="black" cx="1657.35" cy="-6234.7" rx="171.35" ry="171.35"/>
+<text text-anchor="middle" x="1657.35" y="-6210.28" font-family="Arial" font-size="64.00">proposition</text>
+</a>
+</g>
+</g>
+<!-- american -->
+<g id="american" class="node">
+<title>american</title>
+<g id="a_american"><a xlink:title="'58_trump_2017'">
+<ellipse fill="#ffffd9" stroke="black" cx="5643.65" cy="-4318.65" rx="241.55" ry="241.55"/>
+<text text-anchor="middle" x="5643.65" y="-4294.22" font-family="Arial" font-size="64.00">american</text>
+</a>
+</g>
+</g>
+<!-- job -->
+<g id="job" class="node">
+<title>job</title>
+<g id="a_job"><a xlink:title="'58_trump_2017'">
+<ellipse fill="#ffffd9" stroke="black" cx="5257.03" cy="-4402.24" rx="102.38" ry="102.38"/>
+<text text-anchor="middle" x="5257.03" y="-4377.82" font-family="Arial" font-size="64.00">job</text>
+</a>
+</g>
+</g>
+<!-- obama -->
+<g id="obama" class="node">
+<title>obama</title>
+<g id="a_obama"><a xlink:title="'58_trump_2017'">
+<ellipse fill="#ffffd9" stroke="black" cx="5566.26" cy="-3945.24" rx="123.66" ry="123.66"/>
+<text text-anchor="middle" x="5566.26" y="-3920.82" font-family="Arial" font-size="64.00">obama</text>
+</a>
+</g>
+</g>
+<!-- interstate -->
+<g id="interstate" class="node">
+<title>interstate</title>
+<g id="a_interstate"><a xlink:title="'31_taft_1909'">
+<ellipse fill="#7fcdbb" stroke="black" cx="536.05" cy="-1818.72" rx="144.52" ry="144.52"/>
+<text text-anchor="middle" x="536.05" y="-1794.29" font-family="Arial" font-size="64.00">interstate</text>
+</a>
+</g>
+</g>
+<!-- business -->
+<g id="business" class="node">
+<title>business</title>
+<g id="a_business"><a xlink:title="'31_taft_1909'">
+<ellipse fill="#7fcdbb" stroke="black" cx="564.99" cy="-1419.4" rx="168.76" ry="168.76"/>
+<text text-anchor="middle" x="564.99" y="-1394.98" font-family="Arial" font-size="64.00">business</text>
+</a>
+</g>
+</g>
+<!-- tariff -->
+<g id="tariff" class="node">
+<title>tariff</title>
+<g id="a_tariff"><a xlink:title="'31_taft_1909'">
+<ellipse fill="#7fcdbb" stroke="black" cx="868.86" cy="-1705.55" rx="127.07" ry="127.07"/>
+<text text-anchor="middle" x="868.86" y="-1681.12" font-family="Arial" font-size="64.00">tariff</text>
+</a>
+</g>
+</g>
+<!-- amendment -->
+<g id="amendment" class="node">
+<title>amendment</title>
+<g id="a_amendment"><a xlink:title="'31_taft_1909'">
+<ellipse fill="#7fcdbb" stroke="black" cx="919.13" cy="-1272.88" rx="176.12" ry="176.12"/>
+<text text-anchor="middle" x="919.13" y="-1248.46" font-family="Arial" font-size="64.00">amendment</text>
+</a>
+</g>
+</g>
+<!-- aright -->
+<g id="aright" class="node">
+<title>aright</title>
+<g id="a_aright"><a xlink:title="'30_roosevelt_theodore_1905'">
+<ellipse fill="#7fcdbb" stroke="black" cx="1361.56" cy="-687.19" rx="111.05" ry="111.05"/>
+<text text-anchor="middle" x="1361.56" y="-662.77" font-family="Arial" font-size="64.00">aright</text>
+</a>
+</g>
+</g>
+<!-- problem -->
+<g id="problem" class="node">
+<title>problem</title>
+<g id="a_problem"><a xlink:title="'30_roosevelt_theodore_1905'">
+<ellipse fill="#7fcdbb" stroke="black" cx="416.19" cy="-687.19" rx="145.19" ry="145.19"/>
+<text text-anchor="middle" x="416.19" y="-662.77" font-family="Arial" font-size="64.00">problem</text>
+</a>
+</g>
+</g>
+<!-- action -->
+<g id="action" class="node">
+<title>action</title>
+<g id="a_action"><a xlink:title="'33_wilson_1917'">
+<ellipse fill="#7fcdbb" stroke="black" cx="5908.4" cy="-6634.12" rx="177.27" ry="177.27"/>
+<text text-anchor="middle" x="5908.4" y="-6609.69" font-family="Arial" font-size="64.00">action</text>
+</a>
+</g>
+</g>
+<!-- counsel -->
+<g id="counsel" class="node">
+<title>counsel</title>
+<g id="a_counsel"><a xlink:title="'33_wilson_1917'">
+<ellipse fill="#7fcdbb" stroke="black" cx="5538.09" cy="-5521.71" rx="118.09" ry="118.09"/>
+<text text-anchor="middle" x="5538.09" y="-5497.29" font-family="Arial" font-size="64.00">counsel</text>
+</a>
+</g>
+</g>
+<!-- purpose -->
+<g id="purpose" class="node">
+<title>purpose</title>
+<g id="a_purpose"><a xlink:title="'33_wilson_1917'">
+<ellipse fill="#7fcdbb" stroke="black" cx="6485.14" cy="-4830.06" rx="223.06" ry="223.06"/>
+<text text-anchor="middle" x="6485.14" y="-4805.64" font-family="Arial" font-size="64.00">purpose</text>
+</a>
+</g>
+</g>
+<!-- stand -->
+<g id="stand" class="node">
+<title>stand</title>
+<g id="a_stand"><a xlink:title="'33_wilson_1917'">
+<ellipse fill="#7fcdbb" stroke="black" cx="7438.8" cy="-5512.76" rx="189.58" ry="189.58"/>
+<text text-anchor="middle" x="7438.8" y="-5488.34" font-family="Arial" font-size="64.00">stand</text>
+</a>
+</g>
+</g>
+<!-- thought -->
+<g id="thought" class="node">
+<title>thought</title>
+<g id="a_thought"><a xlink:title="'33_wilson_1917'">
+<ellipse fill="#7fcdbb" stroke="black" cx="7078.89" cy="-6628.71" rx="135.25" ry="135.25"/>
+<text text-anchor="middle" x="7078.89" y="-6604.29" font-family="Arial" font-size="64.00">thought</text>
+</a>
+</g>
+</g>
+<!-- liberty -->
+<g id="liberty" class="node">
+<title>liberty</title>
+<g id="a_liberty"><a xlink:title="'55_bush_george_w_2005'">
+<ellipse fill="#ffffd9" stroke="black" cx="5023.77" cy="-3616.59" rx="222.37" ry="222.37"/>
+<text text-anchor="middle" x="5023.77" y="-3592.16" font-family="Arial" font-size="64.00">liberty</text>
+</a>
+</g>
+</g>
+<!-- journey -->
+<g id="journey" class="node">
+<title>journey</title>
+<g id="a_journey"><a xlink:title="'57_obama_2013'">
+<ellipse fill="#ffffd9" stroke="black" cx="6409.44" cy="-3356.59" rx="110.72" ry="110.72"/>
+<text text-anchor="middle" x="6409.44" y="-3332.17" font-family="Arial" font-size="64.00">journey</text>
+</a>
+</g>
+</g>
+<!-- creed -->
+<g id="creed" class="node">
+<title>creed</title>
+<g id="a_creed"><a xlink:title="'57_obama_2013'">
+<ellipse fill="#ffffd9" stroke="black" cx="6307.23" cy="-3597.46" rx="96.24" ry="96.24"/>
+<text text-anchor="middle" x="6307.23" y="-3573.04" font-family="Arial" font-size="64.00">creed</text>
+</a>
+</g>
+</g>
+<!-- relationship -->
+<g id="relationship" class="node">
+<title>relationship</title>
+<g id="a_relationship"><a xlink:title="'34_harding_1921'">
+<ellipse fill="#7fcdbb" stroke="black" cx="6479.8" cy="-2670.25" rx="179.2" ry="179.2"/>
+<text text-anchor="middle" x="6479.8" y="-2645.83" font-family="Arial" font-size="64.00">relationship</text>
+</a>
+</g>
+</g>
+<!-- civilization -->
+<g id="civilization" class="node">
+<title>civilization</title>
+<g id="a_civilization"><a xlink:title="'34_harding_1921'">
+<ellipse fill="#7fcdbb" stroke="black" cx="6489.17" cy="-3049.57" rx="151.57" ry="151.57"/>
+<text text-anchor="middle" x="6489.17" y="-3025.15" font-family="Arial" font-size="64.00">civilization</text>
+</a>
+</g>
+</g>
+<!-- leadership -->
+<g id="leadership" class="node">
+<title>leadership</title>
+<g id="a_leadership"><a xlink:title="'37_roosevelt_franklin_1933'">
+<ellipse fill="#c7e9b4" stroke="black" cx="5564.33" cy="-155.72" rx="155.72" ry="155.72"/>
+<text text-anchor="middle" x="5564.33" y="-131.3" font-family="Arial" font-size="64.00">leadership</text>
+</a>
+</g>
+</g>
+<!-- stricken -->
+<g id="stricken" class="node">
+<title>stricken</title>
+<g id="a_stricken"><a xlink:title="'37_roosevelt_franklin_1933'">
+<ellipse fill="#c7e9b4" stroke="black" cx="4476.37" cy="-155.72" rx="140.37" ry="140.37"/>
+<text text-anchor="middle" x="4476.37" y="-131.3" font-family="Arial" font-size="64.00">stricken</text>
+</a>
+</g>
+</g>
+<!-- learn -->
+<g id="learn" class="node">
+<title>learn</title>
+<g id="a_learn"><a xlink:title="'40_roosevelt_franklin_1945'">
+<ellipse fill="#c7e9b4" stroke="black" cx="5274.35" cy="-980.83" rx="125.64" ry="125.64"/>
+<text text-anchor="middle" x="5274.35" y="-956.4" font-family="Arial" font-size="64.00">learn</text>
+</a>
+</g>
+</g>
+<!-- mistake -->
+<g id="mistake" class="node">
+<title>mistake</title>
+<g id="a_mistake"><a xlink:title="'40_roosevelt_franklin_1945'">
+<ellipse fill="#c7e9b4" stroke="black" cx="5272.43" cy="-726.42" rx="120.69" ry="120.69"/>
+<text text-anchor="middle" x="5272.43" y="-701.99" font-family="Arial" font-size="64.00">mistake</text>
+</a>
+</g>
+</g>
+<!-- trend -->
+<g id="trend" class="node">
+<title>trend</title>
+<g id="a_trend"><a xlink:title="'40_roosevelt_franklin_1945'">
+<ellipse fill="#c7e9b4" stroke="black" cx="5500.32" cy="-903.39" rx="92.15" ry="92.15"/>
+<text text-anchor="middle" x="5500.32" y="-878.97" font-family="Arial" font-size="64.00">trend</text>
+</a>
+</g>
+</g>
+<!-- test -->
+<g id="test" class="node">
+<title>test</title>
+<g id="a_test"><a xlink:title="'40_roosevelt_franklin_1945'">
+<ellipse fill="#c7e9b4" stroke="black" cx="5038.82" cy="-754.38" rx="98.35" ry="98.35"/>
+<text text-anchor="middle" x="5038.82" y="-729.95" font-family="Arial" font-size="64.00">test</text>
+</a>
+</g>
+</g>
+<!-- upward -->
+<g id="upward" class="node">
+<title>upward</title>
+<g id="a_upward"><a xlink:title="'40_roosevelt_franklin_1945'">
+<ellipse fill="#c7e9b4" stroke="black" cx="5529.52" cy="-1157.83" rx="120.8" ry="120.8"/>
+<text text-anchor="middle" x="5529.52" y="-1133.4" font-family="Arial" font-size="64.00">upward</text>
+</a>
+</g>
+</g>
+<!-- blow -->
+<g id="blow" class="node">
+<title>blow</title>
+<g id="a_blow"><a xlink:title="'51_bush_george_h_w_1989'">
+<ellipse fill="#edf8b1" stroke="black" cx="1276.19" cy="-5514.6" rx="81.54" ry="81.54"/>
+<text text-anchor="middle" x="1276.19" y="-5490.17" font-family="Arial" font-size="64.00">blow</text>
+</a>
+</g>
+</g>
+<!-- breeze -->
+<g id="breeze" class="node">
+<title>breeze</title>
+<g id="a_breeze"><a xlink:title="'51_bush_george_h_w_1989'">
+<ellipse fill="#edf8b1" stroke="black" cx="385.82" cy="-5373.29" rx="114.82" ry="114.82"/>
+<text text-anchor="middle" x="385.82" y="-5348.86" font-family="Arial" font-size="64.00">breeze</text>
+</a>
+</g>
+</g>
+<!-- friend -->
+<g id="friend" class="node">
+<title>friend</title>
+<g id="a_friend"><a xlink:title="'51_bush_george_h_w_1989'">
+<ellipse fill="#edf8b1" stroke="black" cx="526.4" cy="-4483.54" rx="147.54" ry="147.54"/>
+<text text-anchor="middle" x="526.4" y="-4459.12" font-family="Arial" font-size="64.00">friend</text>
+</a>
+</g>
+</g>
+<!-- word -->
+<g id="word" class="node">
+<title>word</title>
+<g id="a_word"><a xlink:title="'51_bush_george_h_w_1989'">
+<ellipse fill="#edf8b1" stroke="black" cx="1417.2" cy="-4623.74" rx="86.91" ry="86.91"/>
+<text text-anchor="middle" x="1417.2" y="-4599.32" font-family="Arial" font-size="64.00">word</text>
+</a>
+</g>
+</g>
+<!-- pledge -->
+<g id="pledge" class="node">
+<title>pledge</title>
+<g id="a_pledge"><a xlink:title="'44_kennedy_1961'">
+<ellipse fill="#c7e9b4" stroke="black" cx="1239.4" cy="-155.4" rx="155.4" ry="155.4"/>
+<text text-anchor="middle" x="1239.4" y="-130.97" font-family="Arial" font-size="64.00">pledge</text>
+</a>
+</g>
+</g>
+</g>
+</svg>
