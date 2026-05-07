@@ -56,8 +56,8 @@
 | **Bonus**                 |                                       |                                                                                                                        |                                         |      |
 |                           | MongoDB                               | 100-mongo_getstarted.ipynb                                                                                             | —                                       | ✓    |
 |                           |                                       | 101-mongo_inaug_addr.ipynb                                                                                             |                                         | ✓    |
-|                           |                                       | 102-mongo_Netflix_streaming.ipynb                                                                                      |                                         |      |
 |                           | Web scraping                          | 110                                                                                                                    |                                         |      |
 |                           | Git and GitHub                        | 120                                                                                                                    |                                         |      |
 |                           | SVG                                   | 130                                                                                                                    |                                         |      |
+|                           | Dashboard                             | 140-dashboard_wireframe.py                                                                                             |                                         |      |
 
