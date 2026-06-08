@@ -1,63 +1,63 @@
 #course_table 
 
 
-| section                   | subject                               | related data set                        | done |
-| ------------------------- | ------------------------------------- | --------------------------------------- | ---- |
-|                           |                                       |                                         |      |
-| ==**P-1**==               |                                       |                                         |      |
-| **Intro**                 |                                       |                                         |      |
-|                           |                                       | —                                       |      |
-|                           |                                       | —                                       | ✓    |
-|                           |                                       | —                                       | ✓    |
-|                           |                                       | —                                       | ✓    |
-| **Python basics**         |                                       |                                         |      |
-|                           |                                       |                                         | ✓    |
-|                           | Variables and single-value data types | —                                       | ✓    |
-|                           | Arithmetic operators                  | —                                       | ✓    |
-|                           | String methods                        | —                                       | ✓    |
-|                           | Comparison<br>and conditionals        | bellevue_almshouse.csv                  | ✓    |
-|                           |                                       | —                                       | ✓    |
-|                           | List data types                       | —                                       | ✓    |
-|                           | Lists and loops                       | bellevue_almshouse.csv                  | ✓    |
-|                           | Dictionaries                          | bellevue_almshouse.csv                  | ✓    |
-|                           | Sets and tuples                       | bellevue_almshouse.csv                  | ✓    |
-|                           | Loop comprehensions                   | —                                       | ✓    |
-|                           |                                       | —                                       | ✓    |
-| **Input, output**         |                                       |                                         |      |
-|                           | Keyboard input                        | —                                       | ✓    |
-|                           | File I/O                              | sample_file.txt                         | ✓    |
-| **Functions and objects** |                                       |                                         |      |
-|                           | Functions                             | —                                       | ✓    |
-|                           | Classes and objects                   | —                                       | ✓    |
-| **Package management**    |                                       |                                         |      |
-|                           | Package management                    | —                                       | ✓    |
-|                           |                                       |                                         | ✓    |
-| **2D data**               |                                       |                                         |      |
-|                           | Pandas-1                              | bellevue_almshouse.csv                  | ✓    |
-| ==**P-2**==               |                                       |                                         |      |
-|                           | Pandas-2                              | Trans-Atlantic-Slave-Trade_Americas.csv | ✓    |
-|                           | Pandas-3                              | Netflix Streaming                       | ✓    |
-|                           |                                       |                                         |      |
-| **Graphs**                |                                       |                                         |      |
-|                           |                                       |                                         | ✓    |
-|                           | NetworkX                              |                                         | ✓    |
-|                           |                                       |                                         | ✓    |
-|                           | GoT graph                             | Game of Thrones                         | ✓    |
-|                           |                                       |                                         |      |
-|                           |                                       |                                         | ✓    |
-|                           | Netflix graph                         | Netflix Streaming                       | ✓    |
-|                           |                                       |                                         |      |
-|                           |                                       |                                         | ✓    |
-|                           | Inaug addr graph                      | US Pres Inauguration Addresses          | ✓    |
-|                           |                                       |                                         |      |
-|                           | Graph viz                             |                                         | ✓    |
-|                           |                                       |                                         |      |
-|                           |                                       |                                         |      |
-| **Bonus**                 |                                       |                                         |      |
-|                           | MongoDB                               | —                                       | ✓    |
-|                           |                                       |                                         | ✓    |
-|                           | Web scraping                          |                                         |      |
-|                           | Git and GitHub                        |                                         |      |
-|                           | SVG                                   |                                         |      |
-|                           | Dashboard                             |                                         |      |
+| section                   | subject                               | notebook/presentation                                                                                                  | related data set                        | done |
+| ------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---- |
+|                           |                                       |                                                                                                                        |                                         |      |
+| ==**P-1**==               |                                       |                                                                                                                        |                                         |      |
+| **Intro**                 |                                       |                                                                                                                        |                                         |      |
+|                           |                                       | [introducing_me](01_who_am_i.excalidraw.md)                                                                            | —                                       |      |
+|                           |                                       | [what is data science?](02_what_is_data_science.excalidraw.md)                                                         | —                                       | ✓    |
+|                           |                                       | [why python?](03_why_python.excalidraw.md)                                                                             | —                                       | ✓    |
+|                           |                                       | [track agenda](04_agenda.excalidraw.md)                                                                                | —                                       | ✓    |
+| **Python basics**         |                                       |                                                                                                                        |                                         |      |
+|                           |                                       | [Jupyter notebooks](P1_Jupyter_notebooks.excalidraw.md)                                                                |                                         | ✓    |
+|                           | Variables and single-value data types | 010-Variables.ipynb                                                                                                    | —                                       | ✓    |
+|                           | Arithmetic operators                  | 011-Arithmetic operators.ipynb                                                                                         | —                                       | ✓    |
+|                           | String methods                        | 012-String methods.ipynb                                                                                               | —                                       | ✓    |
+|                           | Comparison<br>and conditionals        | 013-Comparison-Conditionals.ipynb                                                                                      | bellevue_almshouse.csv                  | ✓    |
+|                           |                                       | [P1_wrap_up_01](presentations/P1_wrap_up_01.excalidraw)                                                                | —                                       | ✓    |
+|                           | List data types                       | 014-list_data_types                                                                                                    | —                                       | ✓    |
+|                           | Lists and loops                       | 015-Lists_and_Loops.ipynb                                                                                              | bellevue_almshouse.csv                  | ✓    |
+|                           | Dictionaries                          | 016-Dictionaries.ipynb                                                                                                 | bellevue_almshouse.csv                  | ✓    |
+|                           | Sets and tuples                       | 017-Sets-and-tuples.ipynb                                                                                              | bellevue_almshouse.csv                  | ✓    |
+|                           | Loop comprehensions                   | 018-Loop_comprehension.ipynb                                                                                           | —                                       | ✓    |
+|                           |                                       | [P1_wrap_up_02](presentations/P1_wrap_up_02.excalidraw)                                                                | —                                       | ✓    |
+| **Input, output**         |                                       |                                                                                                                        |                                         |      |
+|                           | Keyboard input                        | 020-Keyboard_input.ipynb                                                                                               | —                                       | ✓    |
+|                           | File I/O                              | 021-Files.ipynb                                                                                                        | sample_file.txt                         | ✓    |
+| **Functions and objects** |                                       |                                                                                                                        |                                         |      |
+|                           | Functions                             | 030-Functions.ipynb                                                                                                    | —                                       | ✓    |
+|                           | Classes and objects                   | 040-Classes_and_objects.ipynb                                                                                          | —                                       | ✓    |
+| **Package management**    |                                       |                                                                                                                        |                                         |      |
+|                           | Package management                    | [050-Package Management](05_package_management.excalidraw.md)                                                          | —                                       | ✓    |
+|                           |                                       | [P1_wrap_up_03](presentations/P1_wrap_up_03.excalidraw)                                                                |                                         | ✓    |
+| **2D data**               |                                       |                                                                                                                        |                                         |      |
+|                           | Pandas-1                              | 061-Pandas-Basics.ipynb                                                                                                | bellevue_almshouse.csv                  | ✓    |
+| ==**P-2**==               |                                       |                                                                                                                        |                                         |      |
+|                           | Pandas-2                              | 062-Pandas-Basics.ipynb                                                                                                | Trans-Atlantic-Slave-Trade_Americas.csv | ✓    |
+|                           | Pandas-3                              | 063-Pandas-Clean_up.ipynb                                                                                              | Netflix Streaming                       | ✓    |
+|                           |                                       | [P2_wrap_up_01](presentations/P2_wrap_up_01.excalidraw)                                                                |                                         |      |
+| **Graphs**                |                                       |                                                                                                                        |                                         |      |
+|                           |                                       | [Graph theory](file:///c:/users/nlutt/mydgnet/methods_26/pres_26/01_graph_theory.pptx)<br>                             |                                         | ✓    |
+|                           | NetworkX                              | 070-NetworkX_intro.ipynb                                                                                               |                                         | ✓    |
+|                           |                                       | [Overview](file:///c:/users/nlutt/mydgnet/methods_26/pres_26/00_overview.pptx)                                         |                                         | ✓    |
+|                           | GoT graph                             | 071-GoT_graph.ipynb                                                                                                    | Game of Thrones                         | ✓    |
+|                           |                                       | [P2_wrap_up_02](obsidian://open?vault=notes_26&file=presentations%2FP2_wrap_up_02.excalidraw)                          |                                         |      |
+|                           |                                       | [Bipartite graphs and graph projection](file:///c:/users/nlutt/mydgnet/methods_26/pres_26/02_bipartite_graphs.pptx)    |                                         | ✓    |
+|                           | Netflix graph                         | 072-Netflix_graphs.ipynb                                                                                               | Netflix Streaming                       | ✓    |
+|                           |                                       | [P2_wrap_up_03](obsidian://open?vault=notes_26&file=presentations%2FP2_wrap_up_03.excalidraw)                          |                                         |      |
+|                           |                                       | [Corpus building and text vectorization](file:///c:/Users/nlutt/myDGNet/methods_26/pres_26/03_text_vectorization.pptx) |                                         | ✓    |
+|                           | Inaug addr graph                      | 073-InaugAddr_graphs.ipynb                                                                                             | US Pres Inauguration Addresses          | ✓    |
+|                           |                                       | [P2_wrap_up_04](obsidian://open?vault=notes_26&file=presentations%2FP2_wrap_up_04.excalidraw)                          |                                         |      |
+|                           | Graph viz                             | 080-static_viz_Graphviz.ipynb                                                                                          |                                         | ✓    |
+|                           |                                       | 081-interactive_viz_Bokeh.ipynb                                                                                        |                                         |      |
+|                           |                                       |                                                                                                                        |                                         |      |
+| **Bonus**                 |                                       |                                                                                                                        |                                         |      |
+|                           | MongoDB                               | 100-mongo_getstarted.ipynb                                                                                             | —                                       | ✓    |
+|                           |                                       | 101-mongo_inaug_addr.ipynb                                                                                             |                                         | ✓    |
+|                           | Web scraping                          | 110                                                                                                                    |                                         |      |
+|                           | Git and GitHub                        | 120                                                                                                                    |                                         |      |
+|                           | SVG                                   | 130                                                                                                                    |                                         |      |
+|                           | Dashboard                             | 140-dashboard_wireframe.py                                                                                             |                                         |      |
 
