@@ -51,7 +51,6 @@
 |                           | Inaug addr graph                      | 073-InaugAddr_graphs.ipynb                                                                                             | US Pres Inauguration Addresses          | ✓    |
 |                           |                                       | [P2_wrap_up_04](obsidian://open?vault=notes_26&file=presentations%2FP2_wrap_up_04.excalidraw)                          |                                         |      |
 |                           | Graph viz                             | 080-static_viz_Graphviz.ipynb                                                                                          |                                         | ✓    |
-|                           |                                       | 081-interactive_viz_Bokeh.ipynb                                                                                        |                                         |      |
 |                           |                                       |                                                                                                                        |                                         |      |
 | **Bonus**                 |                                       |                                                                                                                        |                                         |      |
 |                           | MongoDB                               | 100-mongo_getstarted.ipynb                                                                                             | —                                       | ✓    |
@@ -59,5 +58,5 @@
 |                           | Web scraping                          | 110                                                                                                                    |                                         |      |
 |                           | Git and GitHub                        | 120                                                                                                                    |                                         |      |
 |                           | SVG                                   | 130                                                                                                                    |                                         |      |
-|                           | Dashboard                             | 140-dashboard_wireframe.py                                                                                             |                                         |      |
+|                           | Dashboard                             | 140-dashboard.py                                                                                                       |                                         |      |
 
